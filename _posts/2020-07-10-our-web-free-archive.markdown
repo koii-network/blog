@@ -41,7 +41,8 @@ We want to make it easy for everyone to access information and make decisions. A
 When you share your scraped data feeds with the public archive, you'll even able to earn rewards, and get more scraping for free in the future.
 
 <h1>We don't want to become big tech</h1>
-We aren't in this to become Big Brother- in fact, we're working on building a decentralized governance model for the Golfish network, which will ensure fair and equitable access to market data for anyone who needs it. 
+We aren't in this to become Big Brother- in fact, we're working on building a decentralized governance model for the Goldfish network, which will ensure fair and equitable access to market data for anyone who needs it. 
 
 Furthermore, we believe that through public recording of site data, we can also ensure journalistic integrity, and even help to correct corruption wherever it begins to grow.
 
+The latest version of this post and project has been documented here koii.network/universal-content-registry.pdf
