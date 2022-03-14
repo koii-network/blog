@@ -37,6 +37,6 @@ Pre-register today to run a [node](https://docs.google.com/forms/d/e/1FAIpQLSduD
 
 **Better media makes a better world; decentralization lets you own it.**
 
-To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents){:target="\_blank"} or check out our [tutorial](https://blog.koii.network/How-To-Get-Free-Koi-A-Faucet-Wallet-Tutorial/){:target="\_blank"} to learn how.
+To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents){:target="\_blank"} or check out our [tutorial](https://blog.koii.network/Simplified-Finnie-Installation-Guide/){:target="\_blank"} to learn how.
 
 Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koii){:target="\_blank"}_, and follow us on [Twitter](https://twitter.com/open_koi){:target="\_blank"}_.
