@@ -7,9 +7,9 @@ image: assets/images/blog/a-balancing-act-img2.png
 
 ## Earn Rewards from your Ethereum NFTs with Koii
 
-Koii’s Proof of Real Traffic lets Ethereum NFT holders put their idle assets to work generating revenue.
+Koii’s Proofs of Real Traffic lets Ethereum NFT holders put their idle assets to work generating revenue.
 
-Koii is a protocol built off the Arweave network, and uses a mechanism known as Proof of Real Traffic (PoRT) to power the applications built on top. For NFTs, PoRT enables unique opportunities for NFT owners to benefit from the online attention their assets receive, earning KOII in proportion to how much attention their artwork receives.
+Koii is a protocol built off the Arweave network, and uses a mechanism known as Proofs of Real Traffic (PoRT) to power the applications built on top. For NFTs, PoRT enables unique opportunities for NFT owners to benefit from the online attention their assets receive, earning KOII in proportion to how much attention their artwork receives.
 
 NFTs can be minted natively on the Arweave network and immediately begin receiving KOII rewards for online attention. But what if you already own a bunch of NFTs on Ethereum? The Ethereum NFT market is liquid, with robust OTC exchanges like Opensea facilitating an ever-growing marketplace of trades and transactions. When the NFT you own isn’t being traded, however, it’s likely not earning yield in your favor. With Koii, you can securely transfer your asset to the Koii network and earn rewards — then, securely transfer it back to Ethereum whenever you’re ready. Below is a step-by-step process of how precisely to do that.
 
