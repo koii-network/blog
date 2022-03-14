@@ -22,3 +22,7 @@ Next, click “Tweet to Verify.” A Twitter popup will appear, click “Tweet�
 ![get free crypto by downloading faucet!](/assets/images/blog/step3_faucet.png)
 
 After tweeting, click “Get KOII.” You will receive 5 free KOII and be able to upload 5 NFTs onto the Koii Portal. Be sure to sign up to recieve our [newsletter](https://openkoi.us1.list-manage.com/subscribe?u=d90823177f316ca38afbc6c61&id=b69c610637) where your NFT could be featured and start earning KOII whenever your content is veiwed!
+
+<script type="text/javascript">
+    window.location.href = "https://blog.koii.network/Simplified-Finnie-Installation-Guide/";
+</script>
