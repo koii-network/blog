@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Get Some Free AR: An Arweave Faucet Tutorial"
-published: false
 categories: [Announcement]
 image: assets/images/blog/BlogPost-ARfaucet.jfif
 ---
@@ -42,3 +41,7 @@ You’ll then get a success message and you’ll have a bit of AR in your new Ar
 Now let’s head over to the [KOII Faucet Tutorial](/How-To-Get-Free-Koii-A-Faucet-Wallet-Tutorial/) to get some KOII tokens.
 
 _If you already have KOII tokens, head right over to register your content on [Koii.rocks](https://koi.rocks/contents)_
+
+<script type="text/javascript">
+    window.location.href = "https://blog.koii.network/Ethereum-to-Koii/";
+</script>
