@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Get Some Free AR: An Arweave Faucet Tutorial"
+published: false
 categories: [Announcement]
 image: assets/images/blog/BlogPost-ARfaucet.jfif
 ---
