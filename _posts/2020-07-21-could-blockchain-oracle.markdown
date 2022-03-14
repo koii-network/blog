@@ -15,6 +15,8 @@ While this is mostly an experiment right now, it's our hope that through the suc
 
 * We currently review sites numerous times to prevent IP spoofing, but we are now also working towards a tool that allows you to scrape using a network of thousands of peer devices. 
 
+The latest version of this post and project has been documented here https://koii.network/universal-content-registry.pdf
+
 <h4>Contact Us<h4>
 For more information about blockchain developer support, please reach out to us on Twitter.
 
