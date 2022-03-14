@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "2020 Economy- Online or Bust"
-published: false
 author: al
 categories: [ Vision, Guide ]
 image: assets/images/2.jpg
