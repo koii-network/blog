@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Connect with IFTTT to make your E-Commerce Easier"
-published: false
 categories: [ Automation ]
 image: assets/images/blog/IFTTT-Banner.png
 ---
