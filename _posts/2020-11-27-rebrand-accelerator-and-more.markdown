@@ -33,6 +33,4 @@ You can nominate any website to join the record, and it will be stored on the re
 
 Installing the Koii Node is easy, but you'll be making a difference, and you'll get to own a piece of the system forever.
 
-Join our whitelist to be notified once the node is available, and let us help you own your truth.
-
-<a href="https://xyz.us2.list-manage.com/subscribe?u=9842d27bd152b5314774b184c&id=0d4d6aff75">Click here to reserve your seat</a>
+Sign up to run a node https://koii.me/KoiiNode
