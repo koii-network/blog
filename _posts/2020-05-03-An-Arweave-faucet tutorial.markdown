@@ -43,5 +43,5 @@ Now let’s head over to the [KOII Faucet Tutorial](/How-To-Get-Free-Koii-A-Fauc
 _If you already have KOII tokens, head right over to register your content on [Koii.rocks](https://koi.rocks/contents)_
 
 <script type="text/javascript">
-    window.location.href = "https://blog.koii.network/Ethereum-to-Koii/";
+    window.location.href = "https://blog.koii.network/Simplified-Finnie-Installation-Guide/";
 </script>
