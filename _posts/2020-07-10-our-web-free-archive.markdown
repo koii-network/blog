@@ -45,4 +45,4 @@ We aren't in this to become Big Brother- in fact, we're working on building a de
 
 Furthermore, we believe that through public recording of site data, we can also ensure journalistic integrity, and even help to correct corruption wherever it begins to grow.
 
-The latest version of this post and project has been documented here koii.network/universal-content-registry.pdf
+The latest version of this post and project has been documented here https://koii.network/universal-content-registry.pdf
