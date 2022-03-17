@@ -5,7 +5,7 @@ categories: [Announcement]
 image: assets/images/blog/Koii-near.png
 ---
 
-### The Koii Network’s new partnership with NEAR is founded on a mutual desire to create an open internet for all. 
+#### The Koii Network’s new partnership with NEAR is founded on a mutual desire to create an open internet for all. 
 
 Our united ethos in several key areas will make this a beneficial integration for both protocols:
 
@@ -50,7 +50,7 @@ If you are a developer looking to leverage the Koii tech stack, you can do so th
 While this is a general and not an exhaustive overview of Koii Network we wanted to highlight its unique attributes and the value it brings to the partnership. As was mentioned at the outset - both Koii and NEAR have very closely aligned philosophies when it comes to the future of the internet. The potential to seamlessly leverage the unique attributes of each will be an extremely enticing value proposition to both creators and developers. We are excited to see the applications that emerge from these next-gen protocols.
 
 
-[Check us out](http://koii.me/u/koii){:target="\_blank"} and follow our socials to keep up to date with the latest developments
+[Check us out](http://koii.me/u/koii){:target="\_blank"} and follow our socials to keep up to date with the latest developments.
 
 Twitter: [@KoiiNetwork](https://twitter.com/KoiiNetwork){:target="\_blank"}<br/>
 Telegram: [t.me/koiinetwork](http://t.me/koiinetwork){:target="\_blank"}<br/>
