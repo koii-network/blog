@@ -29,7 +29,7 @@ To fully appreciate the potential of this partnership let's take a closer look a
 
 ## What Makes Koii Unique
 
-Koii Network is a protocol focused on building the tools and infrastructure needed to decentralize and open the internet. What sets Koii apart from other networks is its focus on attention. Koii’s unique toolset is designed to help developers and creators permanently own their content and fully benefit from the attention the content generates.
+Koii Network is a protocol focused on building the tools and infrastructure needed to decentralize and open the internet. What sets Koii apart from other networks is its focus on **attention**. Koii’s unique toolset is designed to help developers and creators permanently own their content and fully benefit from the attention the content generates.
 
 Koii does this by tracking and rewarding the attention that registered content receives across the internet. As a result, the protocol is able to monetize attention without requiring a creator or developer to give up ownership rights or worry about arbitrary changes to a platform’s monetization policies. Attention tracking also works to incentivize a network of lightweight chain-agnostic Koii Nodes that provide fast and inexpensive ways to build, run, and deploy decentralized apps (“dApps”) untethered to any specific blockchain.
 
@@ -41,9 +41,9 @@ In practice, this means that PoRT yields daily KOII proportional to the verified
 
 ## Interacting and Building with Koii
 
-How can you get a feel for what the Koii protocol is capable of? If you’re a creator and would like to experience Koii, the easiest way is to download and install the Finnie wallet browser extension. From there you will be able to register and manage your content, mint an Atomic NFT, create a Decentralized Identity (Koii DID), manage your Arweave and Ethereum Keys, earn attention rewards, and even send and receive Koii tokens. 
+How can you get a feel for what the Koii protocol is capable of? If you’re a creator and would like to experience Koii, the easiest way is to download and install the [Finnie wallet](https://koii.me/finnie){:target="\_blank"} browser extension. From there you will be able to register and manage your content, mint an Atomic NFT, create a Decentralized Identity (Koii DID), manage your Arweave and Ethereum Keys, earn attention rewards, and even send and receive Koii tokens. 
 
-If you are a developer looking to leverage the Koii tech stack, you can do so through the Koii SDK and Koii-X UI template library. The templates are built in 100% Javascript and are designed to help developers of all skill levels build and deploy applications quickly and easily. To see just how easy the process can be, take a look at a step-by-step tutorial on how to deploy your own crowdfunding portal in 10 minutes using Koii-X.
+If you are a developer looking to leverage the Koii tech stack, you can do so through the Koii SDK and Koii-X UI template library. The templates are built in 100% Javascript and are designed to help developers of all skill levels build and deploy applications quickly and easily. To see just how easy the process can be, take a look at a step-by-step [tutorial](https://blog.koii.network/Deploy-your-own-crowdfunding-portal-in-10-minutes-using-Koii-X/){:target="\_blank"} on how to deploy your own crowdfunding portal in 10 minutes using Koii-X.
 
 ## Koii X NEAR Partnership
 
