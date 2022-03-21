@@ -15,7 +15,9 @@ The upcoming implementation of K2 makes the partnership with InfStones extremely
 
 ## Who is InfStones?
 
-InfStones is the world’s leading blockchain infrastructure service provider. Founded in 2018, InfStones has offices in Beijing, Silicon Valley, Dallas, and Montreal. The technical team of InfStones is composed of senior engineers and technical experts from well-known companies such as Google, Oracle, Alibaba, and Microsoft. With a team of engineers on two continents, InfStones is dedicated to bringing down the traditional barriers to connecting with the blockchain, allowing clients to build their applications on many blockchain networks quickly. Currently, InfStones provides services to institutional clients around the globe, supporting over 10,000 nodes on more than 50 significant blockchains.
+InfStones is the world’s leading blockchain infrastructure service provider. Founded in 2018, InfStones has offices in Beijing, Silicon Valley, Dallas, and Montreal. The technical team of InfStones is composed of senior engineers and technical experts from well-known companies such as Google, Oracle, Alibaba, and Microsoft.
+
+ With a team of engineers on two continents, InfStones is dedicated to bringing down the traditional barriers to connecting with the blockchain, allowing clients to build their applications on many blockchain networks quickly. Currently, InfStones provides services to institutional clients around the globe, supporting over 10,000 nodes on more than 50 significant blockchains.
 
 ## What is the Koii Network?
 
