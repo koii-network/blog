@@ -25,6 +25,8 @@ The Koii Network is a protocol focused on building infrastructure to enable a mo
 
 ## Is Koii a Blockchain?
 
+Koii is a network layer, not a blockchain, allowing Koii to interact with multiple blockchains on behalf of the network. However, it operates similarly to a Layer 1 blockchain in the way it manages internal consensus using its stake-based approach called PoRT.
+
 Koii has a [suite of software tools and simple dApp templates](https://docs.koii.network/koii-software-toolkit-sdk/what-is-the-koii-sdk){:target="\_blank"} (Koii-X) that make it easy for developers to build tokenized protocols and applications that can utilize Atomic NFTs, PoRT, and attention tracking.
 
 To learn more about the tools that Koii has available to developers and creators, check out the [Koii Wiki](http://docs.koii.network){:target="\_blank"} and the [Koii Blog](https://blog.koii.network){:target="\_blank"}. Follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"} and join our [Telegram](https://t.me/koiinetwork){:target="\_blank"} group!
