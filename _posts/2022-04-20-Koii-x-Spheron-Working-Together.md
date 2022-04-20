@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Koii x Spheron Working Together to Support Developers"
+title: "Koii x Spheron Working: Together to Support Developers"
 categories: [Announcement]
 image: assets/images/blog/Spheron Together.png
 ---
