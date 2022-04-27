@@ -17,23 +17,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
 
-authors:
-  sal:
-    name: Sal
-    site: https://www.wowthemes.net
-    avatar: /assets/images/avatar1.jpg
-    bio: "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-    email: wowthemesnet@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+languages: ["en", "ru", "fr", "zh"]
 
-  jane:
-    name: Jane
-    site: https://www.wowthemes.net
-    avatar: /assets/images/avatar2.jpg
-    bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-    email: fakemail@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+exclude_from_localizations: ["assets", "404.html"]
 
 # Defaults
 defaults:
