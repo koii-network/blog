@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-multiple-languages-plugin
 
-languages: ["en", "ru", "fr", "zh"]
+languages: ["en", "ru", "uk", "fr", "zh"]
 
 exclude_from_localizations: ["css", "404.html", "favicon.svg", "images", "js"]
 
