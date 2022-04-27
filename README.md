@@ -1,51 +1,49 @@
-# Jekyll Theme - Mundana by WowThemes.net
+<!-- language-all: javascript -->
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/koii-network/koii.X/main/.github/images/koii_logo.svg" width="224px"/><br/>
+   Koii Blog :newspaper:
+</h1>
+<p align="center">
+   <a href="https://discord.gg/koii" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="cli version" /></a>&nbsp;
+   <a href="http://koii.network/" target="_blank"> <img src="https://img.shields.io/badge/made%20by-koii-blue" alt="made-by-koii" /></a>&nbsp;
+</p>
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+# Welcome
 
-### Documentation
+Welcome to Koii's blog. Here are several steps to create a new blog post.
 
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
+## Languages
 
-### Contribute to Mundana repository
+Blog now support 5 languages: English(default), French, Russian, Ukrainian and Chinese. The blog are stored in folder `_i18n/"lang"/_posts`.
 
-1. In the top-right corner of this page, click **Fork**.
+## Creat New Posts
 
-2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
+Please create the `.md` file under your language folder and name it as `date-blogname.md`, such as `2022-03-17-Koii-is-So-Good.md`.
 
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
+Paste your post's cover image in `images/blog` folder.
 
-3. **Create a branch**: 
+Use this template in your psots header:
 
-   `git checkout -b <my-new-feature-or-fix>`
+```
+---
+layout: post
+title: "Koii is So Good"
+categories: [Announcement]
+image: images/blog/Koii-is-So-Good.png
+---
+```
 
-4. **Make necessary changes and commit those changes**:
+Well done! Now you can start writing your blog!
 
-   `git add .`
+## Preview and Deploy Your Posts
 
-   `git commit -m "new feature or fix"`
+To preview your blog, you need install jekyll environment first. <a href="https://discord.gg/koii" target="_blank">Install Jekyll</a> Then:
 
-5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
+- Clone this repo
+- Switch to your branch
+- Run `bundle install`
+- Run `bundle exec jekyll server`
+- Your blog can now preview at `http://localhost:4000`
 
-   `git push origin <add-your-branch-name>`
-
-6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
-
-That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
-
-
-### Copyright
-
-Copyright (C) 2019 WowThemes.net.
-
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Live Demo
-
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+Create a new pull request to branch `master` and merge it. After a few minutes the blog gonna auto released.

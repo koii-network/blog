@@ -1,8 +1,8 @@
 # Site
 name: "Koii"
 description: Koii keep track of what's on the web. Try today.
-logo: "assets/images/goldfish.svg"
-favicon: "assets/images/goldfish.svg"
+logo: "images/goldfish.svg"
+favicon: "images/goldfish.svg"
 baseurl: ""
 disqus: "disqus_BSQKXyVFLL"
 email: "services@koii.network"
@@ -17,23 +17,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
 
-authors:
-  sal:
-    name: Sal
-    site: https://www.wowthemes.net
-    avatar: /assets/images/avatar1.jpg
-    bio: "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-    email: wowthemesnet@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+languages: ["en", "ru", "uk", "fr", "zh"]
 
-  jane:
-    name: Jane
-    site: https://www.wowthemes.net
-    avatar: /assets/images/avatar2.jpg
-    bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-    email: fakemail@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+exclude_from_localizations: ["css", "404.html", "favicon.svg", "images", "js"]
 
 # Defaults
 defaults:
@@ -43,7 +31,7 @@ defaults:
     values:
       layout: post
       author: Al
-      avatar: /assets/images/goldfish.svg
+      avatar: /images/goldfish.svg
 
   # all pages
   - scope:
