@@ -2,7 +2,7 @@
 layout: post
 title: "The Future of Accountable Information"
 categories: [Vision]
-image: assets/images/horizon.jpg
+image: images/horizon.jpg
 ---
 
 In the words of the great Lao Tzu, "Today's chaos is yesterday's laziness, back for it's rent."

@@ -2,7 +2,7 @@
 layout: post
 title: "Help us write history, and become a victor!"
 categories: [Vision]
-image: assets/images/write-history.jpg
+image: images/write-history.jpg
 ---
 
 As we head into the winter, we're excited to announce that Koii has been accepted into the Outlier Ventures Base Camp program. Outlier has been behind major crypto projects since 2016, and they will be helping us bring our vision of decentralized web services to fruition.

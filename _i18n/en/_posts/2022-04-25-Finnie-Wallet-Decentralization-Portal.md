@@ -2,7 +2,7 @@
 layout: post
 title: "Finnie Wallet - The Everyperson’s Portal to Decentralization"
 categories: [Announcement]
-image: assets/images/blog/Finnie-Wallet.png
+image: images/blog/Finnie-Wallet.png
 ---
 
 # What is Finnie?
@@ -15,7 +15,7 @@ Other crypto wallets provide these services, so what makes Finnie stand out? Sim
 
 ## Who is Finnie For?
 
-_Everyone._ 
+_Everyone._
 
 Within minutes, someone who has never used or held crypto before can interact with a blockchain, hold crypto, mint an NFT and own a little piece of the decentralized web.
 
@@ -27,12 +27,11 @@ The spark that ignited this evolution was the newfound ability to interact with 
 
 There is a similar excitement around blockchain and crypto-based technologies. However, interacting with this technology is not yet a part of people’s everyday lives. Until recently, intuitive products and tools that could help people make use of Web3 didn’t exist. With Finnie, the goal has been to create something that would be easy to use and, more importantly, that people would want to use. It had to be more than just a decentralized version of a Web2 service. It had to be something that people could easily interact with to enable them to do things they could never do before.
 
-
 ## What can you do With Finnie?
 
 _We’re not totally sure._
 
-Let us rephrase that. We are not aware of _everything_ that can be done with this technology. 
+Let us rephrase that. We are not aware of _everything_ that can be done with this technology.
 
 Think of Finnie as a portal that allows anyone to interact with decentralized networks. It enables developers to envision building applications that can take advantage of multiple blockchains. Currently, Finnie allows you to hold and transfer cryptocurrencies/tokens, mint NFTs, NFT collections, manage cryptographic keys and maintain a decentralized personal profile or DID.
 
@@ -58,7 +57,7 @@ In recent months we have been working on several new partnerships that will brin
 
 You can expect this list to grow as Finnie’s abilities expand. Updates that enhance single sign-on and Content Collectives are also on the horizon.
 
-![Finnie Decentralization Portal](/assets/images/blog/Finnie-Wallet-graphics-especs.png)
+![Finnie Decentralization Portal](/images/blog/Finnie-Wallet-graphics-especs.png)
 
 ## Will You Step Through the Portal?
 

@@ -2,7 +2,7 @@
 layout: post
 title: "D I S C O V E R Y series : Darren Kleine"
 categories: [Announcement]
-image: assets/images/blog/Artist-Feature-Darren-Kleine.png
+image: images/blog/Artist-Feature-Darren-Kleine.png
 ---
 
 ### Who are you?

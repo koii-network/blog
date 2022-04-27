@@ -2,7 +2,7 @@
 layout: post
 title: "Koii x Meson Network: A Perfect Decentralized Pairing"
 categories: [Announcement]
-image: ../assets/images/blog/Meson Network.png
+image: images/blog/Meson Network.png
 ---
 
 Curious about what’s going on behind the scenes of decentralization? If so, you should pay attention to Koii’s partnership with the Meson Network. Lets dive into the ways these two networks are working together to create the infrastructure needed to truly scale Web3.

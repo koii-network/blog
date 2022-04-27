@@ -2,7 +2,7 @@
 layout: post
 title: "The Snowden Problem"
 categories: [Announcement]
-image: assets/images/blog/snowdenblogpostcover.jpg
+image: images/blog/snowdenblogpostcover.jpg
 ---
 
 # There are serious problems with the current Web 2.0 paradigm..

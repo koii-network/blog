@@ -2,7 +2,7 @@
 layout: post
 title: "NFTs  - SO HOT, right now?"
 categories: [Announcement]
-image: assets/images/blog/vitalik-the-clown.png
+image: images/blog/vitalik-the-clown.png
 ---
 
 For the original registration of "EthBoy" (shown above), one can visit the <a target="_blank" href="https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-807">async.art</a> gallery. This Non-Fungible Token (NFT) owned artwork was created by <a target="_blank" href="https://async.art/u/trevorjonesart/collection">Trevor Jones</a> and the pseudonymous <a target="_blank" href="https://async.art/u/alottamoney/collection">Alotta Money</a>. While it is technically owned by <a target="_blank" href="https://async.art/u/maxstealth/collection">@maxstealth</a>, a quick Google search shows that "EthBoy" is currently hosted on several NFT galleries, and a number of social media accounts. Once this article is posted, our website will be added to that list. So, what does @maxstealth get for the 260 ETH (~$140k USD) which was paid for it's ownership?
@@ -53,7 +53,7 @@ When a piece of content is registered to the Koii network, it can generate rewar
 
 As an example of how this kind of a system will work, we are announcing a contest to find the best content in the NFT ecosystem. This contest will run for 200 years, so don't expect to see the winner any time soon. We are now offering a grant of up to 100 KOII for content creators and collectors who want to publish their NFTs to the Koii ecosystem. For each NFT registered, Koii will issue a Profit Sharing Token (PST) which entitles the bearer to a share of 1000 KOII tokens each day, proportionate to the amount of attention their art receives during the prior 24 hours.
 
-<img src="/assets/images/blog/NFT_Leaderboard.png">
+<img src="/images/blog/NFT_Leaderboard.png">
 <i>Sneak peak of the upcoming Koii Leaderboard</i>
 
 Owners of Ethereum-based NFTs will still retain ownership of their original digital assets, but will receive an additional asset which is transferable, and owns the rights to the future attention rewards stream (potentially hundreds or thousands of KOII). The team at <a target="_blank" href="https://verto.exchange/">Verto</a> have kindly offered to facilitate this contest, and will support the trading of these 'attention' assets to allow for price discovery.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Koii Grant Program Set for Launch"
 categories: [Announcement]
-image: assets/images/blog/grant.png
+image: images/blog/grant.png
 ---
 
 While the use of decentralized applications has grown in the years since Bitcoin resolved concerns of byzantine fault tolerance, mainstream adoption has proven elusive. At Koii, we surmise that this is due partially to longer iteration times and complex architectures of decentralized systems, which can make applications harder to build and make it harder to find product-market fit.

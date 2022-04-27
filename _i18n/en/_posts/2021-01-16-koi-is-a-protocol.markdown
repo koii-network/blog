@@ -2,7 +2,7 @@
 layout: post
 title: "Koii is a protocol "
 categories: [Announcement]
-image: assets/images/koi.png
+image: images/koi.png
 ---
 
 Starting next month, 1000.0000000000 KOII will be generated each day, and given to whoever's content received the most attention in the past 24 hours.
@@ -11,7 +11,7 @@ As more and more people earn KOII for contributing, we will also expand the abil
 
 **_The KOII Profit Sharing Community can be expanded to incentivise content creation anywhere where data can be stored immutably, and is beginning as an incentive mechanism to reward contributions to the Arweave Permaweb._**
 
-<img class="sectionDivider" src="/assets/images/koi-divider.png">
+<img class="sectionDivider" src="/images/koi-divider.png">
 
 # The First Three
 
@@ -31,7 +31,7 @@ The value of taste in good information cannot be understated. As personal and de
 
 _All data gathered by the KOII Network will be stored permanently for a minimum of 200 years, ensuring that future generations have an accurate rearview mirror._
 
-<img class="sectionDivider" src="/assets/images/koi-divider.png">
+<img class="sectionDivider" src="/images/koi-divider.png">
 
 # The KOII Profit-Sharing Community
 
@@ -61,7 +61,7 @@ Because the Arweave is permenantly visible to all parties, the result of a given
 
 Since the Profit Sharing Tokens ("PSTs") are owned for the 200 year endowment of the data, and can produce dividends for the duration if they receive large amounts of attention consistently, they have the potential to be quite valuable, and the owner may desire to sell them, lend them, or otherwise liquidate them in the short term. In the event that this occurs, they have all the properties of traditional non-fungible tokens, and the [Verto PST exchange](verto.exchange) already supports trading for this format of digital asset. This has the potential to create a futures market for attention, which could potentially result in very interesting insights and predictive models, since it effectively brings market forces to bear on the process of content value appraisal.
 
-<img class="sectionDivider" src="/assets/images/koi-divider.png">
+<img class="sectionDivider" src="/images/koi-divider.png">
 
 # The KOII Protocol
 
@@ -79,7 +79,7 @@ The core protocol of the KOII network brings these parts together to form a dece
 
 As well as the core function of rewarding attention within the Arweave network, KOII will also serve as an added incentive since it can be used as a bounty to request certain type of content be added to the chain. When a bounty is set, the payer can also provide rules of the game, which can detail complex engagements that result in adding content to the permaweb, such as "The First Three" listed above.
 
-<img class="sectionDivider" src="/assets/images/koi-divider.png">
+<img class="sectionDivider" src="/images/koi-divider.png">
 
 # Get Involved
 

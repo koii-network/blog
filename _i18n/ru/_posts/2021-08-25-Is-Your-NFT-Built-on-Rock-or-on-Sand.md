@@ -2,7 +2,7 @@
 layout: post
 title: "Is your NFT Built on Rock or on Sand?"
 categories: [Announcement]
-image: assets/images/blog/Atomic_NFTs_shareable_graphic_twitter_2_1.png
+image: images/blog/Atomic_NFTs_shareable_graphic_twitter_2_1.png
 ---
 
 ### Why Atomic NFT is a Superior Standard

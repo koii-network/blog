@@ -2,7 +2,7 @@
 layout: post
 title: "Almost Infinite."
 categories: [Announcement]
-image: assets/images/blog/almostinfiniteblog2.png
+image: images/blog/almostinfiniteblog2.png
 ---
 
 # What is the purpose of permanence?
@@ -32,7 +32,7 @@ _This problem of incentivizing the creative commons is a modern form of the gate
 
 In web 2.0, it's hard to make good web apps/content because of high startup costs, high subscription fees, and the corresponding need to monetize. The need to monetize also drives creators to schemes like ads or paywalls, that push users away and make everyone's experience worse. Koii flattens the barrier to entry with our framework and investment in good templates. We have no subscription or gas fees, and lastly, builders are directly compensated for good content.
 
-![Opensea blog tutorial](/assets/images/blog/almostinfiniteblog1.png)
+![Opensea blog tutorial](/images/blog/almostinfiniteblog1.png)
 
 **The Internet, Identity, & Ideas**
 

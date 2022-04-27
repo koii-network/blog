@@ -2,7 +2,7 @@
 layout: post
 title: "The Koii Ecosystem"
 categories: [Announcement, Vision]
-image: assets/images/koi.rock.jpg
+image: images/koi.rock.jpg
 ---
 
 [Koi.rocks](https://koi.rocks) is a decentralized web application (DApp) powered by [Koii](https://koii.network){:target="\_blank"} , a protocol for information retrieval and publishing on the new web. Koii.rocks exhibits technologies made possible by the [Koii Protocol](https://koii.network/koi-protocol.pdf){:target="\_blank"} .
@@ -25,7 +25,7 @@ Allowing NFT creators to earn on the amount of attention given to their projects
 
 This experiment furthers the value capture innovations within the new web. Imagine your favorite artist receiving revenue every time you viewed his or her work [within a free gallery](https://koi.rocks).
 
-![Kevin Abosch](/assets/images/kevinabosch.png "Kevin Abosch")
+![Kevin Abosch](/images/kevinabosch.png "Kevin Abosch")
 
 Head to [koi.rocks](https://koi.rocks/contents) now to claim your Kevin Abosch orginals!
 
@@ -37,7 +37,7 @@ Koii.rocks is the first Koii ecosystem application which makes use of PoRT, or [
 
 Koii.rocks leverages PoRT to maintain the integrity of attention rewards and leaderboard standing. In order to reflect actual public interest in these NFTs, the PoRT generates a hash which represents important metadata associated with any IP address that accesses a koi.rocks gateway. The generated hash forces network participants to expend work that is more expensive to falsify than the attention reward would be worth. This disincentivizes subversive entities from gaming the system.
 
-![Proof of Real Traffic](/assets/images/blog/port.png "Proof of real traffic makes it possible to verify attention after the fact!")
+![Proof of Real Traffic](/images/blog/port.png "Proof of real traffic makes it possible to verify attention after the fact!")
 
 ## Koii
 

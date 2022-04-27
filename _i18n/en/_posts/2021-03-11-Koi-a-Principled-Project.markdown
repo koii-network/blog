@@ -2,7 +2,7 @@
 layout: post
 title: "Koii: A Principled Project"
 categories: [Announcement]
-image: assets/images/principled-protocol.jpg
+image: images/principled-protocol.jpg
 ---
 
 Koii, although in its infancy, has changed shape many times. Iteration is necessary as we push for strategic capital and align with our [ecosystem partners](https://www.arweave.org/). Other changes manifested when new opportunities within the blockchain space were quickly addressed. [The effort](https://blog.openkoi.com/Yield-Farming-for-NFTs/) better positions the Koii Protocol and its applications for meaningful adoption. All of this adaptive progress is occurring alongside the development of the Koii testnet.

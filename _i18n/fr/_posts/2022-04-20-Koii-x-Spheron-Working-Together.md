@@ -2,7 +2,7 @@
 layout: post
 title: "Koii x Spheron: Working Together to Support Developers"
 categories: [Announcement]
-image: ../assets/images/blog/Spheron Together.png
+image: images/blog/Spheron Together.png
 ---
 
 It's hard to argue against the case for web3 and decentralization. Without these technologies, information freedom can never really be guaranteed. Despite knowing this, however, we continue to live in a predominantly Web2 oriented world. Why is there resistance to decentralization, and what are we doing to actively mitigate it?

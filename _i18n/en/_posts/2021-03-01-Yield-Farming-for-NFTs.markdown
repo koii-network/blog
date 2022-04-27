@@ -2,7 +2,7 @@
 layout: post
 title: "Yield Farming for NFTs"
 categories: [Announcement]
-image: assets/images/yielf-farming-nfts.jpg
+image: images/yielf-farming-nfts.jpg
 ---
 
 # New Revenue Streams

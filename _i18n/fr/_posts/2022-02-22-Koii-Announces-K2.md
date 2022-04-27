@@ -2,7 +2,7 @@
 layout: post
 title: "Koii Announces K2 on 2/22/22"
 categories: [Announcement]
-image: assets/images/blog/k222.png
+image: images/blog/k222.png
 ---
 
 Ever wonder what a settlement layer that is both fast and reliable with secure payment processing would be like? Well, you’re in luck! We are thrilled to announce the upcoming rollout of Koii’s K2 settlement layer today (2/22/22) as part of our continued efforts to keep building and to make Koii Network a seamless experience.

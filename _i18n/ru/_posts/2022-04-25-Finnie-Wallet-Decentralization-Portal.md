@@ -2,7 +2,7 @@
 layout: post
 title: "Finnie Wallet - The Everyperson’s Portal to Decentralization"
 categories: [Announcement]
-image: ../assets/images/blog/Finnie-Wallet.png
+image: images/blog/Finnie-Wallet.png
 ---
 
 # What is Finnie?
@@ -57,7 +57,7 @@ In recent months we have been working on several new partnerships that will brin
 
 You can expect this list to grow as Finnie’s abilities expand. Updates that enhance single sign-on and Content Collectives are also on the horizon.
 
-![Finnie Decentralization Portal](/assets/images/blog/Finnie-Wallet-graphics-especs.png)
+![Finnie Decentralization Portal](/images/blog/Finnie-Wallet-graphics-especs.png)
 
 ## Will You Step Through the Portal?
 

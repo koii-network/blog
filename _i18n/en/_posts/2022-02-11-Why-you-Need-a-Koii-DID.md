@@ -2,7 +2,7 @@
 layout: post
 title: "Why you Need a Koii DID (Decentralized ldentity)"
 categories: [Announcement]
-image: assets/images/blog/why-you-need-did.png
+image: images/blog/why-you-need-did.png
 ---
 
 Pop quiz.

@@ -2,7 +2,7 @@
 layout: post
 title: "Build the Decentralized App of Your Dreams With Koii-X"
 categories: [Announcement]
-image: assets/images/blog/crowdfunding.png
+image: images/blog/crowdfunding.png
 ---
 
 Koii Network has the technology to help BUIDLrs fix what's wrong with the internet. Whether you’re a Layer 1 blockchain developer or just about to build your first dApp, we have tools, templates, and a **$1M grant program** to make your decentralized app dreams a reality.

@@ -2,12 +2,12 @@
 layout: post
 title: "Koii x Meson Network: A Perfect Decentralized Pairing"
 categories: [Announcement]
-image: assets/images/blog/Meson Network.png
+image: images/blog/Meson Network.png
 ---
 
 Curious about what’s going on behind the scenes of decentralization? If so, you should pay attention to Koii’s partnership with the Meson Network. Lets dive into the ways these two networks are working together to create the infrastructure needed to truly scale Web3.
 
-Koii Network is focused on building the tools and infrastructure that developers need to create powerful creator-focused dApps. Meson Network is a decentralized CDN (Content Delivery Network) or dCDN for short. The primary role of the network is to utilize idle commercial and third-party bandwidth through blockchain to provide CDN services. 
+Koii Network is focused on building the tools and infrastructure that developers need to create powerful creator-focused dApps. Meson Network is a decentralized CDN (Content Delivery Network) or dCDN for short. The primary role of the network is to utilize idle commercial and third-party bandwidth through blockchain to provide CDN services.
 
 Let’s take a closer look at how these two networks are finding unique ways to solve the challenges faced by decentralization, while also shining a light on its many advantages.
 

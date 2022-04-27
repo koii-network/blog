@@ -2,7 +2,7 @@
 layout: post
 title: "D I S C O V E R Y series : Juan Camargo"
 categories: [Announcement]
-image: assets/images/blog/Artist-Feature-Juan-Camargo.png
+image: images/blog/Artist-Feature-Juan-Camargo.png
 ---
 
 ### Who are you?

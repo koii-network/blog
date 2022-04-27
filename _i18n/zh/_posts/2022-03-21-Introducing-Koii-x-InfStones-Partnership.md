@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing Koii x InfStones Partnership"
 categories: [Announcement]
-image: assets/images/blog/InfStones.png
+image: images/blog/InfStones.png
 ---
 
 Like a bustling, growing city, Koii builds and implements infrastructure that will attract developers and creators to the network. InfStones is a leading staking provider for Layer 1 blockchains, and will provide an infrastructure upgrade to Koii’s staking and node development tools. In addition, working together will enable access to other network nodes and oracle services, further enhancing Koii’s cross-chain applications toolkit.
@@ -17,7 +17,7 @@ The upcoming implementation of K2 makes the partnership with InfStones extremely
 
 InfStones is the world’s leading blockchain infrastructure service provider. Founded in 2018, InfStones has offices in Beijing, Silicon Valley, Dallas, and Montreal. The technical team of InfStones is composed of senior engineers and technical experts from well-known companies such as Google, Oracle, Alibaba, and Microsoft.
 
- With a team of engineers on two continents, InfStones is dedicated to bringing down the traditional barriers to connecting with the blockchain, allowing clients to build their applications on many blockchain networks quickly. Currently, InfStones provides services to institutional clients around the globe, supporting over 10,000 nodes on more than 50 significant blockchains.
+With a team of engineers on two continents, InfStones is dedicated to bringing down the traditional barriers to connecting with the blockchain, allowing clients to build their applications on many blockchain networks quickly. Currently, InfStones provides services to institutional clients around the globe, supporting over 10,000 nodes on more than 50 significant blockchains.
 
 ## What is the Koii Network?
 

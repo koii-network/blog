@@ -2,7 +2,7 @@
 layout: post
 title: "D I S C O V E R Y series : Costin Benescu a.k.a. Alien Ape Star"
 categories: [Announcement]
-image: assets/images/blog/Artist-Feature-Costin.png
+image: images/blog/Artist-Feature-Costin.png
 ---
 
 ### Who are you?

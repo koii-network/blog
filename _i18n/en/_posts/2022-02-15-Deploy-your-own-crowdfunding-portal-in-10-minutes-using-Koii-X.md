@@ -2,7 +2,7 @@
 layout: post
 title: "Deploy your own crowdfunding portal in 10 minutes using Koii-X"
 categories: [Announcement]
-image: assets/images/blog/crowdfunding-portal.png
+image: images/blog/crowdfunding-portal.png
 ---
 
 Start raising funds for your project now with a fully decentralized app

@@ -1,8 +1,8 @@
 # Site
 name: "Koii"
 description: Koii keep track of what's on the web. Try today.
-logo: "assets/images/goldfish.svg"
-favicon: "assets/images/goldfish.svg"
+logo: "images/goldfish.svg"
+favicon: "images/goldfish.svg"
 baseurl: ""
 disqus: "disqus_BSQKXyVFLL"
 email: "services@koii.network"
@@ -21,7 +21,7 @@ plugins:
 
 languages: ["en", "ru", "fr", "zh"]
 
-exclude_from_localizations: ["assets", "404.html"]
+exclude_from_localizations: ["css", "404.html", "favicon.svg", "images", "js"]
 
 # Defaults
 defaults:
@@ -31,7 +31,7 @@ defaults:
     values:
       layout: post
       author: Al
-      avatar: /assets/images/goldfish.svg
+      avatar: /images/goldfish.svg
 
   # all pages
   - scope:

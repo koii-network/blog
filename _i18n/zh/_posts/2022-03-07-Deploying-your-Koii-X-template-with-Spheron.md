@@ -2,7 +2,7 @@
 layout: post
 title: "Deploying your Koii-X template with Spheron"
 categories: [Announcement]
-image: assets/images/blog/DApps-Kx.png
+image: images/blog/DApps-Kx.png
 ---
 
 Deploy your Koii-X template directly from GitHub using Spheron

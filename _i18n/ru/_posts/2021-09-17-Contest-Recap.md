@@ -2,7 +2,7 @@
 layout: post
 title: "#Koiicares Contest Recap"
 categories: [Announcement]
-image: assets/images/blog/a-balancing-act-cover.png
+image: images/blog/a-balancing-act-cover.png
 ---
 
 On Aug 20, 2021 the #Koiicares contest began.
@@ -141,7 +141,7 @@ Have you ever thought about how Koii would look like in real life? Let's look in
             <hr>
         </div>
         <!-- <div class="col-6">
-            <img  width="100%" height="400px;" src="/assets/images/recap/recap1.png">
+            <img  width="100%" height="400px;" src="/images/recap/recap1.png">
           KOII 3
 <br>
             Koii Artist : <a href="https://koi.rocks/artist/H2gzj3tkN9XTs-cMxBO37Uk5TiVzt25gYenPSMM6MDg">bart5610 </a> Twitter: <a href="https://twitter.com/bart5610">@bart5610 </a>

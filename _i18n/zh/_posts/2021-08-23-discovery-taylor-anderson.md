@@ -2,7 +2,7 @@
 layout: post
 title: "D I S C O V E R Y series : Taylor Anderson"
 categories: [Announcement]
-image: assets/images/blog/Artist-Feature-Taylor-Anderson.png
+image: images/blog/Artist-Feature-Taylor-Anderson.png
 ---
 
 ### Who are you?

@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Connect with IFTTT to make your E-Commerce Easier"
+title: "Connect with IFTTT to make your E-Commerce Easier"
 published: false
-categories: [ Automation ]
-image: assets/images/blog/IFTTT-Banner.png
+categories: [Automation]
+image: images/blog/IFTTT-Banner.png
 ---
+
 Repetition may be the key to mastery, but it can also lead to tremendous boredom. As we move to online commerce during the COVID19 pandemic, keeping up with everything going on can be not only time consuming, but sometimes quite overwhelming.
 
 <h1>IFTTT Can be the key to unlocking productivity</h1>
-Automation tools like <a href="https://ifttt.com">If This Then That (IFTTT)</a> allow anyone to configure simple automation workflows, and can trigger SMS, emails, and many more integrations automatically. 
+Automation tools like <a href="https://ifttt.com">If This Then That (IFTTT)</a> allow anyone to configure simple automation workflows, and can trigger SMS, emails, and many more integrations automatically.
 
 <h3>A major limitation</h3>
 Productivity software like IFTTT, while tremendously useful, often leave it to their users to configure input data streams. Since these are the most important part of an automation workflow, getting this part right makes a big difference.
 
 <h1>GoldFish x IFTTT</h1>
-We've made it easy to configure your GoldFish web scrapers to trigger an IFTTT workflow. Just configure your IFTTT to accept a webhook, and then select the 'IFTTT' option while configuring your scraper. You can set any frequency you like, and our service will check the website, get the data, and pass it to IFTTT to trigger your workflow. 
+We've made it easy to configure your GoldFish web scrapers to trigger an IFTTT workflow. Just configure your IFTTT to accept a webhook, and then select the 'IFTTT' option while configuring your scraper. You can set any frequency you like, and our service will check the website, get the data, and pass it to IFTTT to trigger your workflow.
 
 <h1>What are you waiting for?</h1>
 Head on over to <a href="https://goldfishservice.xyz">our portal</a> and set up your first scrapers for free!
- 

@@ -2,7 +2,7 @@
 layout: post
 title: "Finnie: The Browser Extension Tutorial"
 categories: [Announcement]
-image: assets/images/blog/Koi_blogimg_opt4_052120.png
+image: images/blog/Koi_blogimg_opt4_052120.png
 ---
 
 Hi folks, today is a great day to make NFTs!
@@ -38,15 +38,15 @@ First, head to the [Google Web Chrome](https://koii.me/Finnieblogpost) store to 
 
 Click “Add to Chrome” on the right side.
 
-![Add to chrome](/assets/images/blog/finnieTour/1.png)
+![Add to chrome](/images/blog/finnieTour/1.png)
 
 After a few moments, the Finnie logo will appear in your browser bar in the top right corner of your screen.
 
-![Browser Icon Appears](/assets/images/blog/finnieTour/2.png)
+![Browser Icon Appears](/images/blog/finnieTour/2.png)
 
 Click on the puzzle piece to show your Chrome extension settings, then click the pin icon next to Finnie. This ensures you’ll always be able to see Finnie when you need to.
 
-![Pin the extension so it doesn't disappear](/assets/images/blog/finnieTour/3.png)
+![Pin the extension so it doesn't disappear](/images/blog/finnieTour/3.png)
 
 # Part 2: Add a Wallet
 
@@ -60,7 +60,7 @@ Click on the Finnie icon in your extensions. You will see a dropdown with three 
 
 Soon, you will be able to import non-Arweave wallets & keys. Sign up for the Koii newsletter and follow us on [Twitter](https://koii.me/TwitterFinnieblogpost) so you can find out as soon as we release new features like cross-chain compatibility.
 
-![The first step is to connect a wallet](/assets/images/blog/finnieTour/4.png)
+![The first step is to connect a wallet](/images/blog/finnieTour/4.png)
 
 ## Import with a seed phrase
 
@@ -92,7 +92,7 @@ It may take a few moments to generate the new wallet, but there is a very cute (
 
 Now you’ll see a “Secret Backup Phrase” window. This is where you will find your 12-word backup phrase. The phrase makes it easy to back up and restore your account, but anyone with access to this phrase can steal from your wallet. It is vital that you keep it safe.
 
-![The first step is to connect a wallet](/assets/images/blog/finnieTour/5.png)
+![The first step is to connect a wallet](/images/blog/finnieTour/5.png)
 
 Click in the darkened box to reveal your secret words, then copy and store them somewhere safe like a secure password manager or on a physical piece of paper that won’t get lost.
 Once you have your phrase safely copied somewhere, click “Continue” and select the words in the correct order.
@@ -106,25 +106,25 @@ Already have KOII and AR? Skip ahead to [Create an NFT](#part-4-create-an-nft).
 Now that you have a Koii-compatible wallet, you’ll need some KOII tokens (and a tiny bit of AR to pay for storage costs).
 Click on the Finnie extension icon. When you see the dropdown, click the button near the top that says “My Gallery.”
 
-![The first step is to connect a wallet](/assets/images/blog/finnieTour/6.png)
+![The first step is to connect a wallet](/images/blog/finnieTour/6.png)
 
 Your (likely empty) gallery will open in a new window. Read the Beta version notes and then click out of the box. If you don’t have KOII, there will be a button in the top right corner of the page that says, “No KOII? Get some.”
 
-![Click the button to visit the faucet.](/assets/images/blog/finnieTour/7.png)
+![Click the button to visit the faucet.](/images/blog/finnieTour/7.png)
 
 This button will take you to the KOII faucet. You’ll skip step #1 (click “Skip ahead”) because you already have the Finnie Wallet.
 
 Then click “Connect Wallet” in the top right corner of the page to visit the faucet.
 
-![The first step is to connect a wallet.](/assets/images/blog/finnieTour/9.png)
+![The first step is to connect a wallet.](/images/blog/finnieTour/9.png)
 
 You will get a pop up from Finnie asking you to verify the connection to koi.rocks (this is a security feature so apps can’t connect to your wallet without your consent).
 
 Click “Connect” on the first screen (left), then again on the second screen (right).
 This is an extra confirmation layer so that you know what each app has access to within your wallet. For example, koi.rocks can only see the public addresses of your key.
 
-![Authorize and connect the portal.](/assets/images/blog/finnieTour/10.png)
-![Authorize and connect the portal.](/assets/images/blog/finnieTour/11.png)
+![Authorize and connect the portal.](/images/blog/finnieTour/10.png)
+![Authorize and connect the portal.](/images/blog/finnieTour/11.png)
 
 Once Finnie is connected, click “Tweet to Verify.” This button will prompt a popup from Twitter, confirming your wallet address and that you are a real person.
 Don’t alter the tweet, as it may cause verification issues.
@@ -137,23 +137,23 @@ After you visit the faucet, it’s time to create your first Atomic NFT! This pa
 
 There are two very easy ways to start. First, you can drag and drop any media file directly onto the browser page. (Please note that at this time, Finnie can only accept file sizes up to 15MB.)
 
-![Drag a file to make an NFT.](/assets/images/blog/finnieTour/11.png)
+![Drag a file to make an NFT.](/images/blog/finnieTour/11.png)
 
 The second way is by clicking on the plus (+) button in the left-side menu. From here, you can drag and drop or click to open your file explorer.
 
-![Drag a file to make an NFT.](/assets/images/blog/finnieTour/12.png)
+![Drag a file to make an NFT.](/images/blog/finnieTour/12.png)
 
 After you upload your media file, add the title of the piece, your desired username, a description, and any tags you want associated with your NFT. You can separate tags with commas or by clicking “enter” after each one.
 
 Then click “Create New NFT.”
 
-![Submit the form to create your NFT.](/assets/images/blog/finnieTour/13.png)
+![Submit the form to create your NFT.](/images/blog/finnieTour/13.png)
 
 Now just confirm that all your details are correct, and we’ll be on our way! If you have a referral code from a friend (or enemy, we don’t judge), enter it in the box on the left.
 
 Click “Confirm Registration.” After a few moments, your transaction will appear. Make sure to click the “Share” button to send it to everyone you know. The more people who see it, the more attention rewards (KOII tokens) you will receive!
 
-![Boom - you're done. Now your NFT is stored permanently, and ready to be traded or sold.](/assets/images/blog/finnieTour/14.png)
+![Boom - you're done. Now your NFT is stored permanently, and ready to be traded or sold.](/images/blog/finnieTour/14.png)
 
 **Better media makes a better world; decentralization lets you own your share of it.**
 
