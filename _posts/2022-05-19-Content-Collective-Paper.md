@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: paper
 title: "Content Collectives"
 categories: [Announcement]
 image: assets/images/blog/crowdfunding.png
