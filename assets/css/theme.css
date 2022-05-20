@@ -747,6 +747,59 @@ article .h6 {
   margin-top: 2rem;
   font-weight: 600;
 }
+paper {
+  font-size: 20px;
+  line-height: 1.86;
+  font-family: Lora;
+}
+.paper-headline {
+  font-family: Catamaran, "Catamaran", serif;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #222222;
+}
+paper p,
+paper pre,
+paper figure,
+paper img,
+paper blockquote,
+paper iframed,
+paper embed {
+  margin-bottom: 2rem;
+}
+paper blockquote {
+  padding-left: 40px;
+  margin-left: 0px;
+  font-style: italic;
+  position: relative;
+}
+paper blockquote:before {
+  content: "“";
+  font-family: Catamaran;
+  font-size: 8rem;
+  margin: -1rem 2rem 0 -3.9rem;
+  position: absolute;
+  opacity: 1;
+  float: left;
+  line-height: 1;
+}
+paper h1,
+paper h2,
+paper h3,
+paper h4,
+paper h5,
+paper h6,
+paper .h1,
+paper .h2,
+paper .h3,
+paper .h4,
+paper .h5,
+paper .h6 {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  font-weight: 600;
+}
 @media (max-width: 767.98px) {
   h1 {
     font-size: 1.5rem;
