@@ -245,38 +245,76 @@ Roles can evolve as well. Just like in any social platform with user roles, acti
 <table style="width:100%">
   <tr>
     <th>Role</th>
-    <th style="width: 10rem">Permissions</th>
+    <th style="width: 16rem">Permissions</th>
     <th>Benefits</th>
     <th>Notes</th>
   </tr>
   <tr>
-    <td>IPFS</td>
-    <td>
-    <li>Can view any content
-    <li>Create Proofs of Real Traffic 
-    <li>Value of attention
-    </td>
+    <td>Community Member</td>
+    <td>- Can view any content<br/> - Create <a href="https://docs.koii.network/earning-koii/attention-mining" target="_blank">Proofs of Real Traffic</a><br/> - Value of attention</td>
     <td>Anyone can read content</td>
     <td>Can view content, credit artists, but can’t vote</td>
   </tr>
   <tr>
     <td>Contributor</td>
-    <td>
-    <li>Add content
-    <li>Vote on new rules and any verdicts
-    </td>
+    <td>- Add content<br/> - Vote on new rules and any verdicts</td>
     <td>Scaling voting power to contribution value</td>
     <td>Contributors often inhabit the role of Community Member</td>
   </tr>
   <tr>
     <td>Moderator</td>
-    <td>
-    <li>Flag NSFW
-    <li>Mute users
-    <li>Admin needs
-    </td>
+    <td>- Flag NSFW<br/>- Mute users<br/>- Admin needs</td>
   </tr>
 </table>
+
+As Content Collectives become more popular, groups will have more specific ideas about how members of their communities will engage with the content and the options can grow. As Collectives define more robust roles, we (the Collective co-writing this paper) will add further documentation to demonstrate multiple possibilities for Collectives to grow and self-govern. We are looking forward to the new and creative ideas that future Collectives invent.
+
+### Governance
+
+While the structure laid out in this document is intended to provide a basis for these kinds of systems, it’s essential that contributors and any other voting member are able to vote to refine these rules as necessary, and to add new ones if desired.
+
+Types of votes might include:
+
+- Admission of new content to the Collective
+- Verifying that contributors are real people
+- Updating to a new smart contract (new set of rules)
+- Changing the storage structure (e.g. migrate from Filecoin to Arweave)
+- Withdrawing or converting funds from a core wallet
+- Changing or adding roles within the Collective
+
+This list demonstrates a few suggestions but is not comprehensive. Depending on the Collective, there may be many other changes that require a vote.
+
+The Collective must configure the voting standards, which include social requirements (necessary qualifications to propose a vote) and the technical requirements (methods by which the change is proposed and voted on by members). There are many DAO toolkits that assist with proposing and casting votes, and you can even access some of these features from Koii Network’s [desktop node](http://koii.me/node){:target="\_blank"}.
+
+## Adoption
+
+### Building Community
+
+As we’ve seen from the growth of Profile Picture (PFP) collections over the past year, there are a range of significant incentives that can be used to grow a community around a token incentive, including community perks, permissioned communications, and events.
+
+### Additional Incentives & Privileges
+
+As has already been the case with existing artist collectives, NFT “clubs” and generally any social group with sufficiently interested members, it is not hard to imagine that membership in any one community will come with significant privileges and rewards. In 2021 alone, owning a [Bored Ape Yacht Club NFT (BAYC)](http://www.BoredApeYachtClub.com){:target="\_blank"} could get you in to see The Strokes and Chris Rock. Then in March 2022, millions of ApeCoin ([$APE](https://coinmarketcap.com/currencies/apecoin-ape/){:target="\_blank"}) were dropped to BAYC holders, who now use them to transact with one another, buy merchandise, and more.
+
+There are a few methodologies for Collectives or DAOs that revolve around or are interested in content. One option is to, like BAYC, start with the media and then create events, merchandise, etc. around membership in the group—whether that’s holding an NFT or some other mechanism for joining the Collective.
+
+A second option is to start with tokens, then create content and access to that content by holding the tokens. In this scenario, tokens act like your membership card to the gym. One example is the [LIT DAO](https://getlit.wtf/){:target="\_blank"}, which, if you held enough, gave you access to the [first NFT by Robert De Niro](https://www.cryptotimes.io/robert-de-niro-joins-lit-dao-with-motion-nft-collection/){:target="\_blank"}.
+
+The third process is the opposite: start with content and then add tokens, whether they are freely given to the community or sold as part of the ecosystem. This is similar to what BAYC did with the $APE airdrop in 2022, but without the cultural events and sweatshirts in between. A good example of this is [Cool Cats](https://www.coolcatsnft.com/){:target="\_blank"}. They created an NFT collection, then launched [$MILK](https://www.coingecko.com/en/coins/milk){:target="\_blank"} as a social token to use within their ecosystem, where any holder will automatically earn tokens and can use them to evolve their cats.
+
+The methods mentioned above are the simplest form of privileges given to people who join a Collective. However, we expect that people will create a wide variety of reward mechanisms beyond the ones we’ve already seen and continue to innovate for the members of their community.
+
+### Marketplace Integrations
+
+In the event that content from the Collective needs or is designed to be sold, the Collective can either retain profits, or distribute them to the creators. In the event that a creator wishes to withdraw from the Collective, they might choose to sell their piece independently. It is up to the individual Collective to set the stipulations or fees when a piece is removed. These parameters should be set up before any contributor wants to remove work to ensure equitable treatment, but can fluctuate depending on market forces. Exit fees can be established to encourage contributors to remain part of the Collective after the Collective’s resources have been dedicated to a given creator or work.
+
+It is reasonable that some organizations may create art communally, in which case if a contributor wants to sell the work separate from the Collective, they may need to exchange their [receipt token](https://docs.google.com/document/d/1n-n3C4BjWheY02r-Cd8zEbwvFA-AMVxvE5uT7oScFuQ/edit#heading=h.l60c1i967lp1){:target="\_blank"} or fractions of it instead of selling the art itself.
+
+## Looking Forward
+
+Content Collectives are the new form of community-owned, media-driven organizations. We have laid out the basic needs for any Collective, but know that as with any people-led group, there will be vast innovations beyond the initial designs laid out here.
+
+There are many different reasons to establish a Collective, but each one needs to define their technology accommodations, contribution value, distribution of value, and user roles at inception in order for the organization to get off the ground. Coming up with strategies for user growth and community engagement are also a critical part to the health of any organization. For simple tools to help you get started, check out Koii Network’s [Content Collective template](https://koii.me/contentcollective){:target="\_blank"}. If you have ideas or innovations to add to the next version of this document, [reach out](mailto:collective@koii.network){:target="\_blank"}.
 
 <style>
 table, th, td {
