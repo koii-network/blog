@@ -7,7 +7,7 @@ author: soma
 ---
 
 <div class="more" style="text-align: center;">
-<button class="button" onclick="window.open('/Content Collectives.pdf#page=3')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Open the entire paper</button>
+<button class="button" onclick="window.open('/Content Collectives.pdf')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Open the entire paper</button>
 </div>
 
 ## The new standard for media-driven, community-owned DAOs
