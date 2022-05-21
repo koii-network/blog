@@ -3,7 +3,6 @@ layout: post
 title: "Content Collectives"
 categories: [Announcement]
 image: assets/images/blog/content_collective-blog.png
-author: soma
 ---
 
 <div class="more" style="text-align: center;">
