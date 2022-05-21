@@ -26,12 +26,19 @@ A _Content Collective_ is a type of Decentralized Autonomous Organization (DAO).
 </div>
 
 <style>
+    button:hover {
+    border-color: #016449;
+    background-color: #016449;
+    transition: all 0.2s linear 0s;
+    }
     button {
-    
+    cursor: pointer;
+    padding: 0rem 1rem;
     border-color: #03a87c;
     text-decoration: none;
     color: #ffffff;
     border-radius: 20px;
     background-color: #03a87c;
+    transition: all 0.2s linear 0s;
 }
     </style>
