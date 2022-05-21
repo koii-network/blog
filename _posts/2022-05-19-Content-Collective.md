@@ -2,7 +2,7 @@
 layout: post
 title: "Content Collectives"
 categories: [Announcement]
-image: assets/images/blog/crowdfunding.png
+image: assets/images/blog/content_collective-blog.png
 ---
 
 ## The new standard for media-driven, community-owned DAOs
@@ -22,5 +22,16 @@ Artists and creators have been working together in communities for a long time. 
 A _Content Collective_ is a type of Decentralized Autonomous Organization (DAO). The Collective is a [decentralized](https://en.wikipedia.org/wiki/Decentralization){:target="\_blank"} group of creators and the media they produce, controlled by a [DAO](https://docs.google.com/document/d/1n-n3C4BjWheY02r-Cd8zEbwvFA-AMVxvE5uT7oScFuQ/edit#heading=h.yu3q8wm7j8ll){:target="\_blank"} Governance Protocol. Owned and governed by its contributing members, the Collective ensures that contributors are equitably rewarded for their work. The Collective commissions, creates, and/or curates content, then uses that content to earn tokens (KOII for attention, revenue from ads, etc). Depending on the rules of the particular DAO protocol, ownership and revenue are distributed to members of the Content Collective.
 
 <div class="more" style="text-align: center;">
-<a href="/Content Collectives.pdf#page=3" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Read more</a>
+<button class="button" href="/Content Collectives.pdf#page=3" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Read more</button>
 </div>
+
+<style>
+    button {
+    
+    border-color: #03a87c;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 20px;
+    background-color: #03a87c;
+}
+    </style>
