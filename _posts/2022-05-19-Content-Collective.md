@@ -3,7 +3,7 @@ layout: post
 title: "Content Collectives"
 subtitle: "The new standard for media-driven, community-owned DAOs"
 button: "Open the Paper"
-buttonlink: /Content Collectives.pdf#page=3
+buttonlink: /Content Collectives.pdf
 author: true
 authorlink:
 categories: [Announcement]
