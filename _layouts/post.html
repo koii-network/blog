@@ -15,16 +15,16 @@ layout: default
                         </span>
 					</p>
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
+					<h2 class="display-4 mb-4 article-subtitle">{{ page.subtitle }}</h2>
 					<div class="d-flex align-items-center">
-                        {% if author.avatar %}
-                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
-                        {% endif %}
-						<small class="ml-3"> {{ author.name }} 
-						<!-- <span>
-							<a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a>
-						</span> -->
+						<small>By: {{ page.author }}  {{ author.name }} 
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 						</small>
+					</div>
+					<div class="d-flex align-items-center mt-3">
+						<span>
+							<a target="_blank" href="{{ page.buttonlink }}" class="btn btn-outline-success btn-md btn-round ml-1">{{page.button}}</a>
+						</span>
 					</div>
 				</div>
                 {% if page.image %}

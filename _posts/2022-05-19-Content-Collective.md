@@ -1,17 +1,14 @@
 ---
 layout: post
 title: "Content Collectives"
+subtitle: "The new standard for media-driven, community-owned DAOs"
+button: "Open the Paper"
+buttonlink: /Content Collectives.pdf#page=3
+author: al
+author: Kayla
 categories: [Announcement]
 image: assets/images/blog/content_collective-blog.png
 ---
-
-<div class="more" style="text-align: center;">
-<button class="button" onclick="window.open('/Content Collectives.pdf')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Open the entire paper</button>
-</div>
-
-## The new standard for media-driven, community-owned DAOs
-
-_author: [kaylakroot](https://twitter.com/kaylakroot){:target="\_blank"}, [al_koii](https://twitter.com/al_koii){:target="\_blank"}, [art_icu_late](https://twitter.com/art_icu_late){:target="\_blank"}, [ColinZarzour](https://twitter.com/ColinZarzour){:target="\_blank"}_
 
 Publishing technologies have long been the choke point of many creative industries. With new internet technologies, we can now create communities centered around media where creators are appropriately rewarded for their efforts. This paper introduces Content Collectives, a new type of Decentralized Autonomous Organization (DAO) for creator communities.
 

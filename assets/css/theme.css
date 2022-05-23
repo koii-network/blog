@@ -699,6 +699,14 @@ article {
   line-height: 1.15;
   color: #222222;
 }
+.article-subtitle {
+  font-family: Catamaran, "Catamaran", serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.15;
+  max-width: 25rem;
+  color: #222222;
+}
 article p,
 article pre,
 article figure,
@@ -724,13 +732,13 @@ article blockquote:before {
   float: left;
   line-height: 1;
 }
-article:first-letter {
+/* article:first-letter {
   float: left;
   font-size: 5em;
   line-height: 1;
   margin: 0 0.2em 0 0;
   vertical-align: top;
-}
+} */
 article h1,
 article h2,
 article h3,
