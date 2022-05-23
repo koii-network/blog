@@ -4,8 +4,8 @@ title: "Content Collectives"
 subtitle: "The new standard for media-driven, community-owned DAOs"
 button: "Open the Paper"
 buttonlink: /Content Collectives.pdf#page=3
-author: al
-author: Kayla
+author: true
+authorlink:
 categories: [Announcement]
 image: assets/images/blog/content_collective-blog.png
 ---
