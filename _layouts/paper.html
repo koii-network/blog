@@ -15,26 +15,16 @@ layout: default
                         </span>
 					</p>
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
-					<h2 class="display-4 mb-4 article-subtitle">{{ page.subtitle }}</h2>
 					<div class="d-flex align-items-center">
-						<small>
-							{% if page.author == true %}
-							By: <a href="https://twitter.com/kaylakroot" target="_blank">kaylakroot</a>, 
-							<a href="https://twitter.com/al_koii" target="_blank">al_koii</a>, 
-							<a href="https://twitter.com/art_icu_late" target="_blank">art_icu_late</a>, 
-							<a href="https://twitter.com/ColinZarzour" target="_blank">ColinZarzour</a>, 
-							{% elsif page.author %}
-							By: <a href="{{ page.authorlink }}" target="_blank">{{ page.author }}</a>
-							{% endif %}
+                        {% if author.avatar %}
+                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
+                        {% endif %}
+						<small class="ml-3"> {{ author.name }} 
+						<!-- <span>
+							<a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a>
+						</span> -->
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 						</small>
-					</div>
-					<div class="d-flex align-items-center mt-3">
-						{% if page.button %}
-						<span>
-							<a target="_blank" href="{{ page.buttonlink }}" class="btn btn-outline-success btn-md btn-round ml-1">{{page.button}}</a>
-						</span>
-						{% endif %}
 					</div>
 				</div>
                 {% if page.image %}
@@ -55,32 +45,12 @@ layout: default
 	<div class="row justify-content-center">
         
         
-        <!-- Share -->
-		<div class="col-lg-2 pr-4 mb-4 col-md-12">
-			<div class="sticky-top sticky-top-offset text-center">
-				<div class="text-muted">
-					Share this
-				</div>
-				<div class="share d-inline-block">
-					<!-- AddToAny BEGIN -->
-					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-						<a class="a2a_button_facebook"></a>
-						<a class="a2a_button_twitter"></a>
-					</div>
-					<script async src="https://static.addtoany.com/menu/page.js"></script>
-					<!-- AddToAny END -->
-				</div>
-			</div>
-		</div>
-        
-        
 		<div class="col-md-12 col-lg-8">
             
             <!-- Article -->
-			<article class="article-post">                
+			<paper class="article-paper">                
 			{{ content }}                
-			</article>
+            </paper>
 			
 			<!-- Tags -->
 			<div class="mb-4">

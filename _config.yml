@@ -42,8 +42,6 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Al
-      avatar: /assets/images/goldfish.svg
 
   # all pages
   - scope:
