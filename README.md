@@ -1,51 +1,26 @@
-# Jekyll Theme - Mundana by WowThemes.net
+<!-- language-all: javascript -->
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/koii-network/koii.X/main/.github/images/koii_logo.svg" width="224px"/><br/>
+  Create blog :fish:
+</h1>
+<p align="center">
+   <a href="https://discord.gg/koii" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="cli version" /></a>&nbsp;
+   <a href="http://koii.network/" target="_blank"> <img src="https://img.shields.io/badge/made%20by-koii-blue" alt="made-by-koii" /></a>&nbsp;
+</p>
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+## ⚡️ Quick start
 
-### Documentation
+Create a new file in `_post` folder. Name it like `date-title`, for example: 2022-04-20-Koii-x-Spheron-Working-Together.md. Then push the cover image to assets/images/blog/
 
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
+Tags explain:
 
-### Contribute to Mundana repository
-
-1. In the top-right corner of this page, click **Fork**.
-
-2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
-
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
-
-3. **Create a branch**: 
-
-   `git checkout -b <my-new-feature-or-fix>`
-
-4. **Make necessary changes and commit those changes**:
-
-   `git add .`
-
-   `git commit -m "new feature or fix"`
-
-5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
-
-   `git push origin <add-your-branch-name>`
-
-6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
-
-That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
-
-
-### Copyright
-
-Copyright (C) 2019 WowThemes.net.
-
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Live Demo
-
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+- layout: post (Do not need to change)
+  title: "" (Necessary, Your post's title)
+  subtitle: "The new standard for media-driven, community-owned DAOs" (OPTIONAL, post's subtitle)
+  button: "Open the Paper" (OPTIONAL)
+  buttonlink: (OPTIONAL, button's link that open a pdf file or other url)
+  author: (OPTIONAL)
+  authorlink: (OPTIONAL, author's twitter link')
+  categories: [Announcement] (Necessary, post category, do not need to change)
+  image: assets/images/blog/ (Necessary, Post cover image)
