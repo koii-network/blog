@@ -7,7 +7,7 @@ buttonlink: /Content Collectives.pdf
 author: true
 authorlink:
 categories: [Announcement]
-image: assets/images/blog/content_collective-blog.png
+image: assets/images/blog/Content-collective.png
 ---
 
 Publishing technologies have long been the choke point of many creative industries. With new internet technologies, we can now create communities centered around media where creators are appropriately rewarded for their efforts. This paper introduces Content Collectives, a new type of Decentralized Autonomous Organization (DAO) for creator communities.
