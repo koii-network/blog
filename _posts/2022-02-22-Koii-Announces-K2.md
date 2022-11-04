@@ -7,7 +7,7 @@ image: assets/images/blog/k222.png
 
 Ever wonder what a settlement layer that is both fast and reliable with secure payment processing would be like? Well, you’re in luck! We are thrilled to announce the upcoming rollout of Koii’s K2 settlement layer today (2/22/22) as part of our continued efforts to keep building and to make Koii Network a seamless experience.
 
-K2, the next layer of the Koii ecosystem, is a high-speed settlement layer that will expand the capacity of our network to over 1 billion daily Proofs of Real Traffic (PoRT) along with the near-instant transactions.
+K2, the next layer of the Koii ecosystem, is a high-speed settlement layer that will expand the capacity of our network to over 150 billion daily Proofs of Real Traffic (PoRT) along with the near-instant transactions.
 
 This allows Koii to provide a fully decentralized application infrastructure without compromising user experience. This focus on customer experience is a critical factor as blockchain adoption reaches mainstream audiences.
 
@@ -33,15 +33,13 @@ The K2 settlement layer has a near-instantaneous transaction speed of up to 2000
 
 A system is only useful if it is available to be used, so we've ensured that after testing for hundreds of hours, the K2 settlement layer boasts of a near-constant uptime. We understand that network failure is a huge drawback and high availability translates to maximum profitability for everyone. As a result, we've pulled out all the stops to ensure that there are rarely ever downtimes with K2. From scheduling security patches at the least inconvenient times to improving caching and thorough performance tests, the K2 settlement layer has been built to have high uptime.
 
-
 ### Secure Payment Processings
 
 We understand that Web 3.0 and blockchain space has been a target for bad players looking to exploit financial loopholes. Those malicious actors are the reason we built a secure payment processing system into K2. Users will enjoy an efficient and frictionless experience where they are protected. K2 is independent—the failures of other networks do not affect the system in any way.
 
 ### Increased Capacity for Proof of Real Traffic (PoRT)
 
-Koii is a protocol focused on building infrastructure to enable a more open and transparent internet. Proofs of Real Traffic (PoRT) are one of the unique solutions that make the Koii Network stand out on the blockchain. The Koii Network created and use the PoRT mechanism to power the applications built using Koii’s infrastructure. For example, NFTs owners can benefit from the attention their assets receive online through PoRTs unique capabilities. These NFTs earn KOII tokens proportional to how much attention they receive. The same PoRT mechanism is adapted to K2 but with a significantly increased capacity (up to 1 billion per day). With this, NFT creators and owners can continue to earn passive income by putting their idle assets to work.
-
+Koii is a protocol focused on building infrastructure to enable a more open and transparent internet. Proofs of Real Traffic (PoRT) are one of the unique solutions that make the Koii Network stand out on the blockchain. The Koii Network created and use the PoRT mechanism to power the applications built using Koii’s infrastructure. For example, NFTs owners can benefit from the attention their assets receive online through PoRTs unique capabilities. These NFTs earn KOII tokens proportional to how much attention they receive. The same PoRT mechanism is adapted to K2 but with a significantly increased capacity (up to 150 billion per day). With this, NFT creators and owners can continue to earn passive income by putting their idle assets to work.
 
 ### New Settlement Layer
 
