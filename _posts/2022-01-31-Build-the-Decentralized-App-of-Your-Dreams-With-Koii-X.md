@@ -41,7 +41,7 @@ For this example, we will use a Koii-X template for deploying a crypto crowdfund
 4. Deploy to Arweave using **Yarn build** and **Yarn deploy**
 5. Open deployed application by going to https://arweave.net/”TXID” (TXID of your app deployment TX)
 
-For a more detailed guide, check out our [step-by-step tutorial](https://docs.koii.network/build-dapps-with-koii/template-library/crowdfunding-portal){:target="\_blank"}. 
+For a more detailed guide, check out our [step-by-step tutorial](https://docs.koii.network/build-dapps-with-koii/template-library/crowdfunding-portal){:target="\_blank"}.
 
 ### Our Goal
 
