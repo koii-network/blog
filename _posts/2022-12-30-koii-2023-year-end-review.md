@@ -104,11 +104,11 @@ We have been hard at work on a pipeline for onboarding university engineering pr
 
 This has been a big newsletter, but we had a big year. We’re grateful for your continued support, and as our way to say thank you, we have a couple of special offers for you today.
 
-Jump the line for the node beta—we have over 45k nodes signed up, so we want to give you a chance to skip the line. **30 seconds could get you onboarded to build your Koii Reputation first.**
+We have over 45k nodes signed up, and you still have a chance to join the list! **30 seconds could get you onboarded to build your Koii Reputation first.**
 
 [Fill out the form here.](https://share.hsforms.com/1kLtk8rfURZ-HY2xnKRTfCgc20dg){:target="\_blank"}
 
-If you’ve already filled in the form, you might also be eligible for a free trial of a hosted node, running in a high-capacity data center, thanks to our partners at IBM. These large scale servers stay on when your personal devices need to go offline, and give you a chance to earn even more KOII once the [compute-sharing marketplace](https://docs.koii.network/earning-koii/compute-sharing-marketplace){:target="\_blank"} is live in Q1.
+Jump the line for the node beta — If you’ve already filled in the form above, you might also be eligible for a free trial of a hosted node, while getting priority over others. These hosted nodes are run in a high-capacity data center, thanks to our partners at IBM. The large scale servers also stay on when your personal devices need to go offline, and give you a chance to earn even more KOII once the [compute-sharing marketplace](https://docs.koii.network/earning-koii/compute-sharing-marketplace){:target="\_blank"} is live in Q1.
 
 [RSVP for Hosted Nodes Here](https://share.hsforms.com/1VczoingXQQKB2ExR3PXouAc20dg){:target="\_blank"}
 
