@@ -12,12 +12,11 @@ Welcome to the Koii Network 2022 Year End Update! We are so glad that you’ve j
 
 - [Tech Updates](#tech_updates)
   - [The K2 Settlement Layer is now live, get **free tokens** and try instant transactions today](#k2_live)
-  - [Compute Sharing Marketplace will launch in Q1, with support from IBM](#compute_sharing)
+  - [Compute-Sharing Marketplace will launch in Q1, with support from IBM](#compute_sharing)
   - [Re-Architecture to IPFS & Filecoin saves costs and expands possibilities](#improve)
-  - Introducing CARP, the Compute and Reputation Protocol
-- 1200+ Ecosystem Projects
-- 100+ Education Partners
-- Token Launch
+- [1200+ Ecosystem Projects](#Ecosystem_Growth)
+- [100+ Education Partners](#Education)
+- [Token Launch](#KOII_Tokens)
 
 ## Koii is the only network with web-scale composability <span id="tech_updates"></span>
 
@@ -43,7 +42,7 @@ While Koii originated within the Arweave ecosystem, we’ve now re-architected t
 
 Do you know a project who could use easy storage or pinning with using out-of-the-box templates? Send them our way - [the grants program](https://blog.koii.network/The-Koii-Grant-Program-Set-for-Launch/){:target="\_blank"} is open, and we’re here to help!
 
-### Ecosystem Growth
+### Ecosystem Growth <span id="Ecosystem_Growth"></span>
 
 As you might already have heard from our Twitter announcements, we are building out our ecosystem in full force. Among the **1,200+ projects** that want to become part of our ecosystem, here are 5 that we are incredibly excited about. We are motivated by what they’re building and the future we are all crafting together.
 
@@ -85,7 +84,7 @@ The first cohort will be launching in January! [Nominate your favorite web3 proj
 
 ![make it rain](/assets/images/blog/2022eoy/make%20it%20rain%20FINNIE.gif)
 
-## KOII Tokens & Desktop Nodes
+## KOII Tokens & Desktop Nodes <span id="KOII_Tokens"></span>
 
 2023 is going to be a big year, and we are stoked. Along with the finished re-architecture and public launch of the [compute-sharing marketplace](https://docs.koii.network/earning-koii/compute-sharing-marketplace){:target="\_blank"} of tasks and nodes, **the desktop node will be launching in Q1**. With over 45,000 nodes on the waitlist, we can’t support everyone at once, so we will be rolling out the beta 100 nodes at a time. to make sure we don’t break anything.
 
@@ -94,7 +93,7 @@ The first cohort will be launching in January! [Nominate your favorite web3 proj
 **GOOD NEWS!**<br/>
 We are planning to publicly launch the KOII token in Q3. We will keep you updated as we get closer so you don’t miss out.
 
-### Education
+### Education <span id="Education"></span>
 
 As so many projects in Web3 have learned, great technology is only half the problem. That’s why in 2023, Koii will be dedicating most of our efforts towards education and community growth. Over the past year, the Koii team has been active on 5 continents, and has presented our plan in over 10 languages. We’ve found incredible support from not only investors and developers, but educators, students, and artists as well.
 
