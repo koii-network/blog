@@ -21,15 +21,17 @@ Welcome to the Koii Network 2022 Year End Update! We are so glad that you’ve j
 
 ## Koii is the only network with web-scale composability <span id="tech_updates"></span>
 
-Koii began our journey towards building a better internet in 2021, and we’ve spent the last year upgrading and expanding the capacity of the network to meet web-scale demand. Our vision for a better web is now nearly complete, and will launch in January 2023. The re-architecture away from Arweave to IPFS and filecoin has unlocked new possibilities, along with the introduction of our very own transaction layer, K2, which will give the KOII token and dApps unprecedented scalability. Along with these updates, we’re excited to announce that the [compute-sharing marketplace](https://docs.koii.network/earning-koii/compute-sharing-marketplace){:target="\_blank"} and task nodes are now finally ready for launch, and will see expanded capabilities thanks to the changes we made this year.
+Koii began our journey towards building a better internet in 2021, and we’ve spent the last year upgrading and expanding the capacity of the network to meet web-scale demand. Our vision for a better web is now nearly complete, and will launch in January 2023. The re-architecture to include IPFS and Filecoin has unlocked new possibilities, along with the introduction of our very own transaction layer, K2, which will give the KOII token and dApps unprecedented scalability. Along with these updates, we’re excited to announce that the [compute-sharing marketplace](https://docs.koii.network/earning-koii/compute-sharing-marketplace){:target="\_blank"} and task nodes are now finally ready for launch, and will see expanded capabilities thanks to the changes we made this year.
 
 ### K2 is Live <span id="k2_live"></span>
 
-For starters, we launched K2, our very own settlement layer. K2 achieves **near-instant settlement times** and allows for massive transaction throughput when combined with tasks and task nodes. This is made possible by using a highly decentralized derivative of Solana’s Proof-of-History protocol.
+For starters, we launched K2, our very own settlement layer. K2 achieves **near-instant** settlement times and allows for massive transaction throughput when combined with tasks and task nodes. We were able to accomplish this by using a highly decentralized derivative of Solana’s Proof-of-History protocol.
 
 K2 is designed for tasks to **handle compute off-chain**, which means it has minimal dependence on smart contracts. Koii’s compute marketplace allows for a blend of consensus time and scalability, ensuring composable solutions for data management without crowding the core blockchain. Running a K2 validator gets you a share of transaction fees, as well as a chance to mine new blocks when they are minted. Off-chain compute makes transactions and consensus lightning fast.
 
 [Sign up today to become a K2 Validator.](https://share.hsforms.com/1TBLW2c-gTHWusadfGZ8uGQc20dg){:target="\_blank"}
+
+![K2](/assets/images/blog/2022eoy/k2%20graphic.png)
 
 ### Compute-Sharing Marketplace <span id="compute_sharing"></span>
 
@@ -43,31 +45,45 @@ Do you know a project who could use easy storage or pinning with using out-of-th
 
 ### Ecosystem Growth
 
-As you might already have heard from our Twitter announcements, we are building out our ecosystem in full force. Among the **1,200+ projects** that want to become part of our ecosystem, here are 5 that we are most excited about. We are motivated about what they’re building and the future we are all crafting together.
+As you might already have heard from our Twitter announcements, we are building out our ecosystem in full force. Among the **1,200+ projects** that want to become part of our ecosystem, here are 5 that we are incredibly excited about. We are motivated by what they’re building and the future we are all crafting together.
+
+![EOY 20Projects](/assets/images/blog/2022eoy/EOY%20Projects.png)
 
 [Idexo](https://idexo.com/){:target="\_blank"}<br/>
-Idexo will be using Koii tasks and nodes to provide cross-chain bridging with low fees and trustless validators.
+Idexo will use Koii tasks and nodes to provide cross-chain bridging with low fees and trustless validators.
 
 [Peeranha](https://peeranha.io/){:target="\_blank"}<br/>
-Peeranha is an online platform where users get rewarded with tokens by asking questions and providing answers, and is rapidly making use of the Koii Tooling. [Click here to hear more about the partnership from founder Sergey Ilinn.](https://twitter.com/Peeranhaio/status/1598739683143319552?s=20&t=6gtxYVvsOiyKs9c6WNe9Mw){:target="\_blank"}
+Peeranha is an online platform where users get rewarded with tokens by asking questions and providing answers, and is rapidly making use of the Koii Tooling, like attention tracking and reputation. [Click here to hear more about the partnership from founder Sergey Ilinn.](https://twitter.com/Peeranhaio/status/1598739683143319552?s=20&t=6gtxYVvsOiyKs9c6WNe9Mw){:target="\_blank"}
 
 [Web3.Storage](https://web3.storage/){:target="\_blank"} (w3s for short)<br/>
 Web3.Storage will be implemented as the default storage option on Koii’s [Task Nodes](https://docs.koii.network/microservices-and-tasks/what-are-tasks){:target="\_blank"}, and provides fast caching and CDN support for IPFS data.
 
 [Bacalhau](https://www.bacalhau.org/){:target="\_blank"}<br/>
-Bacalhau is a project that aims to help the scientific community by processing big data on the Filecoin nodes quickly and efficiently, and complements Koii’s Task Nodes with increased performance for high-throughput tasks.
+Bacalhau aims to help the scientific community by processing big data on the Filecoin nodes quickly and efficiently, and complements Koii’s Task Nodes with increased performance for high-throughput tasks.
 
 [Filecoin](https://filecoin.io/){:target="\_blank"}<br/>
 Filecoin is a decentralized data storage marketplace, protocol, and cryptocurrency. We are thrilled to be partnering with the Filecoin ecosystem (you may have noticed that several of the above projects are also part of the Filecoin ecosystem). Many of the goals they are working on have big impacts on the future of the internet, and we will be announcing some research initiatives we will be working on with them in the coming year.
 
-Thanks for sticking with us through some of the partnerships we wanted to highlight.<br/>
-Who should we talk to in your network? Do you know projects we can help grow and thrive?
+Thanks for sticking with us through some of the partnerships we wanted to highlight.
+
+Who should we talk to in your network? Do you know projects we can help grow and thrive?<br/>
+[Give them a quick shout out here!](https://share.hsforms.com/1FkZh4r_qT3uZcD-x14moygc20dg){:target="\_blank"}
+
+![Meme](/assets/images/blog/2022eoy/Meme%20newsletter.png)
 
 ## Founder Support Program
 
-One of the ways we are helping support/bolster new founders is through the Koii Pitch Competition. From expert feedback and help refining your pitch, to getting published on Koii’s media channels with edited clips, technical help, grants, and introductions to our partner network and accelerators, the Pitch Competition is designed to help early stage founders build fast and get moving. The first cohort will be launching in January, and submissions have already closed, so invite your friends to become part of our ecosystem and reimagine the web.
+One of the ways we are helping support and bolster new founders is through the Koii Pitch Competition. From expert feedback for your pitch to getting introduced to our partner network, the Pitch Competition is designed to help early stage founders build fast and get moving. Here are other ways that we help teams explore the possibilities of decentralization:
 
-[Nominate your favorite web3 project for our next cohort](https://share.hsforms.com/1FkZh4r_qT3uZcD-x14moygc20dg){:target="\_blank"}
+- Expert Technical Advice
+- Mentorship from Investors & Fellow Founders
+- Partnership Opportunities & Network Growth
+- Pitch Coaching & Fundraising Guidance
+- Media Support & Promotional Help
+
+The first cohort will be launching in January! [Nominate your favorite web3 project for our next cohort](https://share.hsforms.com/1FkZh4r_qT3uZcD-x14moygc20dg){:target="\_blank"}
+
+![make it rain](/assets/images/blog/2022eoy/make%20it%20rain%20FINNIE.gif)
 
 ## KOII Tokens & Desktop Nodes
 
@@ -80,23 +96,25 @@ We are planning to publicly launch the KOII token in Q3. We will keep you update
 
 ### Education
 
-As so many projects in Web 3.0 have learned, great technology is only half the problem. That’s why in 2023, Koii will be dedicating most of our efforts towards education and community growth. Over the past year, the Koii team has been active in 5 continents, and has presented our plan in over 10 languages. We’ve found incredible support from not only investors and developers, but educators, students, and artists as well.
+As so many projects in Web3 have learned, great technology is only half the problem. That’s why in 2023, Koii will be dedicating most of our efforts towards education and community growth. Over the past year, the Koii team has been active on 5 continents, and has presented our plan in over 10 languages. We’ve found incredible support from not only investors and developers, but educators, students, and artists as well.
 
-We have been hard at work on a pipeline for onboarding university engineering programs and code schools to help more JavaScript developers get access to our tools. Do you think your university or code school might be interested? Introduce us!
+We have been hard at work on a pipeline for onboarding university engineering programs and code schools to help more JavaScript developers get access to our tools. Do you think your university or code school might be interested? [Introduce us!](https://share.hsforms.com/1nnHVLe4DT8OiVcv75-QDSwc20dg){:target="\_blank"}
 
-This has been a big newsletter, but we had a big year. We’re grateful for your continued support, and as our way to say thank you, we have a couple of special offers for you today. You’ve made it this far! Thanks for sticking with us. For your long journey here, we have a couple of special offers for you.
+![EOY ecosystem](/assets/images/blog/2022eoy/EOY%20Ecosystem.png)
 
-Jump the line for the node beta—we have over 45k nodes signed up, so we want to give you a chance to skip the line. so you want to get to the front. **30 seconds could get you onboarded and building your Koii Reputation first.**
+This has been a big newsletter, but we had a big year. We’re grateful for your continued support, and as our way to say thank you, we have a couple of special offers for you today.
 
-[Fill out the form here.](https://share.hsforms.com/1VczoingXQQKB2ExR3PXouAc20dg){:target="\_blank"}
+Jump the line for the node beta—we have over 45k nodes signed up, so we want to give you a chance to skip the line. **30 seconds could get you onboarded to build your Koii Reputation first.**
 
-If you’ve already filled in the form, you might also be eligible for a free trial of a hosted node, running in a high-capacity data center, thanks to our partners at IBM. These large scale servers can stay on when your personal devices need to go offline, and give you a chance to earn even more Koii once the [compute-sharing marketplace](https://docs.koii.network/earning-koii/compute-sharing-marketplace){:target="\_blank"} is live in Q1.
+[Fill out the form here.](https://share.hsforms.com/1kLtk8rfURZ-HY2xnKRTfCgc20dg){:target="\_blank"}
 
-RSVP for Hosted Nodes Here
+If you’ve already filled in the form, you might also be eligible for a free trial of a hosted node, running in a high-capacity data center, thanks to our partners at IBM. These large scale servers stay on when your personal devices need to go offline, and give you a chance to earn even more KOII once the [compute-sharing marketplace](https://docs.koii.network/earning-koii/compute-sharing-marketplace){:target="\_blank"} is live in Q1.
 
-You can also get some free tokens from the new KOII Faucet by verifying your Twitter or Discord handle to prove you’re humans. Just make sure you have a new Koii account in Finnie.
+[RSVP for Hosted Nodes Here](https://share.hsforms.com/1VczoingXQQKB2ExR3PXouAc20dg){:target="\_blank"}
 
-[Try the Faucet](koii.me/faucet){:target="\_blank"}
+You can also get some free tokens from the new KOII Faucet by verifying your Twitter or Discord handle to prove you are human. Just make sure you have a new Koii account in Finnie.
+
+[Try the Faucet](https://koii.me/faucet){:target="\_blank"}
 
 It’s been a big year and the coming year will be even bigger so stick around and see the waves we make!
 
