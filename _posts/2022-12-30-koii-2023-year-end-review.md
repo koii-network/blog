@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KOII token launch, IBM partnership, and Massive Ecosystem Growth"
+title: "KOII Token Launch, IBM + Filecoin Partnerships, & Massive Ecosystem Growth"
 subtitle: "1200+ Projects, 100+ Universities, 100+ Investors"
 categories: [Announcement]
 image: assets/images/blog/2022eoy/2022EOY.png
