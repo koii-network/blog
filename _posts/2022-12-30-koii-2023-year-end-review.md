@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "KOII Token Launch, Filecoin partnership, and Massive Ecosystem Growth"
-subtitle: "1200+ Projects, 100+ Universities, and 250+ Hosted Nodes"
+title: "KOII token launch, IBM partnership, and Massive Ecosystem Growth"
+subtitle: "1200+ Projects, 100+ Universities, 100+ Investors"
 categories: [Announcement]
 image: assets/images/blog/2022eoy/2022EOY.png
 ---
@@ -13,7 +13,7 @@ Welcome to the Koii Network 2022 Year End Update! We are so glad that you’ve j
 - [Tech Updates](#tech_updates)
   - [The K2 Settlement Layer is now live, get **free tokens** and try instant transactions today](#k2_live)
   - [Compute Sharing Marketplace will launch in Q1, with support from IBM](#compute_sharing)
-  - [Re-Architecture from Arweave to IPFS / Filecoin saves costs and expands possibilities](#improve)
+  - [Re-Architecture to IPFS & Filecoin saves costs and expands possibilities](#improve)
   - Introducing CARP, the Compute and Reputation Protocol
 - 1200+ Ecosystem Projects
 - 100+ Education Partners
