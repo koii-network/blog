@@ -11,6 +11,11 @@ mailchimp-list: "http://eepurl.com/he-SCz"
 include: ["_pages"]
 permalink: /:title/
 
+# SEO
+twitter:
+  username: KoiiNetwork
+  image: "/assets/images/WELCOMEFINNIE_TWITTTERBLOG.png"
+
 # Plugins
 plugins:
   - jekyll-feed
