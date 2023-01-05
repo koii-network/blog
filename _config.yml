@@ -14,7 +14,7 @@ permalink: /:title/
 # SEO
 twitter:
   username: KoiiNetwork
-  image: "/assets/images/WELCOMEFINNIE_TWITTTERBLOG.png"
+  image: "https://blog.koii.network/assets/images/WELCOMEFINNIE_TWITTTERBLOG.png"
 
 # Plugins
 plugins:
