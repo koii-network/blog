@@ -6,7 +6,7 @@ categories: [Announcement]
 image: assets/images/blog/2022eoy/2022EOY.png
 ---
 
-_We are helping founders build their Web3 projects. If you believe in the core principle of empowering people through community-powered apps, we’ll provide technical and financial support to bring your product to life.You will learn from tech experts, access our partnership network, and get media support. Equitable access to the internet is possible, and our purpose is to make that a reality with the Koii Founder Support program._
+_If you believe in the core principle of empowering people through community-powered apps, we’ll provide technical and financial support to bring your product to life. **You will learn from tech experts, access our partnership network, and get media support.** Equitable access to the internet is possible, and our purpose is to make that a reality with the [Koii Founder Support program](https://www.koii.network/founders)._
 
 ![Founder Animation here](/)
 
