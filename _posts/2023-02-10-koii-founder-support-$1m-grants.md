@@ -10,7 +10,7 @@ _If you believe in the core principle of empowering people through community-pow
 
 <iframe width="500" height="500" src="https://www.youtube.com/embed/p4m4qThshfg" title="Reimagine the Web with Koii's Founder Support Program!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/>
-The internet once belonged to the people that used it. While originally intended to be community-run, it has now become a monopoly of corporate entities (\*cough cough\* Google, Meta, Amazon 🫢). We use the web to connect with each other, but Big Tech keeps all the value generated from our content and our data. A community-based internet wins because we’re taking back what’s really ours: connection.
+The internet once belonged to the people that used it. While originally intended to be community-run, it has now become a monopoly of corporate entities (\*cough cough\* Google, Meta, Amazon 🤧). We use the web to connect with each other, but Big Tech keeps all the value generated from our content and our data. A community-based internet wins because we’re taking back what’s really ours: connection.
 
 One of our biggest values at Koii is community: an internet owned and governed by the people who use it. So, we’re re-imagining and rebuilding the web **together**.
 
