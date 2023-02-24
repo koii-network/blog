@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to deploy a Koii Task in less than 5 minutes"
-categories: [Vision]
+title: "Deploy a Koii Task in less than 5 minutes"
+categories: [Announcement]
 image: assets/images/write-history.jpg
 ---
 Koii Tasks allow communities around the world to pool computing resources towards common goals. Anyone with a basic understanding of JavaScript [can easily start hacking](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task), and we're here to help on our [discord](https://discord.gg/koii) if you have questions.
@@ -15,6 +15,7 @@ If you have any feedback on the model, we'd love hear what you think. Koii Impro
 # Installation
 
 The first step is to install the create-task-cli tool, run the command below to install it:
+
 ```
 npm i -g @_koii/create-task-cli
 ```
@@ -29,33 +30,39 @@ If you're not using the task executable, you'll need to webpack your project you
  
 # Deploying a Task
 After installing the CLI tool successfully, run the command below:
+
 ```
 create-task-cli
 ```
+
 After running the command above, you'll be required to provide answers for the following prompts:
+
 1.  **Enter the path to your wallet** — Here you will add the path to your Koii wallet. E.g "/Users/<YOUR_HOME>/.config/koii/id.json"
-2.  **Select operation** — Select *"Create a new task"* option.
+2.  **Select operation** — Select _"Create a new task"_ option.
 3.  **Enter the name of the task** — Add a name for your task; all tasks have a name, which can be anything, for example, "extremely-fast-task," "dogs-vs-cats."
 4.  **Enter a short description of your task** — Add a brief explanation of your task.
 5.  **Enter the network to be used to upload your executable [IPFS / ARWEAVE / DEVELOPMENT]** — Choose IPFS or ARWEAVE for storage of your executable file, or DEVELOPMENT if you haven’t developed your task yet.
 
-> Note — The next prompt is determined by your response to the previous prompt.
+    > Note — The next prompt is determined by your response to the previous prompt.
+
 6.  [For *IPFS*] **Enter the web3.storage API key** — Create an API Token for your project on your web3.storage dashboard, then paste it into this prompt. Create a [web3.storage account](https://web3.storage/login/).
 7.  [For *ARWEAVE*] **Enter Arweave id of the deployed Koii task executable program** — Upload your task executable to [Arweave](https://www.arweave.org/) and add the ID to the uploaded file to this prompt.
-8.  [For *DEVELOPMENT*] **Enter the name of executable you want to run on  task-nodes** — Enter a desired name for your task executable, this will be the same name of the executable file that will exist in the task node's executables folder.
-9.  [For *IPFS* and *ARWEAVE*] **Enter the path to your executable webpack** — Add the absolute path to your task executable file. E.g:  "/Users/<YOUR_HOME>/Documents/testing-task/dist/main.js"
-10.  **Enter the round time in slots** — Enter your preferred number of slots per round. E.g: 1000
-11.  **Enter the audit window in slots** — Enter the number of slots to be allocated to the audit window. E.g: 500
-12.  **Enter the submission window in slots** — Enter the number of slots to be allocated to the submission window. E.g: 300
->   Note — The number of slots in the audit window and submission must be lower than the number of slots per round.
-13.  **Enter the minimum staking amount in roes** — Enter the minimum amount of KOII that node operators should be able to stake on the task. E.g: 50
-14.  **Enter the total bounty you want to allocate for the task (In KOII)** — Any amount not more than what you have in your wallet though. E.g: 1000 (We suggest the amount could be run at least 4 epochs)
-15.  **Enter the bounty amount per round** — Total amount would be divided equally for each number until the bounty fund is exhausted. E.g: 10
-16.  **Enter TaskMetadata CID hosted on IPFS (Leave empty for None)** — Click the *"Upload Files"* button on your web3.storage account, and then upload a JSON file containing the metadata for your task. In this prompt, enter the CID for the uploaded file. Here's an [example of metadata](https://docs.koii.network/microservices-and-tasks/what-are-tasks/key-components#metadata).
-17.  **Enter CID for environment variables hosted on IPFS (Leave empty for None)** — If your task requires environment variables to be run by node runners, upload a JSON file that contains those variables to IPFS using web3.storage. Add the CID of the uploaded file to this prompt.
-18.  **Enter the space, you want to allocate for task account (in MBs)** — Each task would need some storage for persistence, enter the size in MBs. E.g: 50
+8.  [For *DEVELOPMENT*] **Enter the name of executable you want to run on task-nodes** — Enter a desired name for your task executable, this will be the same name of the executable file that will exist in the task node's executables folder.
+9.  [For *IPFS* and *ARWEAVE*] **Enter the path to your executable webpack** — Add the absolute path to your task executable file. E.g: "/Users/<YOUR\*HOME>/Documents/testing-task/dist/main.js"
+10. **Enter the round time in slots** — Enter your preferred number of slots per round. E.g: 1000
+11. **Enter the audit window in slots** — Enter the number of slots to be allocated to the audit window. E.g: 500
+12. **Enter the submission window in slots** — Enter the number of slots to be allocated to the submission window. E.g: 300
 
-After the final confirmation of `y`, your task would be created along with  a `taskStateInfoKeypair.json` which is used to control the task state info.
+    > Note — The number of slots in the audit window and submission must be lower than the number of slots per round.
+
+13. **Enter the minimum staking amount in roes** — Enter the minimum amount of KOII that node operators should be able to stake on the task. E.g: 50
+14. **Enter the total bounty you want to allocate for the task (In KOII)** — Any amount not more than what you have in your wallet though. E.g: 1000 (We suggest the amount could be run at least 4 epochs)
+15. **Enter the bounty amount per round** — Total amount would be divided equally for each number until the bounty fund is exhausted. E.g: 10
+16. **Enter TaskMetadata CID hosted on IPFS (Leave empty for None)** — Click the \*"Upload Files"\_ button on your web3.storage account, and then upload a JSON file containing the metadata for your task. In this prompt, enter the CID for the uploaded file. Here's an [example of metadata](https://docs.koii.network/microservices-and-tasks/what-are-tasks/key-components#metadata).
+17. **Enter CID for environment variables hosted on IPFS (Leave empty for None)** — If your task requires environment variables to be run by node runners, upload a JSON file that contains those variables to IPFS using web3.storage. Add the CID of the uploaded file to this prompt.
+18. **Enter the space, you want to allocate for task account (in MBs)** — Each task would need some storage for persistence, enter the size in MBs. E.g: 50
+
+After the final confirmation of `y`, your task would be created along with a `taskStateInfoKeypair.json` which is used to control the task state info.
 
 *Note:* Make sure to keep this taskStateInfoKeypair.json safe
 
@@ -102,6 +109,7 @@ Stake Pot Account Pubkey: stakepotaccountUqTzV1ZMfXvcupUPSBWHwUykCTCW
 Note: Task Id is basically the public key of taskStateInfoKeypair.json
 Success
 ```
-That's it! Your Koii task has been deployed on K2 and is now visible to node operators. 
 
-Check out the Koii [docs portal](https://docs.koii.network/microservices-and-tasks/task-development-guide/task-development-flow/create-task) for more documentation, and please contact us at http://koii.me/support if you have any questions.
+That's it! Your Koii task has been deployed on K2 and is now visible to node operators.
+
+Check out the Koii [docs portal](https://docs.koii.network/microservices-and-tasks/task-development-guide/task-development-flow/create-task) for more documentation, and please contact us at [http://koii.me/support](http://koii.me/support) if you have any questions.
