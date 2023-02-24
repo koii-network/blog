@@ -4,7 +4,7 @@ title: "How to deploy a Koii Task in less than 5 minutes"
 categories: [Vision]
 image: assets/images/write-history.jpg
 ---
-
+Koii Tasks allow communities around the world to pool computing resources towards common goals. Anyone with a basic understanding of JavaScript [can easily start hacking](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task), and we're here to help on our [discord](https://discord.gg/koii) if you have questions.
 
 If you want to try the process out, the [create-task-cli](https://www.npmjs.com/package/@_koii/create-task-cli) tool is a great place to start. This article will demonstrate how to use this tool. If you haven't already written a task, you can also try deploying the [sample task](https://github.com/koii-network/task-template) to get started. 
 
