@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Help us write history, and become a victor!"
+title: "How to deploy a Koii Task in less than 5 minutes"
 categories: [Vision]
 image: assets/images/write-history.jpg
 ---
 
-# How to deploy a Koii Task in less than 5 minutes
 
-After creating a Koii task, deploying it on K2 is a fairly simple process, thanks to the koii team for providing the [create-task-cli](https://www.npmjs.com/package/@_koii/create-task-cli) tool, which allows you to deploy tasks on K2 in under 5 minutes. This article will demonstrate how to use this tool.
+If you want to try the process out, the [create-task-cli](https://www.npmjs.com/package/@_koii/create-task-cli) tool is a great place to start. This article will demonstrate how to use this tool. If you haven't already written a task, you can also try deploying the [sample task](https://github.com/koii-network/task-template) to get started. 
 
 Before proceeding, it is important to note that each Koii task has metadata that is typically stored on [IPFS](https://ipfs.tech/). We prefer [web3.storage](https://web3.storage/) for a smooth experience. So, if you don't already have one, set up a [web3.storage account](https://web3.storage/login/) now.
+
+If you have any feedback on the model, we'd love hear what you think. Koii Improvement Proposals can be submitted by [creating a new issue here](https://github.com/koii-network/koii-improvement-proposals), and most are likely to receive grants from the Koii Foundation.
 
 # Installation
 
@@ -18,6 +19,13 @@ The first step is to install the create-task-cli tool, run the command below to 
 npm i -g @_koii/create-task-cli
 ```
 
+# Build the Task Executable
+The [executable](https://docs.koii.network/microservices-and-tasks/task-development-guide/executable-structure) is the core of your Koii Task, and will control what nodes do as they're participating in your community. This is where you can [set incentives](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task/submit-distribution-list) and [define audits](https://docs.koii.network/microservices-and-tasks/task-development-guide/executable-structure/validate-node) to slash stake in event of an attack.
+
+To build your executable out of a task project, which may be many files, we use webpack. If you're using the [task template](), there's a built-in script for this which you can run with:
+```yarn run webpack:prod```
+
+If you're not using the task executable, you'll need to webpack your project yourself, which you can do by copying the `webpack.config.js` file [here](https://github.com/koii-network/task-template/blob/master/webpack.config.js).
  
 # Deploying a Task
 After installing the CLI tool successfully, run the command below:
@@ -49,7 +57,7 @@ After running the command above, you'll be required to provide answers for the f
 
 After the final confirmation of `y`, your task would be created along with  a `taskStateInfoKeypair.json` which is used to control the task state info.
 
-> Make sure to keep this taskStateInfoKeypair.json safe
+*Note:* Make sure to keep this taskStateInfoKeypair.json safe
 
 The output of the command should be similar to the following.
 
