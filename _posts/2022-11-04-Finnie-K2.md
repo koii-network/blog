@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Finnie: faster payments than ever before"
+subtitle: "If you don’t have Finnie yet, get the extension here:"
+button: "Get Finnie"
+buttonlink: https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj
+author: false
+authorlink:
+categories: [Announcement]
+image: assets/images/blog/Finnie_faster.png
+---
+
+The latest version of Finnie is now compatible with K2, Koii’s new settlement layer, and Solana keys, and there have been many more upgrades behind the scenes.
+
+K2 has been running smoothly for a few months. Since the launch of K2, Finnie is faster than ever before. We are hard at work upgrading our entire system and Finnie has been working on those sprints right alongside. This means faster payments and fewer dropped transactions while using the Koii Network.
+
+## So… What is K2?
+
+K2 is Koii’s settlement layer, the place where transactions reach finality. We implemented [Proof of History](https://tokens-economy.gitbook.io/consensus/chain-based-proof-of-capacity-space/proof-of-history#:~:text=Proof%20of%20History%20is%20a%20sequence%20of%20computation%20that%20can,executed%20to%20generate%20the%20output.){:target="\_blank"} consensus by forking parts of Solana’s codebase. Proof of History is critical for sequencing data effectively and allows the network to create a chronological list of all transactions. We forked Solana for this epoch-based consensus, and altered it for time-based epochs which allows for a higher transaction throughput. There are two epochs every day, so that we can process the amount of transactions necessary to run all the [Koii Tasks](https://docs.koii.network/microservices-and-tasks/what-are-tasks){:target="\_blank"} imaginable.
+
+(We are currently testing K2 to see just how many transactions K2 can handle and we’ll keep the community updated on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"} and in the [Discord](https://discord.gg/koii){:target="\_blank"}.)
+
+K2 does not store much data so it will remain fast and lightweight forever. We leverage (and help our creators leverage) the benefits of distributed storage like [IPFS](https://ipfs.tech/){:target="\_blank"} to hold the data and smart contracts.
+
+## Why did we build our own settlement layer, you ask?
+
+Well, K2 allows for the node network (desktop node beta starting soon) and the implementation of Tasks to thrive in the wider ecosystem. Tasks are more efficient and more stable with time-based epochs. And we get the added bonus of Solana compatibility for Finnie.
+
+With the settlement layer, we are creating a more lightweight system, because K2 employs the use of decentralized storage layers, and does not store any smart contracts itself. K2 coordinates the network’s activity across thousands of devices without requiring all the information to be stored on-chain.
+
+## What about my existing KOII?
+
+Don’t worry! Your tokens will make the transition to K2, but only once the system is fully audited. In Finnie, the legacy tokens will be called KOII 1st Testnet. After the network has been audited, we will have a transition process where you can convert your tokens and NFTs to earn rewards through K2.
+
+Speaking of NFTs! K2 NFT creation is in the works. It’s a bit complicated but we are working to make it just as easy as the current version. You can still create Arweave NFTs from Finnie, but they will still require AR tokens to pay the storage fee.
+
+## Check out the new version and see how fast Finnie can swim!
+
+We always want to hear from you. Let us know what you like about the new Finnie on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"} (#Finnie) and if you find any issues, fill out a [bug report](https://share.hsforms.com/1Nmy8p6zWSN2J2skJn5EcOQc20dg){:target="\_blank"} so we can fix it ASAP.
+
+Don’t have the extension yet? [Get it here](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){:target="\_blank"}.

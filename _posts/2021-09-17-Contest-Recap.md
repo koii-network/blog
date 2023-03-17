@@ -34,7 +34,6 @@ Koii Artist : [LevLeyz777](https://koi.rocks/artist/4xE0UwdeFlT6VsdyjIK_QvAtQM12
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Koiicares?src=hash&amp;ref_src=twsrc%5Etfw">#Koiicares</a> <a href="https://twitter.com/KoiiNetwork?ref_src=twsrc%5Etfw">@KoiiNetwork</a><a href="https://twitter.com/EdgeofNFT?ref_src=twsrc%5Etfw">@EdgeofNFT</a><br>Check out my NFT, now stored on Koii — forever! <a href="https://t.co/2CXqbxhe2K">https://t.co/2CXqbxhe2K</a></p>&mdash; Crypto TanyaH (@CryptoTanyah) <a href="https://twitter.com/CryptoTanyah/status/1432230085071974400?ref_src=twsrc%5Etfw">August 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <hr>
-<iframe width="100%" height="400px;" src="https://arweave.net/VzHTMK9D6gL1MHkE5iDWKremCZumgkG1yg5H4iMs6-k" title="Koii  NFT image" frameborder="0" allowfullscreen></iframe>
 
 Manic
 
