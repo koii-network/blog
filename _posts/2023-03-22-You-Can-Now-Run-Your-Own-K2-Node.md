@@ -3,7 +3,7 @@ layout: post
 title: "You Can Now Run Your Own K2 Node"
 subtitle: "The K2 validator testnet is the foundation for a network with lightning fast transactions that enables developers to build oracles, social platforms, games, and more."
 categories: [Announcement]
-image: assets/images/blog/deploy-task.png
+image: assets/images/blog/Blog-cover-K2-NODES.png
 ---
 
 ## K2 nodes are now online—run one today. 
@@ -21,12 +21,18 @@ To leverage cheaper and more secure compute, any developer can write a simple ta
 <button class="button" onclick="window.open('http://koii.me/k2')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Join the K2 Testnet</button>
 </div><br/>
 
+<div class="box p-3" style="border: ridge">
+
 <div class="text-center font-italic">Want to see how fast K2 is?</div>
 
-Check out the [faucet](https://faucet.koii.network/){:target:"\_blank"} and get some KOII with your [Finnie wallet](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){:target:"\_blank"}. Join our [Discord](https://discord.gg/koii){:target:"\_blank"}, and you might even get some extra free tokens in the process. 
+Check out the <a href="https://faucet.koii.network/">faucet</a> and get some KOII with your <a href="https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj">Finnie wallet</a>. Join our <a href="https://discord.gg/koii">Discord</a>, and you might even get some extra free tokens in the process. 
+
+
 
 <div class="more" style="text-align: center;">
 <button class="button" onclick="window.open('https://faucet.koii.network/')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Go to the faucet</button>
+</div>
+
 </div><br/>
 
 Our JavaScript tasks allow massive amounts of off-chain data to connect and verify large databases using IPFS and other storage layers. This results in incredible settlement speed and data capacity, while expanding the toolkit for true decentralization. 
@@ -79,9 +85,10 @@ Projects in the Koii ecosystem are already developing DeFi applications because 
 
 [Idexo](https://idexo.com/) is one great example of using [Koii tasks to run a multichain bridge](https://cointelegraph.com/news/koii-labbs-idexos-launch-middleware-bridge-aiming-to-replace-cexs). Idexo’s wrapped token standard is exponentially more secure because the bridge is able to randomly select a subset of Koii’s tens of thousands of task nodes to act as validators. The [K2 Task Program](https://docs.koii.network/settlement-layer/native-contracts/the-task-contract) provides the core of this system, managing staking and audits, and providing microsecond timestamps to keep all of these thousands of validators in sync. 
 
-### Why Gradual Consensus?
+<div class="box pb-4" style="border: ridge">
+<h3>Why Gradual Consensus?</h3>
 For new developers building on Koii, this built-in consensus management saves development time and headaches, while increasing security through standardization. 
-
+</div>
 ### Decentralized Social Media
 Social media where users own and earn from their data is the future. Currently, social networks in Web2 own all of your data posted online. Since you don’t own it, you don’t profit from the traffic or attention it generates. Projects like [Twitter Bluesky](https://twitter.com/bluesky), [Mastodon](https://joinmastodon.org/), and [Ome](http://ome.foundation) provide decentralized social media, but their revenue models depend on being able to track views on content.
 
