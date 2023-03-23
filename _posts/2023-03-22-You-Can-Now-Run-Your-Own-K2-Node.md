@@ -6,6 +6,8 @@ categories: [Announcement]
 image: assets/images/blog/Blog-cover-K2-NODES.png
 ---
 
+Move your mouse, click one button, and transfer tokens instantly. This is what a perfect transaction looks like on K2.
+
 ## K2 nodes are now online—run one today. 
 
 There’s a reason we built our own settlement layer: we needed something more than just another L1 chain. K2 is a custom-designed message hub that provides near-instantaneous communication of value and data between Koii nodes. Without K2, Koii would be stuck using another L1 and the entire network would be subject to their congestion. K2 ensures that task execution and performance are completely optimized.
