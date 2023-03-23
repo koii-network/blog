@@ -49,15 +49,16 @@ Let’s take a look at how far we’ve come in the last year.
 
 We’ve made some major upgrades to K2. There’s a lot of new functionality under the hood, but the major improvements of Gradual Consensus v3, integration of IPFS data, and the expansion of attention tracking primitives prepares the Koii Network for truly decentralized web-scale deployments.  
 
-- [Gradual Consensus 3.0](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus)
+- [**Gradual Consensus 3.0**](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus)
     The latest version of gradual consensus is faster than ever (No, seriously). Now, gradual consensus can be customized to [run at any time interval](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus), and we’ve expanded node-to-node communications within the task layer to ensure that data sharing across the network is fast enough to run consensus cycles under one minute without complications.
 
 
-- Direct integration of IPFS CIDs into Gradual Consensus
-    I[PFS’s content-based IDs (“CIDs”)](https://docs.ipfs.tech/concepts/content-addressing/#what-is-a-cid) are perfect for indexing large data sets and also provide an inherent checksum when downloading task executables. Using the new framework, submissions in [gradual consensus](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus) are represented by CID hashes, minimizing data consumption and enabling K2 to incorporate effectively infinite data sets directly into the tasks consensus process.
+- **Direct integration of IPFS CIDs into Gradual Consensus**
+    
+    [IPFS’s content-based IDs (“CIDs”)](https://docs.ipfs.tech/concepts/content-addressing/#what-is-a-cid) are perfect for indexing large data sets and also provide an inherent checksum when downloading task executables. Using the new framework, submissions in [gradual consensus](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus) are represented by CID hashes, minimizing data consumption and enabling K2 to incorporate effectively infinite data sets directly into the tasks consensus process.
 
 
-- Attention Mining
+- **Attention Mining**
     In the latest K2 release, we’re proud to announce that we’ve developed the Proof-of-Real-Traffic consensus flow to include off-chain IPFS storage, expanding the capacity of the system exponentially in the process. 
 
     If that weren’t enough, the protocol now supports “lazy registration,” allowing attention to be tracked before a [registration payment](https://docs.koii.network/earning-koii/registering-content) is made, expanding the reach of Attention Rewards to web content and a range of non-NFT applications.
