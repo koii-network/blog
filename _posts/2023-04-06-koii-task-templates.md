@@ -48,7 +48,7 @@ Once the distribution list has been validated and any malicious nodes removed, r
 Tokens are staked on a per-task basis, ensuring sufficient collateral to secure the underlying bounty and providing stable and predictable outcomes in case of an audit.
 
 
-![alt_text](images/image1.png "image_tooltip")
+![tasks.png](/assets/images/blog/tasks.png)
 
 
 ## A Better Standard for Web3 (and Beyond)
@@ -69,7 +69,7 @@ Task templates catapult Koii into the [$480 billion cloud computing market](http
 <div class="text-center font-italic">Interested in becoming a node operator? </div>
 You can make passive income by running tasks with your personal device. The task nodes are almost ready to launch and we'll let you know as soon as you can get started.
 <div class="more" style="text-align: center;">
-<button class="button" onclick="window.open('https://faucet.koii.network/')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Sign up to Earn Passive Income</button>
+<button class="button" onclick="window.open('https://www.koii.network/earn')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Sign up to Earn Passive Income</button>
 </div>
 
 </div><br/>
