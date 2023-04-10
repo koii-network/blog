@@ -45,7 +45,10 @@ The `task` function contains the core logic of a Koii task. The logic for the no
 3. **[Reward](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus)** 
 Once the distribution list has been validated and any malicious nodes removed, rewards are distributed among participating nodes. 
 4. **[Collateral](https://docs.koii.network/microservices-and-tasks/what-are-tasks/staking-and-voting)** 
-Tokens are staked on a per-task basis, ensuring sufficient collateral to secure the underlying bounty and providing stable and predictable outcomes in case of an audit.
+If a participating node is found to be acting fraudulently, its staked tokens can be confiscated (i.e. slashed) by other nodes so that it can be safely removed from the voting pool.
+
+We say easy as 1, 2, 3 because usually step 4 should never happen in a well-established staking pool. The simple threat of slashing is usually enough to prevent would-be attackers from even trying. 
+
 
 
 ![tasks.png](/assets/images/blog/tasks.png)
