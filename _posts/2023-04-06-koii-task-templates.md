@@ -3,7 +3,7 @@ layout: post
 title: "Take Back the Internet with the Koii Task Template"
 subtitle: "Koii’s new task template streamlines and advances Web3 development by standardizing dApp design."
 categories: [Announcement]
-image: assets/images/blog/Blog-cover-K2-NODES.png
+image: assets/images/blog/Task_template.png
 ---
 
 Is your computer just a computer, or can it also be a taxi for web applications and data? Your computer is a powerful tool, you should be getting the most out of it.
