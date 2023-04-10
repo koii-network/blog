@@ -59,11 +59,7 @@ We say easy as 1, 2, 3 because usually step 4 should never happen in a well-esta
 You’ve probably noticed the flood of dApps in the Web3 market. What they’re missing is a way to deploy these applications _efficiently_. The task template is the solution and Koii makes it easier than ever for developers to build truly decentralized apps. 
 
 
-### Games, AI, and More
-
-Koii’s task template features anti-cheating mechanisms, or audits, preventing would-be attackers from abusing the system. Audits have historically been challenging to design, limiting Web3 growth. Koii simplifies audit writing for tasks, unlocking infinite use cases in Web3.
-
-For example, with stake-based incentives, it’s possible that someone with a lot of tokens could abuse the system and extract rewards they didn’t rightfully earn. That’s no fun. Task owners can design the system in a way that prioritizes the number of audit nodes over the amount of stake to ensure that activity is executed as intended.
+## Cloud Computing, AI, and More
 
 Task templates catapult Koii into the [$480 billion cloud computing market](https://www.fortunebusinessinsights.com/cloud-computing-market-102697), competing with services like [Heroku](https://www.heroku.com/), [Vercel](https://vercel.com/), and [AWS Lambda](https://aws.amazon.com/lambda/) to offer the same services at a **fraction of the cost.** Unlike those options, though, Koii’s delivers superior security, utilizing thousands of devices that are currently registered to become node operators, making the network more robust and resistant to malicious attacks.
 
