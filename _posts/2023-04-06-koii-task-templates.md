@@ -8,7 +8,7 @@ image: assets/images/blog/Task_template.png
 
 Is your computer just a computer, or can it also be a taxi for web applications and data? Your computer is a powerful tool, you should be getting the most out of it.
 
-As the world becomes more gig-based, internet application development is no exception.  Koii’s [task templates](https://docs.koii.network/microservices-and-tasks/task-development-guide/how-to-create-a-task) enable Web2 _and_ Web3 projects to utilize everyday computers around the world to work for their applications.
+As the world becomes more gig-based, internet application development is no exception.  Koii’s [task templates](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/) enable Web2 _and_ Web3 projects to utilize everyday computers around the world to work for their applications.
 
 <div class="more" style="text-align: center;"><b>Decentralization is hard, but Koii tasks make it easy.</b></div><br/>
 
@@ -35,16 +35,16 @@ Tasks streamline the structure of dApps by breaking it down into four key compon
 
 
 
-1. **[Task](https://docs.koii.network/microservices-and-tasks/task-development-guide/how-to-create-a-task/task-function)** 
+1. **[Task](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/k2-task-template/task-function)** 
 The `task` function contains the core logic of a Koii task. The logic for the nodes’ work is written here. The proof of work is usually represented as a CID or hash.
-2. **[Audit](https://docs.koii.network/microservices-and-tasks/task-development-guide/how-to-create-a-task/audit-function)**
+2. **[Audit](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/k2-task-template/audit-function)**
 
-    Audit functions are defined to validate a node's submission, vote on audits, and verify the distribution of rewards. This multi-round confirmation process, called [Gradual Consensus](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus), resembles a production line where workers are randomly selected to review their colleagues’ work, rejecting entire batches or penalizing them for sub-par performance.  
+    Audit functions are defined to validate a node's submission, vote on audits, and verify the distribution of rewards. This multi-round confirmation process, called [Gradual Consensus](https://docs.koii.network/develop/microservices-and-tasks/what-are-tasks/gradual-consensus), resembles a production line where workers are randomly selected to review their colleagues’ work, rejecting entire batches or penalizing them for sub-par performance.  
 
 
-3. **[Reward](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus)** 
+3. **[Reward](https://docs.koii.network/develop/microservices-and-tasks/what-are-tasks/gradual-consensus)** 
 Once the distribution list has been validated and any malicious nodes removed, rewards are distributed among participating nodes. 
-4. **[Collateral](https://docs.koii.network/microservices-and-tasks/what-are-tasks/staking-and-voting)** 
+4. **[Collateral](https://docs.koii.network/develop/microservices-and-tasks/what-are-tasks/staking-and-voting)** 
 If a participating node is found to be acting fraudulently, its staked tokens can be confiscated (i.e. slashed) by other nodes so that it can be safely removed from the voting pool.
 
 We say easy as 1, 2, 3 because usually step 4 should never happen in a well-established staking pool. The simple threat of slashing is usually enough to prevent would-be attackers from even trying. 
