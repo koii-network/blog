@@ -17,3 +17,4 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
 end
 gem "webrick", "~> 1.7"
+gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/9248/head"

@@ -3,6 +3,7 @@ name: "Koii"
 description: Koii keep track of what's on the web. Try today.
 logo: "assets/images/goldfish.svg"
 favicon: "assets/images/goldfish.svg"
+url: "https://blog.koii.network"
 baseurl: ""
 disqus: "disqus_BSQKXyVFLL"
 email: "services@koii.network"
@@ -10,6 +11,11 @@ mailchimp-list: "http://eepurl.com/he-SCz"
 
 include: ["_pages"]
 permalink: /:title/
+
+# SEO
+twitter:
+  username: KoiiNetwork
+  image: "https://blog.koii.network/assets/images/WELCOMEFINNIE_TWITTTERBLOG.png"
 
 # Plugins
 plugins:
