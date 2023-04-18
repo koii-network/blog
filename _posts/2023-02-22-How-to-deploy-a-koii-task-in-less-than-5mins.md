@@ -6,15 +6,15 @@ categories: [Announcement]
 image: assets/images/blog/deploy-task.png
 ---
 
-Koii Tasks allow communities around the world to pool computing resources towards common goals. Anyone with a basic understanding of JavaScript [can easily start hacking](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task), and we're here to help on our [discord](https://discord.gg/koii) if you have questions.
+Koii Tasks allow communities around the world to pool computing resources towards common goals. Anyone with a basic understanding of JavaScript [can easily start hacking](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task){:target="\_blank"}, and we're here to help on our [discord](https://discord.gg/koii){:target="\_blank"} if you have questions.
 
-If you want to try the process out, the [create-task-cli](https://www.npmjs.com/package/@_koii/create-task-cli) tool is a great place to start. This article will demonstrate how to use this tool. If you haven't already written a task, you can also try deploying the [sample task](https://github.com/koii-network/task-template) to get started.
+If you want to try the process out, the [create-task-cli](https://www.npmjs.com/package/@_koii/create-task-cli){:target="\_blank"} tool is a great place to start. This article will demonstrate how to use this tool. If you haven't already written a task, you can also try deploying the [sample task](https://github.com/koii-network/task-template){:target="\_blank"} to get started.
 
-Before proceeding, it is important to note that each Koii task has metadata that is typically stored on [IPFS](https://ipfs.tech/). We prefer [web3.storage](https://web3.storage/) for a smooth experience. So, if you don't already have one, set up a [web3.storage account](https://web3.storage/login/) now.
+Before proceeding, it is important to note that each Koii task has metadata that is typically stored on [IPFS](https://ipfs.tech/){:target="\_blank"}. We prefer [web3.storage](https://web3.storage/){:target="\_blank"} for a smooth experience. So, if you don't already have one, set up a [web3.storage account](https://web3.storage/login/){:target="\_blank"} now.
 
-The process will ask for your Koii wallet path and may cause amount of KOII. Check our [Koii CLI Tool](https://docs.koii.network/koii-software-toolkit-sdk/using-the-cli) to generate a Koii Wallet. Also Check our [Faucet](https://faucet.koii.live/) to get some KOII.
+The process will ask for your Koii wallet path and may cause amount of KOII. Check our [Koii CLI Tool](https://docs.koii.network/koii-software-toolkit-sdk/using-the-cli){:target="\_blank"} to generate a Koii Wallet. Also Check our [Faucet](https://faucet.koii.live/){:target="\_blank"} to get some KOII.
 
-If you have any feedback on the model, we'd love hear what you think. Koii Improvement Proposals can be submitted by [creating a new issue here](https://github.com/koii-network/koii-improvement-proposals), and most are likely to receive grants from the Koii Foundation.
+If you have any feedback on the model, we'd love hear what you think. Koii Improvement Proposals can be submitted by [creating a new issue here](https://github.com/koii-network/koii-improvement-proposals){:target="\_blank"}, and most are likely to receive grants from the Koii Foundation.
 
 # Installation
 
@@ -26,12 +26,12 @@ npm i -g @_koii/create-task-cli
 
 # Build the Task Executable
 
-The [executable](https://docs.koii.network/microservices-and-tasks/task-development-guide/executable-structure) is the core of your Koii Task, and will control what nodes do as they're participating in your community. This is where you can [set incentives](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task/submit-distribution-list) and [define audits](https://docs.koii.network/microservices-and-tasks/task-development-guide/executable-structure/validate-node) to slash stake in event of an attack.
+The [executable](https://docs.koii.network/microservices-and-tasks/task-development-guide/executable-structure){:target="\_blank"} is the core of your Koii Task, and will control what nodes do as they're participating in your community. This is where you can [set incentives](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task/submit-distribution-list){:target="\_blank"} and [define audits](https://docs.koii.network/microservices-and-tasks/task-development-guide/executable-structure/validate-node){:target="\_blank"} to slash stake in event of an attack.
 
 To build your executable out of a task project, which may be many files, we use webpack. If you're using the [task template](), there's a built-in script for this which you can run with:
 `yarn run webpack:prod`
 
-If you're not using the task executable, you'll need to webpack your project yourself, which you can do by copying the `webpack.config.js` file [here](https://github.com/koii-network/task-template/blob/master/webpack.config.js).
+If you're not using the task executable, you'll need to webpack your project yourself, which you can do by copying the `webpack.config.js` file [here](https://github.com/koii-network/task-template/blob/master/webpack.config.js){:target="\_blank"}.
 
 # Deploying a Task
 
@@ -51,8 +51,8 @@ After running the command above, you'll be required to provide answers for the f
 
     > Note — The next prompt is determined by your response to the previous prompt.
 
-6.  [For *IPFS*] **Enter the web3.storage API key** — Create an API Token for your project on your web3.storage dashboard, then paste it into this prompt. Create a [web3.storage account](https://web3.storage/login/).
-7.  [For *ARWEAVE*] **Enter Arweave id of the deployed Koii task executable program** — Upload your task executable to [Arweave](https://www.arweave.org/) and add the ID to the uploaded file to this prompt.
+6.  [For *IPFS*] **Enter the web3.storage API key** — Create an API Token for your project on your web3.storage dashboard, then paste it into this prompt. Create a [web3.storage account](https://web3.storage/login/){:target="\_blank"}.
+7.  [For *ARWEAVE*] **Enter Arweave id of the deployed Koii task executable program** — Upload your task executable to [Arweave](https://www.arweave.org/){:target="\_blank"} and add the ID to the uploaded file to this prompt.
 8.  [For *DEVELOPMENT*] **Enter the name of executable you want to run on task-nodes** — Enter a desired name for your task executable, this will be the same name of the executable file that will exist in the task node's executables folder.
 9.  [For *IPFS* and *ARWEAVE*] **Enter the path to your executable webpack** — Add the absolute path to your task executable file. E.g: "/Users/< YOUR HOME >/Documents/testing-task/dist/main.js"
 10. **Enter the round time in slots** — Enter your preferred number of slots per round. E.g: 1000
@@ -64,7 +64,7 @@ After running the command above, you'll be required to provide answers for the f
 13. **Enter the minimum staking amount in roes** — Enter the minimum amount of KOII that node operators should be able to stake on the task. E.g: 50
 14. **Enter the total bounty you want to allocate for the task (In KOII)** — Any amount not more than what you have in your wallet though. E.g: 1000 (We suggest the amount could be run at least 4 epochs)
 15. **Enter the bounty amount per round** — Total amount would be divided equally for each number until the bounty fund is exhausted. E.g: 10
-16. **Enter TaskMetadata CID hosted on IPFS (Leave empty for None)** — Click the _"Upload Files"_ button on your web3.storage account, and then upload a JSON file containing the metadata for your task. In this prompt, enter the CID for the uploaded file. Here's an [example of metadata](https://docs.koii.network/microservices-and-tasks/what-are-tasks/key-components#metadata).
+16. **Enter TaskMetadata CID hosted on IPFS (Leave empty for None)** — Click the _"Upload Files"_ button on your web3.storage account, and then upload a JSON file containing the metadata for your task. In this prompt, enter the CID for the uploaded file. Here's an [example of metadata](https://docs.koii.network/develop/microservices-and-tasks/what-are-tasks/key-components#docusaurus_skipToContent_fallback){:target="\_blank"}.
 17. **Enter CID for environment variables hosted on IPFS (Leave empty for None)** — If your task requires environment variables to be run by node runners, upload a JSON file that contains those variables to IPFS using web3.storage. Add the CID of the uploaded file to this prompt.
 18. **Enter the space, you want to allocate for task account (in MBs)** — Each task would need some storage for persistence, enter the size in MBs. E.g: 50
 
@@ -118,4 +118,4 @@ Success
 
 That's it! Your Koii task has been deployed on K2 and is now visible to node operators.
 
-Check out the Koii [docs portal](https://docs.koii.network/microservices-and-tasks/task-development-guide/task-development-flow/create-task) for more documentation, and please contact us at [http://koii.me/support](http://koii.me/support) if you have any questions.
+Check out the Koii [docs portal](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/){:target="\_blank"} for more documentation, and please contact us at [http://koii.me/support](http://koii.me/support){:target="\_blank"} if you have any questions.
