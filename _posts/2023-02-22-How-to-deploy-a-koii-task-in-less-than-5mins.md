@@ -12,7 +12,7 @@ If you want to try the process out, the [create-task-cli](https://www.npmjs.com/
 
 Before proceeding, it is important to note that each Koii task has metadata that is typically stored on [IPFS](https://ipfs.tech/){:target="\_blank"}. We prefer [web3.storage](https://web3.storage/){:target="\_blank"} for a smooth experience. So, if you don't already have one, set up a [web3.storage account](https://web3.storage/login/){:target="\_blank"} now.
 
-The process will ask for your Koii wallet path and may cause amount of KOII. Check our [Koii CLI Tool](https://docs.koii.network/koii-software-toolkit-sdk/using-the-cli){:target="\_blank"} to generate a Koii Wallet. Also Check our [Faucet](https://faucet.koii.live/){:target="\_blank"} to get some KOII.
+The process will ask for your Koii wallet path and may cause amount of KOII. Check our [Koii CLI Tool](https://docs.koii.network/develop/koii-software-toolkit-sdk/using-the-cli){:target="\_blank"} to generate a Koii Wallet. Also Check our [Faucet](https://faucet.koii.live/){:target="\_blank"} to get some KOII.
 
 If you have any feedback on the model, we'd love hear what you think. Koii Improvement Proposals can be submitted by [creating a new issue here](https://github.com/koii-network/koii-improvement-proposals){:target="\_blank"}, and most are likely to receive grants from the Koii Foundation.
 
