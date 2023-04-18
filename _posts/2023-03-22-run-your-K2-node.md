@@ -87,7 +87,7 @@ Projects in the Koii ecosystem are already developing DeFi applications because 
 
 [Idexo](https://idexo.com/){:target="\_blank"} is one great example of using [Koii tasks to run a multichain bridge](https://cointelegraph.com/news/koii-labbs-idexos-launch-middleware-bridge-aiming-to-replace-cexs){:target="\_blank"}. Idexo’s wrapped token standard is exponentially more secure because the bridge is able to randomly select a subset of Koii’s tens of thousands of task nodes to act as validators. The [K2 Task Program](https://docs.koii.network/settlement-layer/native-contracts/the-task-contract){:target="\_blank"} provides the core of this system, managing staking and audits, and providing microsecond timestamps to keep all of these thousands of validators in sync. 
 
-<div class="box pb-4" style="border: ridge">
+<div class="box pb-4" style="border: ridge; padding:0 2rem 0 2rem">
 <h3>Why Gradual Consensus?</h3>
 For new developers building on Koii, this built-in consensus management saves development time and headaches, while increasing security through standardization. 
 </div>
