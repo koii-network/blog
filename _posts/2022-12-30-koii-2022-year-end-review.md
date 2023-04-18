@@ -34,7 +34,7 @@ K2 is designed for tasks to **handle compute off-chain**, which means it has min
 
 ### Compute-Sharing Marketplace <span id="compute_sharing"></span>
 
-Koii Tasks allow any developer to pay the network to run a compute job. Tasks are now ready to use—and we have **newly updated documentation** to go with it! Included in our [revamped docs portal](https://docs.koii.network/){:target="\_blank"} are complete [task design samples](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task){:target="\_blank"}, how to include [attention tracking](https://docs.koii.network/earning-koii/attention-mining){:target="\_blank"}, on your website or content, and an introduction to [CARP, our proprietary Compute and Reputation Protocol.](https://docs.koii.network/){:target="\_blank"}
+Koii Tasks allow any developer to pay the network to run a compute job. Tasks are now ready to use—and we have **newly updated documentation** to go with it! Included in our [revamped docs portal](https://docs.koii.network/){:target="\_blank"} are complete [task design samples](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task){:target="\_blank"}, how to include [attention tracking](https://docs.koii.network/earning-koii/attention-mining){:target="\_blank"}, on your website or content, and an introduction to [CARP, our proprietary Compute and Reputation Protocol.](https://docs.koii.network/develop/microservices-and-tasks/using-reputation#definition-of-carp){:target="\_blank"}
 
 ### New and Improved Storage <span id="improve"></span>
 
