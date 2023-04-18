@@ -27,7 +27,7 @@ To leverage cheaper and more secure compute, any developer can write a simple ta
 
 <div class="text-center font-italic">Want to see how fast K2 is?</div>
 
-Check out the <a href="https://faucet.koii.network/">faucet</a> and get some KOII with your <a href="https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj">Finnie wallet</a>. Join our <a href="https://discord.gg/koii">Discord</a>, and you might even get some extra free tokens in the process. 
+Check out the <a href="https://faucet.koii.network/" target="_blank">faucet</a> and get some KOII with your <a href="https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj" target="_blank">Finnie wallet</a>. Join our <a href="https://discord.gg/koii" target="_blank">Discord</a>, and you might even get some extra free tokens in the process. 
 
 
 
@@ -49,20 +49,20 @@ Let’s take a look at how far we’ve come in the last year.
 
 We’ve made some major upgrades to K2. There’s a lot of new functionality under the hood, but the major improvements of Gradual Consensus v3, integration of IPFS data, and the expansion of attention tracking primitives prepares the Koii Network for truly decentralized web-scale deployments.  
 
-- [**Gradual Consensus 3.0**](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus)
-The latest version of gradual consensus is faster than ever (No, seriously). Now, gradual consensus can be customized to [run at any time interval](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus), and we’ve expanded node-to-node communications within the task layer to ensure that data sharing across the network is fast enough to run consensus cycles under one minute without complications.
+- [**Gradual Consensus 3.0**](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus){:target="\_blank"}
+The latest version of gradual consensus is faster than ever (No, seriously). Now, gradual consensus can be customized to [run at any time interval](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus){:target="\_blank"}, and we’ve expanded node-to-node communications within the task layer to ensure that data sharing across the network is fast enough to run consensus cycles under one minute without complications.
 
 
 - **Direct integration of IPFS CIDs into Gradual Consensus**
-[IPFS’s content-based IDs (“CIDs”)](https://docs.ipfs.tech/concepts/content-addressing/#what-is-a-cid) are perfect for indexing large data sets and also provide an inherent checksum when downloading task executables. Using the new framework, submissions in [gradual consensus](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus) are represented by CID hashes, minimizing data consumption and enabling K2 to incorporate effectively infinite data sets directly into the tasks consensus process.
+[IPFS’s content-based IDs (“CIDs”)](https://docs.ipfs.tech/concepts/content-addressing/#what-is-a-cid){:target="\_blank"} are perfect for indexing large data sets and also provide an inherent checksum when downloading task executables. Using the new framework, submissions in [gradual consensus](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus){:target="\_blank"} are represented by CID hashes, minimizing data consumption and enabling K2 to incorporate effectively infinite data sets directly into the tasks consensus process.
 
 
 - **Attention Mining**
 In the latest K2 release, we’re proud to announce that we’ve developed the Proof-of-Real-Traffic consensus flow to include off-chain IPFS storage, expanding the capacity of the system exponentially in the process. 
 
-    If that weren’t enough, the protocol now supports “lazy registration,” allowing attention to be tracked before a [registration payment](https://docs.koii.network/earning-koii/registering-content) is made, expanding the reach of Attention Rewards to web content and a range of non-NFT applications.
+    If that weren’t enough, the protocol now supports “lazy registration,” allowing attention to be tracked before a [registration payment](https://docs.koii.network/earning-koii/registering-content){:target="\_blank"} is made, expanding the reach of Attention Rewards to web content and a range of non-NFT applications.
 
-- On top of these important tech upgrades, we’ve had over [1,000 CLI downloads](https://www.npmjs.com/package/@_koii/create-task-cli), and thousands of transactions in the last few weeks, and we’re seeing as many as 2,200 transactions per second, not including [layer-N](https://youtu.be/IFSBvDXK72c?t=655) data transfers.
+- On top of these important tech upgrades, we’ve had over [1,000 CLI downloads](https://www.npmjs.com/package/@_koii/create-task-cli){:target="\_blank"}, and thousands of transactions in the last few weeks, and we’re seeing as many as 2,200 transactions per second, not including [layer-N](https://youtu.be/IFSBvDXK72c?t=655){:target="\_blank"} data transfers.
  
 Once the desktop nodes are live later this year, you too can get involved—and start earning tokens—no matter your background or knowledge level.
 
@@ -72,12 +72,12 @@ Once the desktop nodes are live later this year, you too can get involved—and 
 
 ## K2 Makes Development Easier and Faster
 
-The applications for K2 are infinite, but we want to highlight three great uses. Don’t worry, in future posts we will dive into other industries that K2 and Koii’s full toolkit will have a significant impact on. So keep your eyes peeled and [sign up for the newsletter](https://share.hsforms.com/1oqz977zNToCWmA-hbyTjXwc20dg) to stay in the loop.
+The applications for K2 are infinite, but we want to highlight three great uses. Don’t worry, in future posts we will dive into other industries that K2 and Koii’s full toolkit will have a significant impact on. So keep your eyes peeled and [sign up for the newsletter](https://share.hsforms.com/1oqz977zNToCWmA-hbyTjXwc20dg){:target="\_blank"} to stay in the loop.
 
 ### Web 3 Gaming
 Blockchain games can easily make use of Koii's node infrastructure in different ways. Complicated incentive structures that require large data throughput over a long time period can be built using Koii’s node infrastructure. This includes tracking in-game experience to identify and ban cheaters easily or distributing achievement badges by transferring NFTs instantly.
 
-Blockchain games will continue to grow. Combining K2 and task nodes can expedite this process for builders around the world. The increased adoption of DeFi apps such as [Raydium](https://raydium.io/), [MeanFi](https://meanfi.com/), [Saber](https://app.saber.so/), and [Orca](https://www.orca.so/) are another area where K2 makes a big splash.
+Blockchain games will continue to grow. Combining K2 and task nodes can expedite this process for builders around the world. The increased adoption of DeFi apps such as [Raydium](https://raydium.io/){:target="\_blank"}, [MeanFi](https://meanfi.com/){:target="\_blank"}, [Saber](https://app.saber.so/){:target="\_blank"}, and [Orca](https://www.orca.so/){:target="\_blank"} are another area where K2 makes a big splash.
 
 ### DeFi and Blockchain Bridging
 On-chain DeFi has become extremely popular but it has reached the limits of what smart contracts alone can accomplish. K2 provides basic banking functionality for complex DeFi activities and inherits necessary functionality from Solana’s already extremely popular libraries. 
@@ -85,16 +85,16 @@ For example, synthetic markets can use K2 for faster settlements. They benefit f
 
 Projects in the Koii ecosystem are already developing DeFi applications because one of K2’s most exciting features is how it enables blockchains to talk to each other easily and transfer assets without losing records or risking exploits. 
 
-[Idexo](https://idexo.com/) is one great example of using [Koii tasks to run a multichain bridge](https://cointelegraph.com/news/koii-labbs-idexos-launch-middleware-bridge-aiming-to-replace-cexs). Idexo’s wrapped token standard is exponentially more secure because the bridge is able to randomly select a subset of Koii’s tens of thousands of task nodes to act as validators. The [K2 Task Program](https://docs.koii.network/settlement-layer/native-contracts/the-task-contract) provides the core of this system, managing staking and audits, and providing microsecond timestamps to keep all of these thousands of validators in sync. 
+[Idexo](https://idexo.com/){:target="\_blank"} is one great example of using [Koii tasks to run a multichain bridge](https://cointelegraph.com/news/koii-labbs-idexos-launch-middleware-bridge-aiming-to-replace-cexs){:target="\_blank"}. Idexo’s wrapped token standard is exponentially more secure because the bridge is able to randomly select a subset of Koii’s tens of thousands of task nodes to act as validators. The [K2 Task Program](https://docs.koii.network/settlement-layer/native-contracts/the-task-contract){:target="\_blank"} provides the core of this system, managing staking and audits, and providing microsecond timestamps to keep all of these thousands of validators in sync. 
 
-<div class="box pb-4" style="border: ridge">
+<div class="box pb-4" style="border: ridge; padding:0 2rem 0 2rem">
 <h3>Why Gradual Consensus?</h3>
 For new developers building on Koii, this built-in consensus management saves development time and headaches, while increasing security through standardization. 
 </div>
 ### Decentralized Social Media
-Social media where users own and earn from their data is the future. Currently, social networks in Web2 own all of your data posted online. Since you don’t own it, you don’t profit from the traffic or attention it generates. Projects like [Twitter Bluesky](https://twitter.com/bluesky), [Mastodon](https://joinmastodon.org/), and [Ome](http://ome.foundation) provide decentralized social media, but their revenue models depend on being able to track views on content.
+Social media where users own and earn from their data is the future. Currently, social networks in Web2 own all of your data posted online. Since you don’t own it, you don’t profit from the traffic or attention it generates. Projects like [Twitter Bluesky](https://twitter.com/bluesky){:target="\_blank"}, [Mastodon](https://joinmastodon.org/){:target="\_blank"}, and [Ome](http://ome.foundation){:target="\_blank"} provide decentralized social media, but their revenue models depend on being able to track views on content.
 
-K2 provides a built-in [Attention Tracking](https://docs.koii.network/settlement-layer/native-contracts/the-attention-game), which has capacity for [over 1 trillion](https://twitter.com/KoiiNetwork/status/1636306381144727555) annual views, and that’s just the beginning. Views are tracked using [Proofs of Real Traffic](https://docs.koii.network/earning-koii/proof-of-real-traffic-port/attention-mining) and aggregated together by task nodes, supporting real-time tracking on attention across the ecosystem. Best of all, any apps tracking attention via Koii [mine new KOII tokens](https://docs.koii.network/earning-koii/attention-mining), which gives them an additional rewards mechanism and forms the basis for [Content Collectives](https://blog.koii.network/Content-Collective/#:~:text=A%20Content%20Collective%20is%20a,by%20a%20DAO%20Governance%20Protocol.). 
+K2 provides a built-in [Attention Tracking](https://docs.koii.network/settlement-layer/native-contracts/the-attention-game){:target="\_blank"}, which has capacity for [over 1 trillion](https://twitter.com/KoiiNetwork/status/1636306381144727555){:target="\_blank"} annual views, and that’s just the beginning. Views are tracked using [Proofs of Real Traffic](https://docs.koii.network/earning-koii/proof-of-real-traffic-port/attention-mining){:target="\_blank"} and aggregated together by task nodes, supporting real-time tracking on attention across the ecosystem. Best of all, any apps tracking attention via Koii [mine new KOII tokens](https://docs.koii.network/earning-koii/attention-mining){:target="\_blank"}, which gives them an additional rewards mechanism and forms the basis for [Content Collectives](https://blog.koii.network/Content-Collective/#:~:text=A%20Content%20Collective%20is%20a,by%20a%20DAO%20Governance%20Protocol.){:target="\_blank"}. 
 
 K2 solves a privacy problem on social networks with pseudonymous attention tracking, making it easy to build without compromising user privacy. 
 
@@ -103,9 +103,9 @@ K2 solves a privacy problem on social networks with pseudonymous attention track
 
 With the launch of the K2 layer, Koii is now prepared for massive scale by using off-chain nodes to shard computation, and community momentum is increasing rapidly. The new task contract works with IPFS natively, making it easier to index and include large data sets. K2 is not only a blockchain, but the core of a much larger consensus machine so that task nodes can communicate instantly regarding consensus data and value transfers.
 
-Most importantly, K2 provides a unique advantage by providing decentralized custody of tokens for the task economy, including wrapped tokens from other ecosystems who use Koii task nodes for off-chain compute and automated governance. With the Desktop Node launch coming soon, K2 will provide a core of stability and global time synchronization for this network. We are continuing to upgrade tasks and have launched v3 of the [gradual consensus model](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus). 
+Most importantly, K2 provides a unique advantage by providing decentralized custody of tokens for the task economy, including wrapped tokens from other ecosystems who use Koii task nodes for off-chain compute and automated governance. With the Desktop Node launch coming soon, K2 will provide a core of stability and global time synchronization for this network. We are continuing to upgrade tasks and have launched v3 of the [gradual consensus model](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus){:target="\_blank"}. 
 
-Running a K2 node entitles the operator to a share of gas fees on the network, and a proportion of the [KOII daily mint](https://docs.koii.network/earning-koii/network-economics). Contact us to get started running a K2 node on the beta network, and help us re-imagine the web. 
+Running a K2 node entitles the operator to a share of gas fees on the network, and a proportion of the [KOII daily mint](https://docs.koii.network/earning-koii/network-economics){:target="\_blank"}. Contact us to get started running a K2 node on the beta network, and help us re-imagine the web. 
 
 <div class="more" style="text-align: center;">
 <button class="button" onclick="window.open('http://koii.me/k2')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Sign up to Run a K2 Node</button>
