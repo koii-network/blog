@@ -28,7 +28,7 @@ npm i -g @_koii/create-task-cli
 
 The [executable](https://docs.koii.network/microservices-and-tasks/task-development-guide/executable-structure){:target="\_blank"} is the core of your Koii Task, and will control what nodes do as they're participating in your community. This is where you can [set incentives](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task/submit-distribution-list){:target="\_blank"} and [define audits](https://docs.koii.network/microservices-and-tasks/task-development-guide/executable-structure/validate-node){:target="\_blank"} to slash stake in event of an attack.
 
-To build your executable out of a task project, which may be many files, we use webpack. If you're using the [task template](), there's a built-in script for this which you can run with:
+To build your executable out of a task project, which may be many files, we use webpack. If you're using the [task template](https://github.com/koii-network/task-template){:target="\_blank"}, there's a built-in script for this which you can run with:
 `yarn run webpack:prod`
 
 If you're not using the task executable, you'll need to webpack your project yourself, which you can do by copying the `webpack.config.js` file [here](https://github.com/koii-network/task-template/blob/master/webpack.config.js){:target="\_blank"}.
