@@ -14,7 +14,7 @@ Publishing technologies have long been the choke point of many creative industri
 
 In contrast to traditional platforms where value primarily accrues to a private network that hosts the content, Collectives are owned and governed by their contributing members, ensuring that contributors are equitably rewarded for their work.
 
-Collectives present a solution for maintaining a public commons in an Internet that is quickly becoming dominated by content aggregation companies instead of the creators that make them possible. In this paper, we address some of the technical and social challenges and offer insights to create more equitable decentralized communities. For simple tools to help you get started, check out Koii Network’s [Content Collective template](https://koii.me/contentcollective){:target="\_blank"}.
+Collectives present a solution for maintaining a public commons in an Internet that is quickly becoming dominated by content aggregation companies instead of the creators that make them possible. In this paper, we address some of the technical and social challenges and offer insights to create more equitable decentralized communities.
 
 ## Overview
 
