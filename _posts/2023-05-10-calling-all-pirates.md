@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Calling All Pirates"
-subtitle: "We value our community and want to reward those who are dedicated and passionate about our mission to take back the internet for the people who use it."
+subtitle: "Koii Network wants to reward those who are dedicated about our mission to take back the internet for the people who use it. Check out our pirate uprising!"
 categories: [Announcement]
-image: assets/images/blog/Task_template.png
+image: assets/images/blog/All_pirates_dark.png
 ---
 
 At Koii Network, we value our community and want to reward those who are dedicated and passionate about our mission to take back the internet for the people who use it. That's why we're excited to introduce our new pirate uprising!
