@@ -17,7 +17,7 @@ Publishing technologies have long been the choke point of many creative industri
 
 In contrast to traditional platforms where value primarily accrues to a private network that hosts the content, Collectives are owned and governed by their contributing members, ensuring that contributors are equitably rewarded for their work.
 
-Collectives present a solution for maintaining a public commons in an Internet that is quickly becoming dominated by content aggregation companies instead of the creators that make them possible. In this paper, we address some of the technical and social challenges and offer insights to create more equitable decentralized communities. For simple tools to help you get started, check out Koii Network’s [Content Collective template](https://koii.me/contentcollective){:target="\_blank"}.
+Collectives present a solution for maintaining a public commons in an Internet that is quickly becoming dominated by content aggregation companies instead of the creators that make them possible. In this paper, we address some of the technical and social challenges and offer insights to create more equitable decentralized communities.
 
 <h3 id="contents">Contents</h3>
 
@@ -316,7 +316,7 @@ It is reasonable that some organizations may create art communally, in which cas
 
 Content Collectives are the new form of community-owned, media-driven organizations. We have laid out the basic needs for any Collective, but know that as with any people-led group, there will be vast innovations beyond the initial designs laid out here.
 
-There are many different reasons to establish a Collective, but each one needs to define their technology accommodations, contribution value, distribution of value, and user roles at inception in order for the organization to get off the ground. Coming up with strategies for user growth and community engagement are also a critical part to the health of any organization. For simple tools to help you get started, check out Koii Network’s [Content Collective template](https://koii.me/contentcollective){:target="\_blank"}. If you have ideas or innovations to add to the next version of this document, [reach out](mailto:collective@koii.network){:target="\_blank"}.
+There are many different reasons to establish a Collective, but each one needs to define their technology accommodations, contribution value, distribution of value, and user roles at inception in order for the organization to get off the ground. Coming up with strategies for user growth and community engagement are also a critical part to the health of any organization. If you have ideas or innovations to add to the next version of this document, [reach out](mailto:collective@koii.network){:target="\_blank"}.
 
 <style>
 table, th, td {
