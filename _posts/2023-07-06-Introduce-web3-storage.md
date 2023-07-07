@@ -1,40 +1,40 @@
 ---
 layout: post
 title: "Powering Koii Tasks with Web3.Storage"
-subtitle: "Leveraging the Potential of Decentralized Data Storage for Your Koii Tasks"
+subtitle: "Leveraging Decentralized Data Storage with Koii Tasks"
 categories: [Announcement]
 image: assets/images/blog/Web3_Koii.png
 ---
 
-The Koii Network is always on the lookout for opportunities to enhance the user experience and functionality of our platforms. As a part of our continuous commitment to these goals, Koii Tasks is integrating with Web3.Storage for improved data organization. This integration unlocks numerous possibilities for decentralized data storage within the Koii ecosystem.
+At Koii, we are always looking to make our products, and Web3 more generally, better and easier to use. As a part of our continuous commitment to these goals, you can now use Web3.Storage as the storage layer for your Koii tasks. This integration unlocks numerous possibilities for decentralized data storage within the Koii ecosystem.
 
 ## What is Web3.Storage?
 
-Web3.Storage is a service provided by Protocol Labs that allows developers to interact with the InterPlanetary File System (IPFS) and Filecoin. By offering a straightforward API, it empowers you to store data in a secure and decentralized manner, thus enriching your applications with the robustness and accessibility of the distributed web.
+Web3.Storage is a service provided by Protocol Labs that makes it easy for developers to interact with the InterPlanetary File System (IPFS) and Filecoin. By offering a straightforward API, it empowers you to store data in a secure and decentralized manner, enriching your applications with the robustness and accessibility of the distributed web.
 
-## Koii Tasks and Web3.Storage: A Powerful Synergy
+## A Powerful Synergy
 
-Koii Tasks, off-chain computations that are verified and submitted on-chain, is a platform where creators and consumers can create and complete tasks to earn KOII tokens. With the integration of Web3.Storage, we are introducing the efficiency and resilience to the way data associated with these tasks is stored and retrieved.
+Koii tasks, off-chain computatio that are verified and submitted on-chain, is a platform where creators and consumers can create and complete tasks to earn KOII tokens. With the integration of Web3.Storage, we are introducing the efficiency and resilience to the way data associated with these tasks is stored and retrieved.
 
-For this integration to work and to ensure the seamless operation of Koii Tasks, you'll need your own Web3.Storage key. Below, we walk you through the process of obtaining it.
+To make sure your Koii tasks work, you'll need your own Web3.Storage key. We'll walk you through the process of getting one below.
 
 ## [How to Get Your Web3.Storage Key](#how-to-get-your-web3storage-key)
 
-To utilize Web3.Storage within Koii Tasks, you'll first need to obtain an API key. Follow these steps:
+To utilize Web3.Storage within Koii Tasks, you'll first need to obtain an API token. Follow these steps:
 
 1. Navigate to the [Web3.Storage website](https://web3.storage/){:target="\_blank"}.
 2. Click on the **Sign In** button in the top-right corner.
 ![step1.png](/assets/images/blog/web3storage/step1.png)
-3. Select **GitHub** or **Email** as your login method.
+3. Select **GitHub** or **Email** as your login method, whichever you prefer.
 4. Follow the prompts to log in.
-5. You'll be redirected back to the Web3.Storage site, to your own personal dashboard.
-6. Hover on **Account** in the top-right corner, and select **Create an API Token**.
+5. When you are redirected back to the Web3.Storage site, you'll see your personal dashboard.
+6. Hover over **Account** in the top-right corner but don't click. Select **Create an API Token**  from the dropdown.
 ![step2.png](/assets/images/blog/web3storage/step2.png)
-7. Enter a name for your key, and click to create a new key. Your new API key will be displayed.
+7. Enter a name for your key, and click to create a new key. Your new API token will be displayed.
 ![step3.png](/assets/images/blog/web3storage/step3.png)
-8. Find your API key and click the copy button.
+8. Find your API token, then click the copy button. Once you've copied your API token, you can head back
 ![step4.png](/assets/images/blog/web3storage/step4.png)
-8. Head to desktop node, go to **Settings** => **Task Settings** => Name the **Label** as WEB3Key and **paste** your API key => click **Add**. Now you can copy it and use it in Desktop Node to run Koii Tasks.
+8. Head to desktop node, go to **Settings** => **Task Settings**. You can name it however you like, we suggest something like "Web3 Storage". Then paste your API token in "key input" and click "Add.". Now you can copy it and use it in Desktop Node to run Koii Tasks.
 ![step5.png](/assets/images/blog/web3storage/step5.png)
 
 **Note:** **Anyone know your Web3.Storage key can use it to store data on your behalf. So, please keep it safe and secure.**
