@@ -14,13 +14,13 @@ Web3.Storage is a service provided by Protocol Labs that makes it easy for devel
 
 ## A Powerful Synergy
 
-Koii Tasks, off-chain computition that are verified and submitted on-chain, provide an innovative framework where creators and consumers interact to create, complete, and earn KOII tokens through various tasks by running desktop node. With the integration of Web3.Storage, we are bolstering this framework by introducing enhanced efficiency and resilience in the way data associated with these tasks is stored and retrieved.
+Koii tasks, off-chain computition that are verified and submitted on-chain, provide an innovative framework where creators and consumers interact to create, complete, and earn KOII tokens through various tasks by running desktop node. With the integration of Web3.Storage, we are bolstering this framework by introducing enhanced efficiency and resilience in the way data associated with these tasks is stored and retrieved.
 
 To make sure your Koii tasks work, you'll need your own Web3.Storage key. We'll walk you through the process of getting one below.
 
 ## [How to Get Your Web3.Storage Key](#how-to-get-your-web3storage-key)
 
-To utilize Web3.Storage within Koii Tasks, you'll first need to obtain an API token. Follow these steps:
+To utilize Web3.Storage within Koii tasks, you'll first need to obtain an API token. Follow these steps:
 
 1. Navigate to the [Web3.Storage website](https://web3.storage/){:target="\_blank"}.
 2. Click on the **Sign In** button in the top-right corner.
@@ -45,7 +45,7 @@ Once you have obtained your Web3.Storage key, you can integrate it into your tas
 
 ## Why Use Web3.Storage with Koii Tasks?
 
-Utilizing Web3.Storage with Koii Tasks offers multiple benefits:
+Utilizing Web3.Storage with Koii tasks offers multiple benefits:
 
 **Decentralized:** Your data isn't stored on a single server, but distributed across multiple nodes, enhancing the reliability and accessibility of your tasks and associated data.
 
