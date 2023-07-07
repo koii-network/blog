@@ -40,7 +40,8 @@ To utilize Web3.Storage within Koii Tasks, you'll first need to obtain an API to
 **Note:** **Anyone who knows your Web3.Storage key can use it to store data on your behalf. Please keep it safe and secure.**
 
 Once you have obtained your Web3.Storage key, you can integrate it into your tasks to enjoy the benefits of decentralized data storage.
-<br/>
+
+<br>
 
 ## Why Use Web3.Storage with Koii Tasks?
 
