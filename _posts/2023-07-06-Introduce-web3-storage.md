@@ -34,7 +34,7 @@ To utilize Web3.Storage within Koii Tasks, you'll first need to obtain an API to
 ![step3.png](/assets/images/blog/web3storage/step3.png)
 8. Find your API token, then click the copy button. Once you've copied your API token, you can head back
 ![step4.png](/assets/images/blog/web3storage/step4.png)
-8. Head to desktop node, go to **Settings** => **Task Settings**. You can name it however you like, we suggest something like "Web3 Storage". Then paste your API token in "key input" and click "Add.". Now you can copy it and use it in Desktop Node to run Koii Tasks.
+8. Head to desktop node, go to **Settings** => **Task Settings**. You can name it however you like, we suggest something like "Web3 Storage." Then paste your API token in "key input" and click "Add." Now you can copy it and use it in Desktop Node to run Koii Tasks.
 ![step5.png](/assets/images/blog/web3storage/step5.png)
 
 **Note:** **Anyone know your Web3.Storage key can use it to store data on your behalf. So, please keep it safe and secure.**
