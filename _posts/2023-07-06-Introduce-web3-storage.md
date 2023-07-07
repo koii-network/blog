@@ -14,7 +14,7 @@ Web3.Storage is a service provided by Protocol Labs that makes it easy for devel
 
 ## A Powerful Synergy
 
-Koii tasks, off-chain computatio that are verified and submitted on-chain, is a platform where creators and consumers can create and complete tasks to earn KOII tokens. With the integration of Web3.Storage, we are introducing the efficiency and resilience to the way data associated with these tasks is stored and retrieved.
+Koii Tasks, off-chain computition that are verified and submitted on-chain, provide an innovative framework where creators and consumers interact to create, complete, and earn KOII tokens through various tasks by running desktop node. With the integration of Web3.Storage, we are bolstering this framework by introducing enhanced efficiency and resilience in the way data associated with these tasks is stored and retrieved.
 
 To make sure your Koii tasks work, you'll need your own Web3.Storage key. We'll walk you through the process of getting one below.
 
