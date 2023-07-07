@@ -32,14 +32,15 @@ To utilize Web3.Storage within Koii Tasks, you'll first need to obtain an API to
 ![step2.png](/assets/images/blog/web3storage/step2.png)
 7. Enter a name for your key, and click to create a new key. Your new API token will be displayed.
 ![step3.png](/assets/images/blog/web3storage/step3.png)
-8. Find your API token, then click the copy button. Once you've copied your API token, you can head back
+8. Find your API token, then click the copy button. Once you've copied your API token, you can head back to desktop node.
 ![step4.png](/assets/images/blog/web3storage/step4.png)
-8. Head to desktop node, go to **Settings** => **Task Settings**. You can name it however you like, we suggest something like "Web3 Storage". Then paste your API token in "key input" and click "Add.". Now you can copy it and use it in Desktop Node to run Koii Tasks.
+8. Once back in the desktop node, go to **Settings**, then **Task Settings**. You can name it however you like, we suggest something like "Web3 Storage." Then paste your API token in "key input" and click "Add." Now you can use it in your node to run Koii tasks.
 ![step5.png](/assets/images/blog/web3storage/step5.png)
 
-**Note:** **Anyone know your Web3.Storage key can use it to store data on your behalf. So, please keep it safe and secure.**
+**Note:** **Anyone who knows your Web3.Storage key can use it to store data on your behalf. Please keep it safe and secure.**
 
-Once you have obtained your Web3.Storage key, you can integrate it into the Koii Tasks platform to enjoy the benefits of decentralized data storage.
+Once you have obtained your Web3.Storage key, you can integrate it into your tasks to enjoy the benefits of decentralized data storage.
+<br/>
 
 ## Why Use Web3.Storage with Koii Tasks?
 
@@ -47,12 +48,12 @@ Utilizing Web3.Storage with Koii Tasks offers multiple benefits:
 
 **Decentralized:** Your data isn't stored on a single server, but distributed across multiple nodes, enhancing the reliability and accessibility of your tasks and associated data.
 
-**Resilient:** Redundant storage across different geographical locations makes your data highly resilient to localized failures or disruptions.
+**Resilient:** Storing your data across different geographical locations makes your data highly resilient to localized failures or disruptions.
 
-**Secure:** The cryptographic hashes employed by Web3.Storage ensure the integrity and security of your data.
+**Secure:** The cryptographic hashes employed by Web3.Storage ensures that your data is safe and secure.
 
-**Open and Interoperable:** The data stored on Web3.Storage is accessible to any application interacting with IPFS and Filecoin, offering a great deal of flexibility for future developments.
+**Open and Interoperable:** The data stored on Web3.Storage is accessible to any application that interacts with IPFS and Filecoin, offering a great deal of flexibility for future developments.
 
-By integrating Web3.Storage into Koii Tasks, we are opening up a world of possibilities for decentralized data storage within the Koii ecosystem. We are confident this will significantly enhance the experience for all our users.
+By integrating Web3.Storage with Koii tasks, we are opening up a world of possibilities for decentralized data storage within the Koii ecosystem. We are confident this will significantly enhance the experience for all our users.
 
-We encourage you to get your Web3.Storage key and start exploring the new possibilities with Koii Tasks. If you need any assistance or have queries, feel free to connect with us on [Discord](https://discord.gg/koii){:target="\_blank"}. We're here to assist and guide you every step of the way!
+We encourage you to get your Web3.Storage key and start exploring the new possibilities! If you need any help or have questions, feel free to connect with us on [Discord](https://discord.gg/koii){:target="\_blank"}. We're happy to guide you every step of the way.
