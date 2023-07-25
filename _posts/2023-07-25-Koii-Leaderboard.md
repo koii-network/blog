@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Koii Leaderboard Goes Live"
-subtitle: "Earn prizes just by being a part of the network"
+subtitle: "Win prizes just by being a part of the network"
 categories: [Announcement]
 image: assets/images/leaderboard/twitter-eth-lottery.png
 ---
