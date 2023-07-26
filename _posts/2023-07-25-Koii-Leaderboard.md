@@ -39,6 +39,6 @@ Similar to the Hourly Raffle, each person will receive one ticket every time the
 
 To be eligible for these prizes, you must:
     
--   Verify your Twitter account and email address through the [Koii Faucet](https://faucet.koii.network/){:target="\_blank"},
+-   Verify your email address through the [Koii Faucet](https://faucet.koii.network/){:target="\_blank"},
     
 -   If you win, you must retweet our tweet announcing your victory.
