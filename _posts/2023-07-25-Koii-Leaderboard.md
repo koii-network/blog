@@ -8,7 +8,7 @@ image: assets/images/leaderboard/twitter-eth-lottery.png
 
 # The Koii Leaderboard
 
-We are very excited to announce the Koii Leaderboard! This is the place where you can see where you rank among all the nodes, each week’s featured tasks, and the prizes you can win by getting lucky…or by being the best.
+We are very excited to announce the [Koii Leaderboard!](https://leaderboard.koii.network/) This is the place where you can see where you rank among all the nodes, each week’s featured tasks, and the prizes you can win by getting lucky…or by being the best.
 
 See the activity across Koii’s ecosystem. All nodes will appear here—see if you can find yourself in the top ten on one of our featured tasks! Each week there will be contests with different prizes. Some will be quick contests with small prizes, and others will be big events with even bigger rewards. There’s something for everyone. Run your node, refer a friend, and let’s have some fun together.
 
