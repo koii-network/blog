@@ -286,7 +286,7 @@ Types of votes might include:
 
 This list demonstrates a few suggestions but is not comprehensive. Depending on the Collective, there may be many other changes that require a vote.
 
-The Collective must configure the voting standards, which include social requirements (necessary qualifications to propose a vote) and the technical requirements (methods by which the change is proposed and voted on by members). There are many DAO toolkits that assist with proposing and casting votes, and you can even access some of these features from Koii Network’s [desktop node](http://koii.me/node){:target="\_blank"}.
+The Collective must configure the voting standards, which include social requirements (necessary qualifications to propose a vote) and the technical requirements (methods by which the change is proposed and voted on by members). There are many DAO toolkits that assist with proposing and casting votes, and you can even access some of these features from Koii Network’s [Node](https://www.koii.network/node){:target="\_blank"}.
 
 <h2 id="adoption">Adoption</h2>
 

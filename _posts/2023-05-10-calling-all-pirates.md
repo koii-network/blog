@@ -60,7 +60,7 @@ The most prestigious of the pirate uprising is the Buccaneer. You have proven yo
 
 - **Requirements**
     - Be a Master-at-Arms for at least one month
-    - Pass an assessment to ensure you can explain the nuances of Koii’s task environment, desktop node, and settlement layer, K2. You have a deep understanding of the tech stack and are ready to take Koii to the next level. 🚀
+    - Pass an assessment to ensure you can explain the nuances of Koii’s task environment, Koii node, and settlement layer, K2. You have a deep understanding of the tech stack and are ready to take Koii to the next level. 🚀
  
 - **Core Responsibilities** (including but not limited to)
     - Run a hackathon or meetup in your town once a month

@@ -84,9 +84,9 @@ The first cohort will be launching in January! [Nominate your favorite web3 proj
 
 ![make it rain](/assets/images/blog/2022eoy/make%20it%20rain%20FINNIE.gif)
 
-## KOII Tokens & Desktop Nodes <span id="KOII_Tokens"></span>
+## KOII Tokens & Koii Nodes <span id="KOII_Tokens"></span>
 
-2023 is going to be a big year, and we are stoked. Along with the finished re-architecture and public launch of the [compute-sharing marketplace](https://docs.koii.network/earning-koii/compute-sharing-marketplace){:target="\_blank"} of tasks and nodes, **the desktop node will be launching in Q1**. With over 45,000 nodes on the waitlist, we can’t support everyone at once, so we will be rolling out the beta 100 nodes at a time to make sure everything is running smoothly.
+2023 is going to be a big year, and we are stoked. Along with the finished re-architecture and public launch of the [compute-sharing marketplace](https://docs.koii.network/earning-koii/compute-sharing-marketplace){:target="\_blank"} of tasks and nodes, **the Koii node will be launching in Q1**. With over 45,000 nodes on the waitlist, we can’t support everyone at once, so we will be rolling out the beta 100 nodes at a time to make sure everything is running smoothly.
 
 **Keep reading for a chance to jump the line** 👇
 
