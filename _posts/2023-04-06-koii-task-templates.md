@@ -34,7 +34,6 @@ That’s why we created a framework for developers to access global compute powe
 Tasks streamline the structure of dApps by breaking it down into four key components: writing task logic in JavaScript, an audit process, distributing rewards, and collateral.
 
 
-
 1. **[Task](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/k2-task-template/task-function){:target="\_blank"}** 
 The `task` function contains the core logic of a Koii task. The logic for the nodes’ work is written here. The proof of work is usually represented as a CID or hash.
 2. **[Audit](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/k2-task-template/audit-function){:target="\_blank"}**
@@ -43,6 +42,7 @@ The `task` function contains the core logic of a Koii task. The logic for the no
 3. **[Reward](https://docs.koii.network/develop/microservices-and-tasks/what-are-tasks/gradual-consensus){:target="\_blank"}** 
 Once the distribution list has been validated and any malicious nodes removed, rewards are distributed among participating nodes. 
 4. **[Collateral](https://docs.koii.network/develop/microservices-and-tasks/what-are-tasks/staking-and-voting#docusaurus_skipToContent_fallback){:target="\_blank"}** 
+
 If a participating node is found to be acting fraudulently, its staked tokens can be confiscated (i.e. slashed) by other nodes so that it can be safely removed from the voting pool.
 
 We say easy as 1, 2, 3 because usually step 4 should never happen in a well-established staking pool. The simple threat of slashing is usually enough to prevent would-be attackers from even trying. 

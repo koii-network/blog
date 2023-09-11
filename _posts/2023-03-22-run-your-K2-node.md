@@ -64,10 +64,10 @@ In the latest K2 release, we’re proud to announce that we’ve developed the P
 
 - On top of these important tech upgrades, we’ve had over [1,000 CLI downloads](https://www.npmjs.com/package/@_koii/create-task-cli){:target="\_blank"}, and thousands of transactions in the last few weeks, and we’re seeing as many as 2,200 transactions per second, not including [layer-N](https://youtu.be/IFSBvDXK72c?t=655){:target="\_blank"} data transfers.
  
-Once the desktop nodes are live later this year, you too can get involved—and start earning tokens—no matter your background or knowledge level.
+Once the Koii nodes are live later this year, you too can get involved—and start earning tokens—no matter your background or knowledge level.
 
 <div class="more" style="text-align: center;">
-<button class="button" onclick="window.open('https://share.hsforms.com/1kLtk8rfURZ-HY2xnKRTfCgc20dg')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Sign Up to Run a Desktop Node</button>
+<button class="button" onclick="window.open('https://share.hsforms.com/1kLtk8rfURZ-HY2xnKRTfCgc20dg')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Sign Up to Run a Koii Node</button>
 </div><br/>
 
 ## K2 Makes Development Easier and Faster
@@ -103,7 +103,7 @@ K2 solves a privacy problem on social networks with pseudonymous attention track
 
 With the launch of the K2 layer, Koii is now prepared for massive scale by using off-chain nodes to shard computation, and community momentum is increasing rapidly. The new task contract works with IPFS natively, making it easier to index and include large data sets. K2 is not only a blockchain, but the core of a much larger consensus machine so that task nodes can communicate instantly regarding consensus data and value transfers.
 
-Most importantly, K2 provides a unique advantage by providing decentralized custody of tokens for the task economy, including wrapped tokens from other ecosystems who use Koii task nodes for off-chain compute and automated governance. With the Desktop Node launch coming soon, K2 will provide a core of stability and global time synchronization for this network. We are continuing to upgrade tasks and have launched v3 of the [gradual consensus model](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus){:target="\_blank"}. 
+Most importantly, K2 provides a unique advantage by providing decentralized custody of tokens for the task economy, including wrapped tokens from other ecosystems who use Koii task nodes for off-chain compute and automated governance. With the Koii Node launch coming soon, K2 will provide a core of stability and global time synchronization for this network. We are continuing to upgrade tasks and have launched v3 of the [gradual consensus model](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus){:target="\_blank"}. 
 
 Running a K2 node entitles the operator to a share of gas fees on the network, and a proportion of the [KOII daily mint](https://docs.koii.network/earning-koii/network-economics){:target="\_blank"}. Contact us to get started running a K2 node on the beta network, and help us re-imagine the web. 
 
