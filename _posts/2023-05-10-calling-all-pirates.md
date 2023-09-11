@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Calling All Pirates"
-subtitle: "Koii Network wants to reward those who are dedicated about our mission to take back the internet for the people who use it. Check out our pirate uprising!"
+subtitle: "We're reclaiming the internet and we want you to join our pirate crew. Let's all share the treasures from this expedition! "
 categories: [Announcement]
 image: assets/images/blog/All_pirates_dark.png
 ---
@@ -76,7 +76,7 @@ The most prestigious of the pirate uprising is the Buccaneer. You have proven yo
 
 Buccaneers receive the most exclusive benefits, including a swag package, a paid flight to agreed-upon conferences for business development (lodging and food not included), and the opportunity to be considered first for job openings in our ecosystem. They also receive KOII tokens every month,* have access to bi-weekly video calls with the leadership team, and have rights to community moderation.
 
-**Note:** if a Deckhand, Master-at-Arms, or Buccaneer fails to meet their responsibilities, they will lose their privileges.
+**Note:** If a Deckhand, Master-at-Arms, or Buccaneer fails to meet their responsibilities, they will lose their privileges.
 
 ## Be a Pirate, Save the World
 
