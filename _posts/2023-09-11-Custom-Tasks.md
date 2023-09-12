@@ -3,7 +3,7 @@ layout: post
 title: "Custom Tasks in Your Node"
 subtitle: "Testing and community involvement are easier than ever with Koii’s latest feature"
 categories: [Announcement]
-image: assets/images/leaderboard/twitter-eth-lottery.png
+image: assets/images/blog/Costume_tasks.png
 ---
 
 We have an exciting new feature to share: custom tasks are here! Custom tasks are tasks that you can run using the task’s ID, streamlining development and community engagement. They don’t show up on your “Add Tasks” page, but they are live on the network.
