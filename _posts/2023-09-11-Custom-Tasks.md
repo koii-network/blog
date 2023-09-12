@@ -11,14 +11,15 @@ We have an exciting new feature to share: custom tasks are here! Custom tasks ar
 Launching custom tasks mean two things for our community:
 
 1. If you’re building, testing your tasks just got a lot easier. You can run your task on your personal node and your team’s nodes before it gets reviewed and allow-listed by the Koii team.
-2. If you have an existing community that you want to run your task, you can bring them onboard to run your task without making it available for the wider community.
+2. If you have an existing community that you want to run your task, you can bring them onboard to run it without making it available for the wider community.
 
 If you’re writing a task, make sure to create a thorough task description, that includes
 
 - What your task does,
 - How rewards are distributed, and
-- Why you need each task setting you use
-  Then share it with your community, friends and family, anyone who can help further your mission! We are happy to have them on board and will help support your growth as best we can.
+- Why you need each task setting you use.
+
+Then share it with your community, friends and family, anyone who can help further your mission! We are happy to have them on board and will help support your growth as best we can.
 
 Using the custom task feature is simple. **Any task you run this way has not been vetted or audited by the Koii team.**
 
