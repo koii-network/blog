@@ -3,7 +3,7 @@ layout: post
 title: "Koii Network Partners with Foundership to Accelerate Web3 & AI Innovation in Southeast Asia"
 subtitle: ""
 categories: [Announcement]
-image: assets/images/blog/Costume_tasks.png
+image: assets/images/blog/Announcement_Foundership.png
 ---
 
 Continuing on our mission to empower Web3 builders globally, Koii Network is partnering with [Foundership](https://foundershiphq.com/){:target="\_blank"}, a leading Web3 accelerator in Southeast Asia. With Foundership’s portfolio of 30 startups, a community over 10,000 strong, and 100+ ecosystem partners, this partnership will extend Koii's reach into the region and provide financing opportunities to projects in need of more affordable and reliable compute power, creating a vibrant hub for innovation.
