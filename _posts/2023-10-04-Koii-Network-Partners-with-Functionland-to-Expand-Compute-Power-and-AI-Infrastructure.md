@@ -3,7 +3,7 @@ layout: post
 title: "Koii Network Partners with Functionland to Expand Compute Power and AI Infrastructure"
 subtitle: ""
 categories: [Announcement]
-image: assets/images/blog/Costume_tasks.png
+image: assets/images/blog/Announcement_Functionland.png
 ---
 
 Expanding their growing ecosystem, Koii Network, a leading provider of compute power and AI infrastructure, is announcing a partnership with [Functionland](https://fx.land/){:target="\_blank"}, a provider of custom hardware for compute-intensive applications. The partnership allows Koii to expand its node network dramatically, enabling the community to use Functionland’s custom hardware in addition to their personal devices. Functionland's existing network of hundreds of nodes is growing fast, paving the way for a truly peer-to-peer web backbone.

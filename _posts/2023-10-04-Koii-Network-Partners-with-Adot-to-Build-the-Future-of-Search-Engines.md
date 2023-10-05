@@ -3,7 +3,7 @@ layout: post
 title: "Koii Network Partners with Adot to Build the Future of Search Engines"
 subtitle: ""
 categories: [Announcement]
-image: assets/images/blog/Costume_tasks.png
+image: assets/images/blog/Announcement_Adot.png
 ---
 
 Continuing to lead the way as a decentralized compute network, Koii Network, recently partnered with [Adot](https://a.site/){:target="\_blank"}, a Web3 search engine. The partnership will see Koii Network provide the infrastructure solution for Adot’s compute and data needs, enabling them to build a more efficient, AI-powered, decentralized search engine.
