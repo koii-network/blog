@@ -10,11 +10,11 @@ The **Koii Network** is redefining enterprise computing solutions by harnessing 
 
 **Distributed Computing with Kubernetes and Docker: A Pioneering Approach**
 
-Koii Network, in collaboration with OrcaCompute (orcacompute.com), is revolutionizing the realm of decentralized computing. By integrating Kubernetes and Docker, the network facilitates scalable and efficient enterprise computing solutions. This strategy not only maximizes the use of home device networks but also introduces cost-effectiveness in cloud computing, a significant advancement in distributed computing.
+Koii Network, in collaboration with  [OrcaCompute](https://orcacompute.com/){:target="\_blank"}, is revolutionizing the realm of decentralized computing. By integrating Kubernetes and Docker, the network facilitates scalable and efficient enterprise computing solutions. This strategy not only maximizes the use of home device networks but also introduces cost-effectiveness in cloud computing, a significant advancement in distributed computing.
 
 **DataSwap: Mastering Data Stream Management**
 
-DataSwap (dataswap.ai) stands as a testament to Koii Network's commitment to advancing data management platforms. By leveraging millions of IoT devices, DataSwap offers unparalleled consumer data insights, vital for companies like Gartner and Cambridge Analytica. This platform represents a major leap in data analytics, providing a depth of consumer engagement insights previously untapped.
+[DataSwap ](https://www.dataswap.ai/){:target="\_blank"} stands as a testament to Koii Network's commitment to advancing data management platforms. By leveraging millions of IoT devices, DataSwap offers unparalleled consumer data insights, vital for companies like Gartner and Cambridge Analytica. This platform represents a major leap in data analytics, providing a depth of consumer engagement insights previously untapped.
 
 **A Harmonious Ecosystem: Empowering Home Device Owners and Enterprises**
 
