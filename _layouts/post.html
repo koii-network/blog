@@ -102,13 +102,28 @@ layout: default
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
 <![endif]-->
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "20249188",
-	formId: "b76ab23f-0b17-4292-a4e8-12114a3bbc2b"
-});
-</script>
+
+                        <head>
+                            <style>
+                                .custom-form-container{
+                                 width: fit-content;
+                                    margin-right: 150px;
+                                    margin-left: 150px;
+                                    padding-top: 15px;
+                                }
+                            </style>
+                        </head>
+                        <body>
+                        <div class="custom-form-container">
+                            <script id="email-register">
+                                hbspt.forms.create({
+                                    region: "na1",
+                                    portalId: "20249188",
+                                    formId: "b76ab23f-0b17-4292-a4e8-12114a3bbc2b"
+                                });
+                            </script>
+                        </div>
+                        </body>
 						
 						 
 					</div>
