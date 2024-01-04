@@ -8,18 +8,11 @@ image: assets/images/blog/KOII-TH-2024.png
 
 
 Join us for the inaugural Koii Town Hall on January 11, 2024. Don't miss this pivotal event in the world of decentralized technology.
-
-
-<iframe
-  src="https://lu.ma/embed-checkout/evt-Vg8fmnR5uWBZgpd"
-  width="100%"
-  height="500"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+<p style="text-align: center">
+<a href="https://lu.ma/iyqpzbls" target="_blank">
+    <img src="/assets/images/blog/townhall.png" alt="Town Hall">
+</a>
+</p>
 
 # Upcoming Koii Town Hall: A Pivotal Event for the Koii Community
 
