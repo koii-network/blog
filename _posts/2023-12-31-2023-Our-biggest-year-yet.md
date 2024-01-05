@@ -6,7 +6,6 @@ categories: [Announcement]
 image: assets/images/Network's 2023 year-end recap and 2024 outlook.png
 ---
 
-Hello there,  
 As 2023 comes to a close, we wanted to share some things we're really proud of this year.
 
 Between the Bitcoin halving and ETF listing, 2024 will be already be a big year for hodlers and web3 - we're here to help you make it even greater.
