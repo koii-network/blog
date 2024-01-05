@@ -8,7 +8,7 @@ image: assets/images/Network's 2023 year-end recap and 2024 outlook.png
 
 As 2023 comes to a close, we wanted to share some things we're really proud of this year.
 
-Between the Bitcoin halving and ETF listing, 2024 will be already be a big year for hodlers and web3 - we're here to help you make it even greater.
+Between the Bitcoin halving and ETF listing, 2024 will be a big year for hodlers and web3 - we're here to help you make it even greater.
 
 Enjoy the read, and good luck in the new year.
 
@@ -108,4 +108,4 @@ CEO, Koii Labs
 
 ---------------------------------------------------------------
 *Don't forget to try the node and get your free KOII tokens:*
-*[Get Started is 5 Minutes](https://d2nc8-04.na1.hubspotlinks.com/Ctc/OR+113/d2nC8-04/MVWvF8Vf7cnW5wbDNC6_h6JBW4bWRWk57LGwxN7TcW2b3qn9gW6N1vHY6lZ3lvW3MTK3L9d-gvlN1vRTy9Wp5gwW4nHFjP3kd5ljW2B1rDM7c79KrVddS4W79PZNGW732BtH9bX8TcW2PxKWN3-NZ17VMnZbR1NhktyW7FTDjM2WHFL5W49YGgf3ZL-WZW98ZJzM1fCYS7W141s4m67f5RkW8nRn1s6qvgWlV7QLVG3qGYz2MhCy3RJfXD-W11N81H55x00CW9d0wXy19m4PMW1Nqnzg69SctGW8fCHP91Q4TL2W8bbs_s1QYLQ2W88Dlm-5XK0v6V5Y7XT61l7qHf6JP0XP04){:target="\_blank"}*
+*[Get Started in 5 Minutes](https://d2nc8-04.na1.hubspotlinks.com/Ctc/OR+113/d2nC8-04/MVWvF8Vf7cnW5wbDNC6_h6JBW4bWRWk57LGwxN7TcW2b3qn9gW6N1vHY6lZ3lvW3MTK3L9d-gvlN1vRTy9Wp5gwW4nHFjP3kd5ljW2B1rDM7c79KrVddS4W79PZNGW732BtH9bX8TcW2PxKWN3-NZ17VMnZbR1NhktyW7FTDjM2WHFL5W49YGgf3ZL-WZW98ZJzM1fCYS7W141s4m67f5RkW8nRn1s6qvgWlV7QLVG3qGYz2MhCy3RJfXD-W11N81H55x00CW9d0wXy19m4PMW1Nqnzg69SctGW8fCHP91Q4TL2W8bbs_s1QYLQ2W88Dlm-5XK0v6V5Y7XT61l7qHf6JP0XP04){:target="\_blank"}*
