@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Reward Models on the KOII Network"
 subtitle: ""
 categories: [Announcement]
-image: assets/images/koii-rewards.png
+image: assets/images/koii-2024rewards.png
 ---
 
 ## Introduction:
