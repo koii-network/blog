@@ -74,7 +74,7 @@ A different approach to sustainability relates to the ad economy. Currently, the
 
 Join us on our journey to get creators get paid for their work, and allow them to keep making more work that people love. Finnie will be there by your side to help to keep Web 3.0 moving in the right direction.
 
-Find Koii on our [Twitter](https://twitter.com/koii_network), [Discord](https://discord.gg/koii), [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5), or sign up for our [weekly newsletter](https://bit.ly/3oni4VL). If you’re interested in investing, get on the [Investor Whitelist](https://docs.google.com/forms/d/e/1FAIpQLSd2SmUm8pr6RN4hGk1nSM_LsZyUQmxQhoRXE9lrt-oNRn0xHg/viewform?usp=sf_link).
+Find Koii on our [Twitter](https://twitter.com/koii_network), [Discord](https://discord.gg/koiin), [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5), or sign up for our [weekly newsletter](https://bit.ly/3oni4VL). If you’re interested in investing, get on the [Investor Whitelist](https://docs.google.com/forms/d/e/1FAIpQLSd2SmUm8pr6RN4hGk1nSM_LsZyUQmxQhoRXE9lrt-oNRn0xHg/viewform?usp=sf_link).
 
 To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents) or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/) to learn how.
 

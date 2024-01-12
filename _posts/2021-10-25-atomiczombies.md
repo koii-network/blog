@@ -48,4 +48,4 @@ Anyone who has been following DKleine’s artistic journey knows that zombies ha
 
 In short, DKleine has created a broad range of unique attributes for his hordes of Atomic Zombies so that you can enjoy your very own unique undead buddy… forever. Or at least for as long as you live. Maybe even longer. So choose your zombies wisely — and keep an eye on them. After all, their lives depend on it.
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.com/invite/SDwgnjxNEn){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}.
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koiin){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}.

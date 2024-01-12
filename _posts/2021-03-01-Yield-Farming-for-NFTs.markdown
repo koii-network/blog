@@ -33,4 +33,4 @@ Is your NFT for sale? You will earn $KOII, forever.
 
 The ability to monetize authentic digital creations based on attention has exciting implications. We can’t wait to show you.
 
-Visit our [Discord](https://discord.gg/koii) to stay involved or contribute.
+Visit our [Discord](https://discord.gg/koiin) to stay involved or contribute.

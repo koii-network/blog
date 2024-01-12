@@ -59,7 +59,7 @@ Join the revolution and pre-register to run a node [here](https://docs.google.co
 
 To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents){:target="\_blank"} or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/){:target="\_blank"} to learn how.
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koii){:target="\_blank"}_, and follow us on [Twitter](https://twitter.com/open_koi){:target="\_blank"}_.
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koiin){:target="\_blank"}_, and follow us on [Twitter](https://twitter.com/open_koi){:target="\_blank"}_.
 
 <script type="text/javascript">
     window.location.href = "https://blog.koii.network/Ethereum-to-Koii/";

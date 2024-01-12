@@ -36,4 +36,4 @@ Koii is a great project, I'll tell you a truth, when I started my career I was a
 I am currently only on twitter and koii:
 [@jcamargolopez](https://koi.rocks/artist/vHcBsNS1h-v9VQe0PH-uQOSPF5xc99fgr7wvuIFXy4o){:target="\_blank"}
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.com/invite/SDwgnjxNEn){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koiin){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}

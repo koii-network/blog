@@ -82,5 +82,5 @@ Buccaneers receive the most exclusive benefits, including a swag package, a paid
 
 The Koii Network pirate uprising is a great way for our most dedicated community members to get recognized and rewarded for their contributions. We're excited to see the program grow and thrive, and we look forward to working with our pirates to build an even stronger Koii Network community.
 
-If you have any questions about the pirate program or Koii as a whole, don't be shy and give us a shout on [Discord](https://discord.gg/koii){:target="\_blank"}. We’ll be standing by the helm to steer you in the right direction!
+If you have any questions about the pirate program or Koii as a whole, don't be shy and give us a shout on [Discord](https://discord.gg/koiin){:target="\_blank"}. We’ll be standing by the helm to steer you in the right direction!
 
