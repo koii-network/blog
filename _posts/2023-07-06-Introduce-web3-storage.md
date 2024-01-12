@@ -57,4 +57,4 @@ Utilizing Web3.Storage with Koii tasks offers multiple benefits:
 
 By integrating Web3.Storage with Koii tasks, we are opening up a world of possibilities for decentralized data storage within the Koii ecosystem. We are confident this will significantly enhance the experience for all our users.
 
-We encourage you to get your Web3.Storage key and start exploring the new possibilities! If you need any help or have questions, feel free to connect with us on [Discord](https://discord.gg/koii){:target="\_blank"}. We're happy to guide you every step of the way.
+We encourage you to get your Web3.Storage key and start exploring the new possibilities! If you need any help or have questions, feel free to connect with us on [Discord](https://discord.gg/koiin){:target="\_blank"}. We're happy to guide you every step of the way.

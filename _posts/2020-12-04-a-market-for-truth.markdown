@@ -11,7 +11,7 @@ For the first time in history, it might be profitable to spend time arguing with
 
 # Koii is Growing
 
-This week, our mailing list saw the most new signups ever, and we've been hearing a lot of amazing ideas for how we can solve the accountability problem. We want to make sure everyone's voice is heard, so please make sure to subscribe and send us an email at <a target="_blank" href="mailto:support@koii.network">support@koii.network</a> and <a target="_blank" href="https://discord.gg/koii">join the Discord channel</a> to start participating in the debate!
+This week, our mailing list saw the most new signups ever, and we've been hearing a lot of amazing ideas for how we can solve the accountability problem. We want to make sure everyone's voice is heard, so please make sure to subscribe and send us an email at <a target="_blank" href="mailto:support@koii.network">support@koii.network</a> and <a target="_blank" href="https://discord.gg/koiin">join the Discord channel</a> to start participating in the debate!
 
 ## App Update
 

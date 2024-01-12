@@ -54,7 +54,7 @@ This is why now is a critical moment. Participating, making YOUR interests heard
 
 Our goal: A communal area of fair play, preserved forever as an informational public commons, to set the example for a future of freedom and prosperity. Check out [koi.rocks](https://koi.rocks/contents){:target="\_blank"} to upload your NFTs to the permaweb and start earning attention rewards now.
 
-Want to get involved? Reach out to us personally on our [Discord](https://discord.gg/koii){:target="\_blank"}, ask for a job at *jobs@koii.network*, or slide into our DMs on [Twitter](https://twitter.com/open_koi){:target="\_blank"} or [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"}
+Want to get involved? Reach out to us personally on our [Discord](https://discord.gg/koiin){:target="\_blank"}, ask for a job at *jobs@koii.network*, or slide into our DMs on [Twitter](https://twitter.com/open_koi){:target="\_blank"} or [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"}
 
 **Better media makes a better world; decentralization lets you own it.**
 
@@ -62,4 +62,4 @@ Join the revolution and pre-register to run a node [here](https://docs.google.co
 
 To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents){:target="\_blank"} or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/){:target="\_blank"} to learn how.
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koii){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/open_koi){:target="\_blank"}.
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koiin){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/open_koi){:target="\_blank"}.
