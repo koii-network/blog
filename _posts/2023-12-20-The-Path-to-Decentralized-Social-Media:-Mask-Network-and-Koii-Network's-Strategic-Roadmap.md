@@ -24,6 +24,7 @@ Monetization through Advertising: By aggregating social media content, these app
 Personalized User Experience: Users can expect a more personalized and relevant content feed, enhancing their social media experience.  
 The Synergy of Mask and Koii Technologies
 
+
 The collaboration effectively merges Mask Network's encryption and social media expertise with Koii Network's distributed computing and cost-effective node infrastructure. This synergy is expected to yield:
 
 1. Enhanced data privacy and security.
