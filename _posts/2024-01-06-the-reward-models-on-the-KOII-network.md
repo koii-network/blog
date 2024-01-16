@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Exploring Reward Models on the KOII Network"
+title: "Exploring Reward Models on the Koii Network"
 subtitle: ""
 categories: [Announcement]
 image: assets/images/koii-2024rewards.png
 ---
 
 ## Introduction:
-The KOII network is at the cutting edge of decentralized technology, focusing on innovative task management and reward distribution with its KOIITASKS. The network is particularly noted for its diverse reward models, designed to boost engagement and reward contributions in various ways. This blog post explores these models, explaining their roles within the KOII ecosystem.
+The Koii network is at the cutting edge of decentralized technology, focusing on innovative task management and reward distribution with its KOIITASKS. The network is particularly noted for its diverse reward models, designed to boost engagement and reward contributions in various ways. This blog post explores these models, explaining their roles within the KOII ecosystem.
 
 **Understanding the Framework:**
-KOII’s reward system is built on a flexible four-by-three grid framework. This categorizes rewards into four main types—work, stake, reputation, and chance—and distributes them through three models: linear, weighted, and amplified. Each unique combination incentivizes network participants differently.
+Koii’s reward system is built on a flexible four-by-three grid framework. This categorizes rewards into four main types—work, stake, reputation, and chance—and distributes them through three models: linear, weighted, and amplified. Each unique combination incentivizes network participants differently.
 
 ---
 
