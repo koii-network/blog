@@ -43,6 +43,6 @@ After you set your stake and pair any settings, all that’s left to do is hit �
 
 As a reminder, **make sure you trust the task creator** when running a custom task. These tasks have not yet been audited by the team.
 
-If you have any questions, want to learn more about how to use this feature, or want to learn how to create your own tasks, jump in our [Discord](https://discord.gg/koiin){:target="\_blank"}.
+If you have any questions, want to learn more about how to use this feature, or want to learn how to create your own tasks, jump in our [Discord](https://discord.gg/koii-network){:target="\_blank"}.
 
 If you got the far in the post, here’s a little sneak peek treat. We are working on a referral code system that allows you to share a specific task in onboarding when someone downloads their node for the first time. It’s a complicated, but exciting process so stay tuned!

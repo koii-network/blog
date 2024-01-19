@@ -85,4 +85,4 @@ As well as the core function of rewarding attention within the Arweave network, 
 
 We, together with the Arweave network, are building the library of the future, and it is completely open to anyone who wants to help. No longer will power or censorship dominate the pages of history, but it's up to each of us to help in this process. We are also working on building tools to make it easier to browse this permanent archive, and would love to have your help, if you're up to the challenge.
 
-Email [support@koii.network](mailto:support@koii.network) or [click here to join our discord channel](https://discord.gg/koiin) and let us know what you think.
+Email [support@koii.network](mailto:support@koii.network) or [click here to join our discord channel](https://discord.gg/koii-network) and let us know what you think.

@@ -89,4 +89,4 @@ Next, select the pin icon next to Finnie and the icon will turn blue.
 
 If you're ready to take the next step and mint an NFT using Koii, you can do that right from within the Finnie Wallet. Let us show you how in our guide to [minting your first NFT](https://blog.koii.network/Introducing-Finnie/#part-4-create-an-nft){:target="\_blank"} using the Finnie Wallet.
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koiin){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}.
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koii-network){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}.
