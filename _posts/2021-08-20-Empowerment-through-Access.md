@@ -29,9 +29,9 @@ Check out the Edge of NFT blog and podcast here for more.
 
 To learn more about how you can help Koii succeed, [check out this blog](https://blog.koii.network/How-YOU-can-help-Koii/).
 Follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}
-Join our [Discord](https://discord.gg/koiin){:target="\_blank"}
+Join our [Discord](https://discord.gg/koii-network){:target="\_blank"}
 Get on the [whitelist](https://docs.google.com/forms/d/e/1FAIpQLSd2SmUm8pr6RN4hGk1nSM_LsZyUQmxQhoRXE9lrt-oNRn0xHg/viewform){:target="\_blank"} for our upcoming public token sale
 
 If you’re interested in the information access part of this piece that I didn’t really get into, I will be diving more into the importance of public records and seeing the truth from different points of view in a future blog.
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koiin){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koii-network){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}
