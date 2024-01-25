@@ -3,7 +3,7 @@ layout: post
 title: "Koii Network Town Hall #3: A Beacon for Community Engagement"
 subtitle: ""
 categories: [Announcement]
-image: assets/images/townhall3.png
+image: assets/images/Townhall3.png
 ---
 Join us for an exciting session at the third Koii Network Town Hall, scheduled for Thursday, **January 25th, 2024**. This week, we're dedicating our efforts to amplify and engage with our vibrant community of Koii agents. As a community-driven network, your insights and participation are the keystones of our collective growth.
 
