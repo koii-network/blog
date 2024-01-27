@@ -2,7 +2,7 @@
 layout: post
 title: "Resilience in the Face of DDoS Attacks"
 categories: [Announcement]
-image: assets/images/blog/k2-attack.png
+image: assets/images/k2-ddos-defense.webp
 ---
 
 # Resilience in the Face of DDoS Attacks<a id="resilience-in-the-face-of-ddos-attacks"></a>
