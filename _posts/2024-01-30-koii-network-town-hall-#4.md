@@ -21,7 +21,7 @@ At the heart of Town Hall #4 is the Fireside Chat on Resilience. This panel sess
 
 **A Confluence of Minds: Engaging with the Koii Community**
 
-Town Hall #4 is not just an event; it's a confluence of minds, ideas, and innovations. It's the perfect venue for engaging with like-minded individuals, brainstorming future innovations, and strengthening connections within the community. The virtual setting on [ Gather](https://app.gather.town/app/5DASgNHoUdz2HgpV/koii%20garden) ensures that participants from around the globe can join in, share their thoughts, and contribute to the collective wisdom of the Koii ecosystem.
+Town Hall #4 is not just an event; it's a confluence of minds, ideas, and innovations. It's the perfect venue for engaging with like-minded individuals, brainstorming future innovations, and strengthening connections within the community. The virtual setting on [ Gather](https://app.gather.town/app/5DASgNHoUdz2HgpV/koii%20garden){:target="\_blank"} ensures that participants from around the globe can join in, share their thoughts, and contribute to the collective wisdom of the Koii ecosystem.
 
 **Conclusion: A Step Towards a Resilient Future**
 
@@ -29,6 +29,6 @@ As we gear up for Town Hall #4, the theme of Network Resilience not only reflect
 
 Join us as we navigate the waves of change together, reinforcing the foundations of our digital world and paving the way for a resilient, decentralized future.
 
-Visit our [Luma Event](https://lu.ma/gm314lda)
+Visit our [Luma Event](https://lu.ma/gm314lda){:target="\_blank"}
 
-Join the event through [Gather](https://app.gather.town/app/5DASgNHoUdz2HgpV/koii%20garden)
+Join the event through [Gather](https://app.gather.town/app/5DASgNHoUdz2HgpV/koii%20garden){:target="\_blank"}
