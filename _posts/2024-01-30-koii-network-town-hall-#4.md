@@ -2,9 +2,9 @@
 layout: post
 title: "Navigating the Waves of Change: Koii Town Hall #4 Spotlights Network Resilience"
 categories: [Announcement]
-image: assets/images/blog/townhall4.png
+image: assets/images/blog/townhall#4.png
 ---
-## Koii Town Hall #4
+## Koii Town Hall #4 
 As the digital landscape continues to evolve, the importance of network resilience has never been more paramount. In this era of unprecedented digital challenges, Koii stands as a beacon of innovation and stability. This week, the Koii ecosystem is abuzz with anticipation as we approach Town Hall #4, scheduled for January 31st. With a central theme of Network Resilience, this event promises to be a cornerstone for the Koii community and beyond.
 
 **Koii News Update: A Glimpse into the Future**
