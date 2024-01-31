@@ -41,6 +41,4 @@ As we gear up for Town Hall #4, the theme of Network Resilience not only reflect
 
 Join us as we navigate the waves of change together, reinforcing the foundations of our digital world and paving the way for a resilient, decentralized future.
 
-Visit our [Luma Event](https://lu.ma/gm314lda){:target="\_blank"}
-
 Join the event through [Gather](https://app.gather.town/app/5DASgNHoUdz2HgpV/koii%20garden){:target="\_blank"}
