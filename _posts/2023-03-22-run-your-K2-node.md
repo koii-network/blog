@@ -129,3 +129,5 @@ Running a K2 node entitles the operator to a share of gas fees on the network, a
     transition: all 0.2s linear 0s;
 }
 </style>
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
