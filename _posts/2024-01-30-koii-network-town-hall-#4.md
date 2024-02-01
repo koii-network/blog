@@ -43,4 +43,5 @@ Join us as we navigate the waves of change together, reinforcing the foundations
 
 Join the event through [Gather](https://app.gather.town/app/5DASgNHoUdz2HgpV/koii%20garden){:target="\_blank"}
 
+
 *Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
