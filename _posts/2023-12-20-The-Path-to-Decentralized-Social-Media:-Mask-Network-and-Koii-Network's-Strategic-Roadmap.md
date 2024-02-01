@@ -43,3 +43,6 @@ The strategic partnership between Mask Network and Koii Network represents not j
 Note: This overview is based on the strategic directions and technologies highlighted by Mask Network and Koii Network, providing insights into their collaborative efforts in shaping the future of decentralized social media.
 
 **#MaskNetwork #KoiiNetwork #DecentralizedSocialMedia #InnovationInTech #DePIN**
+
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
