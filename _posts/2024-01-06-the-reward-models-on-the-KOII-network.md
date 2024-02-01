@@ -48,3 +48,5 @@ The Koii network incorporates a chance-based reward mechanism, introducing rando
 Koii’s array of reward models showcases its dedication to adaptability and inclusiveness. With options for work, investment, reputation enhancement, or chance, there’s a model for every style of participation. This variety not only meets various user preferences but also fortifies a dynamic network.
 
 For more detailed information and to delve into the specifics of these models, please visit the official Koii website at [HERE](https://www.koii.network/){:target="\_blank"} and the comprehensive documentation at [HERE](https://docs.koii.network/){:target="\_blank"}.
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
