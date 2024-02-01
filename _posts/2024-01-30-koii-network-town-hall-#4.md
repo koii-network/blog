@@ -42,3 +42,5 @@ As we gear up for Town Hall #4, the theme of Network Resilience not only reflect
 Join us as we navigate the waves of change together, reinforcing the foundations of our digital world and paving the way for a resilient, decentralized future.
 
 Join the event through [Gather](https://app.gather.town/app/5DASgNHoUdz2HgpV/koii%20garden){:target="\_blank"}
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
