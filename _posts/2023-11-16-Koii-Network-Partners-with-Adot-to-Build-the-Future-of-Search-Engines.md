@@ -15,3 +15,5 @@ The partnership between Koii Network and Adot is a major step forward for both p
 ## About Koii Network
 
 Koii Network stands at the forefront of distributed computing, offering diverse compute and data solutions for a range of applications. **Powered by a vibrant community of node operators contributing computing resources**, Koii Network aims to construct a more efficient, decentralized internet, empowering anyone with a computer to participate and reap the benefits of the ever-evolving internet economy.
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
