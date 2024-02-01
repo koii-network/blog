@@ -119,3 +119,5 @@ Success
 That's it! Your Koii task has been deployed on K2 and is now visible to node operators.
 
 Check out the Koii [docs portal](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/){:target="\_blank"} for more documentation, and please contact us at [Discord](https://discord.gg/koii-network){:target="\_blank"} if you have any questions.
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
