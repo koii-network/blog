@@ -42,3 +42,5 @@ To be eligible for these prizes, you must:
 -   Verify your email address through the [Koii Faucet](https://faucet.koii.network/){:target="\_blank"},
     
 -   If you win, you must retweet our tweet announcing your victory.
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

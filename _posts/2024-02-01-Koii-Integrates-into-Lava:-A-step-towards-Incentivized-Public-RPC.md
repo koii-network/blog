@@ -34,7 +34,7 @@ One of Lava’s **core contributors, the founder Yair Cleper** noted: "We contin
 
 To prepare for Koii Incentivized Public RPC:
 1. [Koii x Lava](https://docs.lavanet.xyz/koii ){:target="\_blank"}.
-2. Await more detail onboarding instructions in Lava Discord
+2. Await more detail onboarding instructions in [Lava Discord](https://discord.gg/UJND7aRag9){:target="\_blank"}.
 
 ## Architecting Alignment From the Roots
 Together Lava & Koii can responsibly build innovations that empower people by demonstrating aligned roadmaps focused on architecting the multi-chain future together.  

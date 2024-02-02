@@ -23,3 +23,5 @@ Koii Network's approach creates a win-win scenario. Enterprises gain access to r
 **The Future of Enterprise Solutions: Beyond Big Data and IoT**
 
 Koii Network's vision extends beyond the current landscape of data management platforms and cloud computing. As it continues to grow, the network promises to unlock new frontiers in enterprise computing solutions, making it a key player in the future of IoT device utilization for big data and consumer insights.
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

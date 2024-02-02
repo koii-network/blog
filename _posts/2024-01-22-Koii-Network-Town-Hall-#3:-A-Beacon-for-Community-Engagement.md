@@ -30,3 +30,5 @@ This Town Hall is more than just an event; it’s a collaborative space for idea
 Remember, the Koii ecosystem thrives on the active participation of its community. So, come with your ideas, questions, and enthusiasm. Together, we can build a stronger, more interconnected Koii network.
 
 See you [**THERE**](https://lu.ma/xzy5tbtu){:target="\_blank"}!🌟
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
