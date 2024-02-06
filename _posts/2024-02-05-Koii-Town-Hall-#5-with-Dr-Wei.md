@@ -17,7 +17,7 @@ image: assets/images/th5.png
   tabindex="0"
 ></iframe>
 
-The Koii Town Hall is shaping up to be a place of alpha, learning & fun in this rapidly evolving ecosystem. With many milestones and announcements on the agenda, it’s the best way to keep up connect with the team and community. Each week the Koii team shares protocol upgrades & feature guests & partners. 
+The Koii Town Hall is shaping up to be a place of alpha, learning & fun in this rapidly evolving ecosystem. With many milestones and announcements on the agenda, it’s the best way to keep up & connect with the team and community. Each week the Koii team shares protocol upgrades & feature guests & partners. 
 
 The Koii network recently surged past another milestone - topping 8,000 active protocol nodes powering its ecosystem. This swelling node network demonstrating the momentum Koii has achieved since launching only months ago. Further decentralization will provide greater speed, security, and robustness as Koii continues on its mission. 
 
