@@ -3,7 +3,7 @@ layout: post
 title: "Realizing Distributed Infrastructure: Fireside Chat ft. Jesse Adams from UpRock"
 subtitle: ""
 categories: [Announcement]
-image: assets/images/th5.png
+image: assets/images/th7.jpg
 ---
 <iframe
   src="https://lu.ma/embed-checkout/evt-hRiDdHym36gEoat"
