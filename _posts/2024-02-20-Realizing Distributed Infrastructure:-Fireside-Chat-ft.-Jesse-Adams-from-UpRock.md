@@ -30,3 +30,4 @@ RSVP at the link below to help decentralize AI this Thursday at 3PM UTC.
 
 Register [Here](https://lu.ma/su5ycxor){:target="\_blank"}.
 
+**Looking forward to see you all there!**
