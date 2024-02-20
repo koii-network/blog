@@ -25,3 +25,8 @@ Together Koii x UpRock can incentivize the masses to share bandwidth and storage
 Users on both platforms will be able to earn rewards sharing bandwidth and storage! When can UpRock app contributors begin earning KOII tokens by auto-contributing resources? How will Koii's global community benefit from insights across UpRock's unbounded user base?
 
 Come ready with your most pressing questions for Jesse and Koii founder Al Morris during the open Q&A segment!
+
+RSVP at the link below to help decentralize AI this Thursday at 3PM UTC.
+
+Register [Here](https://lu.ma/su5ycxor){:target="\_blank"}.
+
