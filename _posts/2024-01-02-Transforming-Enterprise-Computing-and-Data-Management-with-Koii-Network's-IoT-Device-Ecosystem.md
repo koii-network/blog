@@ -3,7 +3,7 @@ layout: post
 title: "Transforming Enterprise Computing and Data Management with Koii Network's IoT Device Ecosystem"
 subtitle: ""
 categories: [Announcement]
-image: assets/images/blog/Koii-ecosystem.png
+image: assets/images/blog/Koii-ecosystem.PNG
 ---
 
 The **Koii Network** is redefining enterprise computing solutions by harnessing the collective power of IoT devices in homes. This innovative approach uniquely addresses both distributed computing and data stream management, offering a synergistic solution for enterprises.
