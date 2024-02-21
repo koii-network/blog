@@ -3,7 +3,7 @@ layout: post
 title: "Koii Town Hall 2024: Unveiling the Future of Decentralization and Community-Driven Innovation"
 subtitle: ""
 categories: [Announcement]
-image: assets/images/blog/KOII-TH-2024.png
+image: assets/images/blog/KOII-TH-2024.PNG
 ---
 
 
