@@ -3,7 +3,7 @@ layout: post
 title: "2023: Our Biggest Year Yet"
 subtitle: "Join us today to earn USDC, ETH, and more!"
 categories: [Announcement]
-image: assets/images/Network's 2023 year-end recap and 2024 outlook.png
+image: assets/images/Network's 2023 year-end recap and 2024 outlook.PNG
 ---
 
 As 2023 comes to a close, we wanted to share some things we're really proud of this year.
