@@ -5,16 +5,8 @@ subtitle: ""
 categories: [Announcement]
 image: assets/images/TH7.jpg
 ---
-<iframe
-  src="https://lu.ma/embed-checkout/evt-hRiDdHym36gEoat"
-  width="600"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zCnmV-eDQXo?si=7jxBWpLMa3kM82Sb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 At this week’s Koii Town Hall, Join UpRock's Jesse Adams - Co-founder of UpRock this Thursday for an exclusive Koii Town Hall Fireside Chat on realizing distributed networks. We'll discuss combining Koii Network's swelling desktop node network with UpRock’s army of unrestricted mobile devices to bypass restrictions of legacy systems.
 
