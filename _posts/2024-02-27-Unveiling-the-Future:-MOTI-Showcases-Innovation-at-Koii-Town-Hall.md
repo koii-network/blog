@@ -11,7 +11,7 @@ MOTI’s focus is on authenticity, meaningful interactions and real-life relatio
 **Innovating Airdrop Campaigns Through Social Data**
 A key use case MOTI is developing centers on enhancing airdrop campaigns - a vital community growth lever in web3. By analyzing social data beyond standard APIs, MOTI can help projects identify and reward their most impactful community members. Combined with MOTI's branded link-in-bio profiles, this creates more meaningful social engagement while simplifying participation.
 
-Bringing Quality Back into Community Growth
+**Bringing Quality Back into Community Growth**
 Matthew will highlight current problems & difficulties with airdrops from a protocol level. MOTI aims to shift the focus from quantity to quality of engagement, reducing sybil accounts and building an authentic user base.
 
 Launch Roadmap
