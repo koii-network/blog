@@ -5,6 +5,18 @@ subtitle: "MOTI joins for a Fireside Chat at this week’s Koii Town Hall #8 to 
 categories: [Announcement]
 image: assets/images/blog/TH8.PNG
 ---
+
+<iframe
+  src="https://lu.ma/embed-checkout/evt-DYu8G4X4fjm5fhF"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
+
 **Introducing MOTI: The Next Generation Social Platform**
 MOTI’s focus is on authenticity, meaningful interactions and real-life relations. This week COO Matthew gives an overview of MOTI's goal to build the future social web powered by decentralization and community-driven growth. Having already showcased their ideas around digital identity and social profiles at previous Koii Town Halls, this event offered a glimpse into the business model and go-to-market strategy.
 
