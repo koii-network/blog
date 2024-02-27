@@ -26,7 +26,7 @@ MOTI invited web3 projects planning airdrops to leverage their platform to reach
 The Future of Social Reimagined
 By interweaving social connections, digital identity, and tokenized engagement, MOTI aims to unlock new possibilities for recruiting, dating, crediting and more. Ultimately rebuilding the social web on the pillars of decentralization and community. 
 
-Visit MOTI.BIO to learn more and join their waitlist https://moti.bio/
+Visit MOTI.BIO to learn more and join their waitlist [Here](https://moti.bio/){:target="\_blank"}. 
 
 Tune into the Koii Town Hall on Thursday 29th February at 3pm UTC.
 
