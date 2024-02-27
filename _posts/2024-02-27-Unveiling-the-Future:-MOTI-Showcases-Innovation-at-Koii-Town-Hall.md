@@ -23,7 +23,7 @@ Here's an overview of the launch roadmap:
 **An Open Invitation to Partners**
 MOTI invited web3 projects planning airdrops to leverage their platform to reach genuine users. Similarly, IP holders and creators can access MOTI's novel engagement approach to connect with fans.
 
-The Future of Social Reimagined
+**The Future of Social Reimagined**
 By interweaving social connections, digital identity, and tokenized engagement, MOTI aims to unlock new possibilities for recruiting, dating, crediting and more. Ultimately rebuilding the social web on the pillars of decentralization and community. 
 
 Visit MOTI.BIO to learn more and join their waitlist [Here](https://moti.bio/){:target="\_blank"}. 
