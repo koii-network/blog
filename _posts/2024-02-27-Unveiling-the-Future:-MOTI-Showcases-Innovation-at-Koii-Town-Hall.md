@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Koii Town Hall #5 with Dr Wei"
+title: "Unveiling the Future: MOTI Showcases Innovation at Koii Town Hall"
 subtitle: "Buckle Up: Koii Town Hall #5 Set to Showcase Ecosystem Expansion"
 categories: [Announcement]
-image: assets/images/th5.PNG
+image: assets/images/blog/TH8.PNG
 ---
