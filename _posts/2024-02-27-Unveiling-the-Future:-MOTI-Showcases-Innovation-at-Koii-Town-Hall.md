@@ -14,7 +14,7 @@ A key use case MOTI is developing centers on enhancing airdrop campaigns - a vit
 **Bringing Quality Back into Community Growth**
 Matthew will highlight current problems & difficulties with airdrops from a protocol level. MOTI aims to shift the focus from quantity to quality of engagement, reducing sybil accounts and building an authentic user base.
 
-Launch Roadmap
+**Launch Roadmap**
 Here's an overview of the launch roadmap:
 Closed community launch on MOTI.BIO to build B2B partnerships around enhanced airdrops.
 Viral go-to-market with MOTI.CARDS for peer-to-peer gifting to drive organic growth.
