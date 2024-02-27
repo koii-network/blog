@@ -8,7 +8,7 @@ image: assets/images/blog/TH8.PNG
 **Introducing MOTI: The Next Generation Social Platform**
 MOTI’s focus is on authenticity, meaningful interactions and real-life relations. This week COO Matthew gives an overview of MOTI's goal to build the future social web powered by decentralization and community-driven growth. Having already showcased their ideas around digital identity and social profiles at previous Koii Town Halls, this event offered a glimpse into the business model and go-to-market strategy.
 
-Innovating Airdrop Campaigns Through Social Data
+**Innovating Airdrop Campaigns Through Social Data**
 A key use case MOTI is developing centers on enhancing airdrop campaigns - a vital community growth lever in web3. By analyzing social data beyond standard APIs, MOTI can help projects identify and reward their most impactful community members. Combined with MOTI's branded link-in-bio profiles, this creates more meaningful social engagement while simplifying participation.
 
 Bringing Quality Back into Community Growth
