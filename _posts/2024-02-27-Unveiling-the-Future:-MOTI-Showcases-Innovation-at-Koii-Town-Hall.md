@@ -16,7 +16,7 @@ Matthew will highlight current problems & difficulties with airdrops from a prot
 
 **Launch Roadmap**
 Here's an overview of the launch roadmap:
-Closed community launch on MOTI.BIO to build B2B partnerships around enhanced airdrops.
+ - Closed community launch on MOTI.BIO to build B2B partnerships around enhanced airdrops.
 Viral go-to-market with MOTI.CARDS for peer-to-peer gifting to drive organic growth.
 Token launch & open creation platform for social collectibles.
 
