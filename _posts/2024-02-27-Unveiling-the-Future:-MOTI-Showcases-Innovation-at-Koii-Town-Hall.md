@@ -20,7 +20,7 @@ Here's an overview of the launch roadmap:
  - Viral go-to-market with MOTI.CARDS for peer-to-peer gifting to drive organic growth.
  - Token launch & open creation platform for social collectibles.
 
-An Open Invitation to Partners
+**An Open Invitation to Partners**
 MOTI invited web3 projects planning airdrops to leverage their platform to reach genuine users. Similarly, IP holders and creators can access MOTI's novel engagement approach to connect with fans.
 
 The Future of Social Reimagined
