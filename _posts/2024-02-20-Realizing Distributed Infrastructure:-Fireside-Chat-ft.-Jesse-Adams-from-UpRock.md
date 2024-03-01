@@ -25,3 +25,6 @@ RSVP at the link below to help decentralize AI this Thursday at 3PM UTC.
 Register [Here](https://lu.ma/su5ycxor){:target="\_blank"}.
 
 **Looking forward to see you all there!**
+
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
