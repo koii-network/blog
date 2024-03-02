@@ -30,3 +30,6 @@ You can also catch the latest from Koii HQ with roadmap updates on advancements 
 Come ready to quiz our guests' on their projects, or their ideas of industry shifts on the horizon. Tune in to the Koii Garden Gather Room on Thursday at 2PM UTC for an epic glimpse into a distributed future. 
 
 Register [Here](https://lu.ma/on84mqee){:target="\_blank"}.
+
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
