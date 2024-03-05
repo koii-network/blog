@@ -8,14 +8,25 @@ categories: [Announcement]
 image: assets/images/blog/TH8.png
 ---
 
+<iframe
+  src="https://lu.ma/embed-checkout/evt-gOfoHxImei6RKLq"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
+
 Our featured guest is Saim Iqbal, CEO of DataSwap. Saim brings a wealth of experience from his role as Head of Operations at Koii Network and has assembled an all-star team of machine learning researchers and experts. 
 
 During an exclusive fireside chat, we'll dive into DataSwap's mission to democratize access to social media and AI training data. Currently, giants like Twitter and Facebook charge exorbitant fees for API access - putting it out of reach for many startups and indie developers. DataSwap bypasses these paywalls by leveraging community resources to acquire public social data at a fraction of the cost.
 
 But how exactly does it work? Saim will shed light on DataSwap's unique approach, including:
-The "Dataset Marketplace" where users can buy, sell, and swap curated datasets
-Offering both raw data (like HTML for training) and processed, analysis-ready formats
-Providing fully customized datasets tailored to specific use cases and verticals
+ - The "Dataset Marketplace" where users can buy, sell, and swap curated datasets
+ - Offering both raw data (like HTML for training) and processed, analysis-ready formats
+ - Providing fully customized datasets tailored to specific use cases and verticals
 
 We'll also explore some of the fascinating applications of DataSwap's offerings. From an aggregated news model drawing from multiple platforms to real-time financial insights based on influential Twitter users, the possibilities are endless. Saim will share real-world examples of how customers are leveraging DataSwap to build groundbreaking AI solutions.
 
