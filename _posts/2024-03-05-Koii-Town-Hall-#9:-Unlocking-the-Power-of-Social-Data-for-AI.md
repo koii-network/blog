@@ -37,6 +37,4 @@ Join us for what promises to be an enlightening and thought-provoking session. W
 
 The Koii Town Hall featuring Saim Iqbal from DataSwap takes place this Thursday at 15:00 UTC. RSVP on the Luma calendar below.
 
-https://lu.ma/koii.network
-
-See you there!
+See you [there](https://lu.ma/koii.network){:target="\_blank"}!
