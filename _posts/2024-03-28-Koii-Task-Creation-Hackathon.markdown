@@ -2,7 +2,7 @@
 layout: post
 title: "Koii Task Creation Hackathon"
 categories: [Announcement]
-image: assests/images/hackaton.png
+image: assets/images/hackaton.png
 ---
 
 # Koii Task Creation Hackathon<a id="Koii Task Creation Hackathon"></a>
