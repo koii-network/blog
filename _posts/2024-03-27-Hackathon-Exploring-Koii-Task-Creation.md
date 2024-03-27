@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploring Koii Task Creation"
+title: "Hackathon: Exploring Koii Task Creation"
 subtitle: ""
 categories: [Announcement]
 image: assets/images/hackaton.png
@@ -8,7 +8,7 @@ image: assets/images/hackaton.png
 
 Welcome to the Koii Hackathon, an ongoing event that invites developers, innovators, and visionaries to explore the limitless possibilities of decentralized technology. Koii Network has developed a high-performance DePIN blockchain known as K2 which is currently in testnet. The anticipated token generation event and mainnet launch is scheduled for Q2. This hackathon is your chance to dive into the world of Koii tasks and contribute to the growth of the Koii ecosystem before we take the world by storm.
 
-You're invited to a special edition of our Town Hall event on Thursday, March 24th, where we'll be focusing on the exciting Task Creation Hackathon and providing you with the support you need to participate and win big! Learn more about the $10,000 USD prize pool up for grabs in the hackathon!
+You're invited to a special edition of our Town Hall event on Thursday, March 28th, where we'll be focusing on the exciting Task Creation Hackathon and providing you with the support you need to participate and win big! Learn more about the $10,000 USD prize pool up for grabs in the hackathon!
 
 <iframe
   src="https://lu.ma/embed-checkout/evt-uWMgyGbfnau6COS"
@@ -92,7 +92,7 @@ These are just a few examples of the vast possibilities that Koii tasks and the 
 
 As a hackathon participant, think about the challenges and opportunities in your chosen domain and explore how Koii tasks can be leveraged to create innovative and impactful solutions. The Koii Hackathon provides the perfect platform to bring your ideas to life and showcase the power of decentralized technology.
 
-Remember to attend the Koii Town Hall on Thursday, March 24th, to learn more about the hackathon, ask questions, and get guidance from the Koii team. Don't miss out on the chance to win a share of the $10,000 USD prize pool and make your mark on the decentralized future!
+Remember to attend the Koii Town Hall on Thursday, March 28th, to learn more about the hackathon, ask questions, and get guidance from the Koii team. Don't miss out on the chance to win a share of the $10,000 USD prize pool and make your mark on the decentralized future!
 
 
 # Unleash Your Creativity
@@ -168,7 +168,7 @@ As the Koii ecosystem continues to evolve and the mainnet launch approaches, you
 So, gather your ingredients, unleash your creativity, and get ready to build something extraordinary. The Koii Hackathon is your chance to leave a lasting impact on the world of decentralized technology.
 
 
-Don't miss out on this incredible opportunity to learn, grow, and potentially win big in the Koii Hackathon. Join us at the Town Hall on Thursday, March 24th, and let's shape the future of decentralized technology together!
+Don't miss out on this incredible opportunity to learn, grow, and potentially win big in the Koii Hackathon. Join us at the Town Hall on Thursday, March 28th, and let's shape the future of decentralized technology together!
 
 Happy hacking, and may your Koii tasks revolutionize industries and change lives!
 
