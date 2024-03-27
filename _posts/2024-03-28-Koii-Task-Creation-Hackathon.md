@@ -5,6 +5,17 @@ categories: [Announcement]
 image: assets/images/hackaton.png
 ---
 
+<iframe
+  src="https://lu.ma/embed-checkout/evt-eH3YneWAHRiAYJr"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
+
 # Koii Task Creation Hackathon<a id="Koii Task Creation Hackathon"></a>
 
 **Koii Task Creation Hackathon**
@@ -13,17 +24,6 @@ Welcome to the Koii Hackathon, an ongoing event that invites developers, innovat
 
 You're invited to a special edition of our Town Hall event on Thursday, March 24th, where we'll be focusing on the exciting Task Creation Hackathon and providing you with the support you need to participate and win big! Learn more about the $10,000 USD prize pool up for grabs in the hackathon!
 
-[BUTTON]
-<a
-  href="https://lu.ma/event/evt-uWMgyGbfnau6COS"
-  class="luma-checkout--button"
-  data-luma-action="checkout"
-  data-luma-event-id="evt-uWMgyGbfnau6COS"
->
-  Register for Event
-</a>
-
-<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
 
 **The Magic of Koii Tasks**
 
@@ -156,18 +156,6 @@ Why attend this Town Hall?
     - Get your hackathon questions answered by our knowledgeable team and mentors
     - Learn how to create and deploy tasks on the Koii network, even if you're new to the process
     - Discover how you can participate in the hackathon and compete for a share of the $10,000 USD prize pool
-
-[EMBED EVENT PAGE]
-<iframe
-  src="https://lu.ma/embed-checkout/evt-uWMgyGbfnau6COS"
-  width="600"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
 
 Don't miss out on this incredible opportunity to learn, grow, and potentially win big in the Koii Hackathon. Join us at the Town Hall on Thursday, March 24th, and let's shape the future of decentralized technology together!
 
