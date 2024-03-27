@@ -2,7 +2,7 @@
 layout: post
 title: "Koii Task Creation Hackathon"
 categories: [Announcement]
-image: assets/images/k2-ddos-defense.webp
+image: assests/images/hackaton.png
 ---
 
 # Koii Task Creation Hackathon<a id="Koii Task Creation Hackathon"></a>
