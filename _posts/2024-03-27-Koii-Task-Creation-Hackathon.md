@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Exploring Koii Task Creation"
-subtitle: "
-Welcome to the Koii Hackathon, an ongoing event that invites developers, innovators, and visionaries to explore the limitless possibilities of decentralized technology. Koii Network has developed a high-performance DePIN blockchain known as K2 which is currently in testnet. The anticipated token generation event and mainnet launch is scheduled for Q2. This hackathon is your chance to dive into the world of Koii tasks and contribute to the growth of the Koii ecosystem before we take the world by storm.
-"
+subtitle: ""
 categories: [Announcement]
 image: assets/images/hackaton.png
 ---
+
+Welcome to the Koii Hackathon, an ongoing event that invites developers, innovators, and visionaries to explore the limitless possibilities of decentralized technology. Koii Network has developed a high-performance DePIN blockchain known as K2 which is currently in testnet. The anticipated token generation event and mainnet launch is scheduled for Q2. This hackathon is your chance to dive into the world of Koii tasks and contribute to the growth of the Koii ecosystem before we take the world by storm.
 
 You're invited to a special edition of our Town Hall event on Thursday, March 24th, where we'll be focusing on the exciting Task Creation Hackathon and providing you with the support you need to participate and win big! Learn more about the $10,000 USD prize pool up for grabs in the hackathon!
 
@@ -58,26 +58,32 @@ _Here are a few ideas to spark your imagination:_
 4. **Advertising Network**\
    Develop a decentralized advertising network that leverages Koii's capabilities to deliver targeted and relevant ads to users. Koii tasks can gather data on user preferences, browsing behavior, and other information, allowing advertisers to create highly personalized ad campaigns. 
 
-5. **Decentralized Scavenger Hunt**Build a decentralized scavenger hunt game that challenges players to solve clues and find hidden treasures within a virtual world. Koii tasks can be used to generate clues, verify solutions, and distribute rewards to players who successfully complete the hunt. 
+5. **Decentralized Scavenger Hunt**  
+Build a decentralized scavenger hunt game that challenges players to solve clues and find hidden treasures within a virtual world. Koii tasks can be used to generate clues, verify solutions, and distribute rewards to players who successfully complete the hunt. 
 
-6. **Real-time Market Intelligence Platform**Build a real-time market intelligence tool that utilizes Koii tasks to collect and analyze data from various sources, such as news articles, social media posts, and financial reports. 
+6. **Real-time Market Intelligence Platform**  
+Build a real-time market intelligence tool that utilizes Koii tasks to collect and analyze data from various sources, such as news articles, social media posts, and financial reports. 
 
-7. **Reputation System**Create a decentralized reputation system that uses Koii tasks to collect and verify user data across different platforms and services. 
+7. **Reputation System**  
+Create a decentralized reputation system that uses Koii tasks to collect and verify user data across different platforms and services. 
 
-8. **Peer-to-Peer Tutoring Platform** \
+8. **Peer-to-Peer Tutoring Platform**  
    Create a decentralized peer-to-peer tutoring platform that connects students with knowledgeable tutors from around the world. Koii tasks can be used to match students with tutors based on their subject preferences, skill levels, and availability.
 
-9. **Art Contest** \
+9. **Art Contest**  
    Develop a decentralized art contest platform that allows artists to showcase their work and compete for attention & rewards. Koii tasks can be used to set up the rules of the contest, accept submissions, and allow the community to vote on their favorite pieces. 
 
-10. **Identity Verification**Develop a decentralized identity verification solution that leverages Koii tasks to collect and validate data from various sources. By fetching data from government databases, social media profiles, and other identity providers, the solution can create a secure and tamper-proof digital identity for users. 
+10. **Identity Verification**  
+Develop a decentralized identity verification solution that leverages Koii tasks to collect and validate data from various sources. By fetching data from government databases, social media profiles, and other identity providers, the solution can create a secure and tamper-proof digital identity for users. 
 
-11. **Copyright Protection**Build a decentralized copyright protection system that utilizes Koii tasks to monitor and detect copyright infringement across the internet. By collecting data from various websites, social media platforms, and content-sharing networks, the system can identify and flag instances of unauthorized use of copyrighted material. 
+11. **Copyright Protection**  
+Build a decentralized copyright protection system that utilizes Koii tasks to monitor and detect copyright infringement across the internet. By collecting data from various websites, social media platforms, and content-sharing networks, the system can identify and flag instances of unauthorized use of copyrighted material. 
 
-12. **Fact-Checking Tool** \
+12. **Fact-Checking Tool**  
     Build a decentralized fact-checking tool that leverages Koii tasks to verify the accuracy of news articles, social media posts, and other online content. The tasks can cross-reference information from multiple reliable sources, analyze the credibility of the authors & provide users with a trust score for each piece of content. 
 
-13. **Social Impact Measurement**Create a decentralized platform that measures the social impact of various initiatives, projects, and organizations using Koii tasks. By collecting data on key performance indicators, such as engagement, reach, and user feedback, the platform can provide a transparent and verifiable way to assess the effectiveness of social impact efforts.
+13. **Social Impact Measurement**  
+Create a decentralized platform that measures the social impact of various initiatives, projects, and organizations using Koii tasks. By collecting data on key performance indicators, such as engagement, reach, and user feedback, the platform can provide a transparent and verifiable way to assess the effectiveness of social impact efforts.
 
 14. **Thrift Scanner** \
     Create a decentralized thrift scanner that utilizes Koii tasks to comb through various online marketplaces and e-commerce platforms to find the best deals on specific products. The tasks can collect real-time pricing data, compare prices across different sellers, and alert users when a bargain is found.
@@ -316,39 +322,20 @@ As the Koii ecosystem continues to evolve and the mainnet launch approaches, you
 
 So, gather your ingredients, unleash your creativity, and get ready to build something extraordinary. The Koii Hackathon is your chance to leave a lasting impact on the world of decentralized technology.
 
-
-# Koii Town Hall: Your Gateway to Hackathon Success
-
-Oon Thursday, March 24th we'll be focusing on the exciting Task Creation Hackathon and providing you with the support you need to participate and win big! Learn more about the $10,000 USD prize pool up for grabs in the hackathon!
-
-What to expect:
-
-- **Ecosystem Updates:** News and developments from the Koii team and community
-
-- **Task Creation Hackathon Q\&A:** A dedicated session for hackathon participants to ask questions and get expert guidance
-
-- **Task Creation Guide Walkthrough:** We'll take interested community members through the step-by-step process of creating and deploying tasks
-
-Why attend this Town Hall?
-
-- Gain valuable insights into the Koii ecosystem and stay informed about the latest updates
-
-- Connect and become part of the vibrant Koii community
-
-- Get your hackathon questions answered by our knowledgeable team and mentors
-
-- Learn how to create and deploy tasks on the Koii network, even if you're new to the process
-
-- Discover how you can participate in the hackathon and compete for a share of the $10,000 USD prize pool
-
-
 Don't miss out on this incredible opportunity to learn, grow, and potentially win big in the Koii Hackathon. Join us at the Town Hall on Thursday, March 24th, and let's shape the future of decentralized technology together!
 
 Happy hacking, and may your Koii tasks revolutionize industries and change lives!
 
-Don't miss out on this incredible opportunity to learn, grow, and potentially win big in the Koii Hackathon. Join us at the Town Hall on Thursday, March 24th, and let's shape the future of decentralized technology together!
-
-Happy hacking, and may your Koii tasks revolutionize industries and change lives!
+<iframe
+  src="https://lu.ma/embed-checkout/evt-uWMgyGbfnau6COS"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
 
 <!-- 
 ![](https://lh7-us.googleusercontent.com/bBKzXvq237yspZ4bZFBrXtnfI3-5ji8CCOXozo4ZhoGslfMys44TBXjGj96-X90dk2fb8nc2wetj4xKjcTaLg3Z2wmpmWIAIzp_o22So_4gLdiA1vAB-NWDek9pdywA-nwJmQ0nB3l80pMtlZ0WTnnE)
