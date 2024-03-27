@@ -168,6 +168,9 @@ As the Koii ecosystem continues to evolve and the mainnet launch approaches, you
 So, gather your ingredients, unleash your creativity, and get ready to build something extraordinary. The Koii Hackathon is your chance to leave a lasting impact on the world of decentralized technology.
 
 
+Don't miss out on this incredible opportunity to learn, grow, and potentially win big in the Koii Hackathon. Join us at the Town Hall on Thursday, March 24th, and let's shape the future of decentralized technology together!
+
+Happy hacking, and may your Koii tasks revolutionize industries and change lives!
 
 <iframe
   src="https://lu.ma/embed-checkout/evt-uWMgyGbfnau6COS"
