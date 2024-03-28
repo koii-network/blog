@@ -37,7 +37,7 @@ _Here are several examples of projects which are already harnessing the power of
 
 2. **Adot:** Adot is a decentralized search engine that ensures privacy, transparency, and unbiased results. With Koii tasks and the access to high-quality data, Adot's search algorithms run on a distributed network, delivering more relevant and comprehensive search results.
 
-3. **MOTI:** MOTI is a cutting-edge social platform that utilizes Koii's DePIN (Decentralized Personal Identification Number) technology for seamless social interactions and credential verification. By leveraging Koii tasks and the ability to collect granular data, MOTI ensures the authenticity of user identities, fostering a trustworthy and secure social ecosystem.
+3. **MOTI:** MOTI is a cutting-edge social platform that utilizes Koii's DePIN (Decentralized Physical Infrastructure Network) technology for seamless social interactions and credential verification. By leveraging Koii tasks and the ability to collect granular data, MOTI ensures the authenticity of user identities, fostering a trustworthy and secure social ecosystem.
 
 
 # Imagining Future Possibilities
