@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Announcing Koii Oean"
+title: "Announcing Koii Ocean"
 categories: [Announcement]
-image: assets/images/hackaton.png
+image: assets/images/ocean.png
 ---
 
 # Koii Ocean
