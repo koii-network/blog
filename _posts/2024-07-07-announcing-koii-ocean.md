@@ -4,9 +4,9 @@ title: "Announcing Koii Ocean"
 categories: [Announcement]
 image: assets/images/ocean.png
 ---
+<a href="https://www.koii.network/ocean" style="display: inline-block; padding: 10px 20px; font-size: 20px; font-weight: bold; color: white; background-color: #007BFF; text-align: center; text-decoration: none; border-radius: 5px;">Join the Waitlist</a>
 
 # Koii Ocean
-
 We are thrilled to introduce the Ocean platform, a revolutionary new way for projects in the Koii ecosystem to crowdfund tokens from our growing community which now boasts over 85,000 nodes.
 
 As our community has expanded, it has become clear that selling a large portion of tokens for each new project to VCs is not only infeasible but also creates long-term problems for both the projects and the ecosystem. To address this issue, Koii node operators can now invest directly in new projects through the Ocean protocol.
