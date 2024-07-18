@@ -27,7 +27,7 @@ To leverage cheaper and more secure compute, any developer can write a simple ta
 
 <div class="text-center font-italic">Want to see how fast K2 is?</div>
 
-Check out the <a href="https://faucet.koii.network/" target="_blank">faucet</a> and get some KOII with your <a href="https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj" target="_blank">Finnie wallet</a>. Join our <a href="https://discord.gg/koii" target="_blank">Discord</a>, and you might even get some extra free tokens in the process. 
+Check out the <a href="https://faucet.koii.network/" target="_blank">faucet</a> and get some KOII with your <a href="https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj" target="_blank">Finnie wallet</a>. Join our <a href="https://discord.gg/koii-network" target="_blank">Discord</a>, and you might even get some extra free tokens in the process. 
 
 
 
@@ -129,3 +129,5 @@ Running a K2 node entitles the operator to a share of gas fees on the network, a
     transition: all 0.2s linear 0s;
 }
 </style>
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

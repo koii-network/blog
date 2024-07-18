@@ -92,7 +92,7 @@ Bonus: You can add attention tracking and receive KOII when people visit your po
 
 Creating a dApp really is that simple. Go forth and raise money to fund your project! We will be adding templates for different types of applications, so keep an eye out.
 
-If you have any questions, jump into the [Discord](https://discord.gg/koii){:target="\_blank"} and we’ll help you out! And let us know what features and templates you want to see next.
+If you have any questions, jump into the [Discord](https://discord.gg/koii-network){:target="\_blank"} and we’ll help you out! And let us know what features and templates you want to see next.
 
 [Check us out](http://koii.me/u/koii){:target="\_blank"} and follow our socials to keep up to date with the latest developments
 

@@ -23,6 +23,6 @@ Koii's vision of an open, verifiable, and permanent information system has inspi
 
 We must now establish awareness around Koii’s foundational principles for the good of our community. We aim to cultivate a community where members maintain a sense of these principles over time. As a result of this understanding, individuals are empowered to move Koii forward in new and bold ways.
 
-To accomplish this, we will release lightweight educational materials here on our website and on our community [Discord](https://discord.gg/koii) chat. This information will also be circulated on other platforms when relevant.
+To accomplish this, we will release lightweight educational materials here on our website and on our community [Discord](https://discord.gg/koii-network) chat. This information will also be circulated on other platforms when relevant.
 
 Awareness of our principles is the foundation from which our community grows. We look forward to building on these principles and seeing some truly great innovations emerge. _Onward._

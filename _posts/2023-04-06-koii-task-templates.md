@@ -102,3 +102,6 @@ We’ve already seen a number of developers using the template, and it is quickl
     transition: all 0.2s linear 0s;
 }
 </style>
+
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

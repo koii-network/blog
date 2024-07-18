@@ -3,11 +3,21 @@ layout: post
 title: "Koii Town Hall 2024: Unveiling the Future of Decentralization and Community-Driven Innovation"
 subtitle: ""
 categories: [Announcement]
-image: assets/images/blog/KOII-TH-2024.png
+image: assets/images/blog/KOII-TH-2024.PNG
 ---
 
 
-Join us for the inaugural Koii Town Hall on January 11, 2024. Don't miss this pivotal event in the world of decentralized technology. Register at https://lu.ma/iyqpzbls.
+Join us for the inaugural Koii Town Hall on January 11, 2024. Don't miss this pivotal event in the world of decentralized technology.
+<iframe
+  src="https://lu.ma/embed-checkout/evt-Vg8fmnR5uWBZgpd"
+  width="100%"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
 
 # Upcoming Koii Town Hall: A Pivotal Event for the Koii Community
 
@@ -39,6 +49,18 @@ The upcoming Koii Town Hall is more than just an event; it's a celebration of co
 
 Remember to RSVP if you're interested in joining the wider discussion or pitching your ecosystem project. We look forward to seeing you there and embarking on this exciting journey together!
 
-Join us for this groundbreaking event by registering [**HERE**](https://lu.ma/iyqpzbls){:target="\_blank"}
+Join us for this groundbreaking event by registering [**HERE**](https://lu.ma/iyqpzbls){:target="\_blank"}.
 
+<p style="text-align: center">
+<a
+  href="https://lu.ma/event/evt-Vg8fmnR5uWBZgpd"
+  class="luma-checkout--button"
+  data-luma-action="checkout"
+  data-luma-event-id="evt-Vg8fmnR5uWBZgpd">
+  Register for Event
+</a>
+</p>
 
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

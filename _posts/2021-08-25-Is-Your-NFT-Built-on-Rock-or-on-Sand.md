@@ -69,4 +69,4 @@ If you want some hands-on experience minting an Atomic NFT, the best way to get 
 
 Once you have Finnie installed, try minting your first Atomic NFT on rock instead of sand over at [koi.rocks](https://koi.rocks/){:target="\_blank"}.
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.com/invite/SDwgnjxNEn){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koii-network){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}

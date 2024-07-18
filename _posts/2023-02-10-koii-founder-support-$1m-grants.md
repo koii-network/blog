@@ -69,3 +69,5 @@ Pitch competitions throughout the program will give you a chance to explain your
 If you are ready to take your project to the next level, we’d love to meet you. Join us in the fight against Big Tech and we'll help you bring your passion project to life. [Fill out the form here](https://koii.network/founders){:target="\_blank"} and we’ll reach out so you can set sail with us!
 
 Welcome Aboard.
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

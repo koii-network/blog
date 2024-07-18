@@ -6,7 +6,7 @@ categories: [Announcement]
 image: assets/images/blog/deploy-task.png
 ---
 
-Koii Tasks allow communities around the world to pool computing resources towards common goals. Anyone with a basic understanding of JavaScript [can easily start hacking](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task){:target="\_blank"}, and we're here to help on our [discord](https://discord.gg/koii){:target="\_blank"} if you have questions.
+Koii Tasks allow communities around the world to pool computing resources towards common goals. Anyone with a basic understanding of JavaScript [can easily start hacking](https://docs.koii.network/microservices-and-tasks/quote-of-the-day-example-task){:target="\_blank"}, and we're here to help on our [discord](https://discord.gg/koii-network){:target="\_blank"} if you have questions.
 
 If you want to try the process out, the [create-task-cli](https://www.npmjs.com/package/@_koii/create-task-cli){:target="\_blank"} tool is a great place to start. This article will demonstrate how to use this tool. If you haven't already written a task, you can also try deploying the [sample task](https://github.com/koii-network/task-template){:target="\_blank"} to get started.
 
@@ -118,4 +118,6 @@ Success
 
 That's it! Your Koii task has been deployed on K2 and is now visible to node operators.
 
-Check out the Koii [docs portal](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/){:target="\_blank"} for more documentation, and please contact us at [Discord](https://discord.gg/koii){:target="\_blank"} if you have any questions.
+Check out the Koii [docs portal](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/){:target="\_blank"} for more documentation, and please contact us at [Discord](https://discord.gg/koii-network){:target="\_blank"} if you have any questions.
+
+*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
