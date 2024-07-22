@@ -3,7 +3,7 @@ name: "Koii"
 description: Koii keep track of what's on the web. Try today.
 logo: "./assets/images/goldfish.svg"
 favicon: "favicon.svg"
-url: "https://homepage-d7ay2nqoz-koif.vercel.app"
+url: "https://www.koii.network"
 baseurl: "/blog"
 disqus: "disqus_BSQKXyVFLL"
 email: "services@koii.network"
