@@ -1,10 +1,10 @@
 # Site
 name: "Koii"
 description: Koii keep track of what's on the web. Try today.
-logo: "assets/images/goldfish.svg"
+logo: "./assets/images/goldfish.svg"
 favicon: "favicon.svg"
-url: "https://blog.koii.network"
-baseurl: ""
+url: "https://homepage-d7ay2nqoz-koif.vercel.app"
+baseurl: "/blog"
 disqus: "disqus_BSQKXyVFLL"
 email: "services@koii.network"
 mailchimp-list: "http://eepurl.com/he-SCz"
@@ -15,7 +15,7 @@ permalink: /:title/
 # SEO
 twitter:
   username: KoiiNetwork
-  image: "https://blog.koii.network/assets/images/WELCOMEFINNIE_TWITTTERBLOG.png"
+  image: "./assets/images/WELCOMEFINNIE_TWITTTERBLOG.png"
 
 # Plugins
 plugins:
@@ -28,7 +28,7 @@ authors:
   sal:
     name: Sal
     site: https://www.wowthemes.net
-    avatar: /assets/images/avatar1.jpg
+    avatar: ./assets/images/avatar1.jpg
     bio: "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
     email: wowthemesnet@gmail.com
     twitter: https://twitter.com/wowthemesnet
@@ -36,7 +36,7 @@ authors:
   jane:
     name: Jane
     site: https://www.wowthemes.net
-    avatar: /assets/images/avatar2.jpg
+    avatar: ./assets/images/avatar2.jpg
     bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
     email: fakemail@gmail.com
     twitter: https://twitter.com/wowthemesnet

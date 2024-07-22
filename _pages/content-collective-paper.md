@@ -110,7 +110,7 @@ Small group events or celebrations for commemorating, organizing, or voting with
 
 Content Collectives have the potential to reform the way we view media as part of society. By creating open and transparent structures of ownership and enabling anyone to join, we will provide a framework for an internet of people and ideas rather than advertising and propaganda.
 
-![Figure 1: Initial decision-making flow for Content Collectives.](/assets/images/paper)
+![Figure 1: Initial decision-making flow for Content Collectives.](assets/images/paper)
 
 We propose five key parameters that a Content Collective needs to define:
 
@@ -176,7 +176,7 @@ _Storage fees vary widely based on token price and network traffic._
 
 In cases where users shouldn’t be charged up front, we can allow their files to be stored temporarily on their devices and other nodes via IPFS before being archived more permanently.
 
-![Figure 2: Graph depicting different storage solutions approximate cost versus time stored. *Filecoin has several options which include higher costs for more time stored.](/assets/images/paper)
+![Figure 2: Graph depicting different storage solutions approximate cost versus time stored. *Filecoin has several options which include higher costs for more time stored.](assets/images/paper)
 
 <h4 id="unique-content-id">Generating Unique Content IDs</h4>
 
@@ -204,9 +204,9 @@ Members of a Collective may contribute in order to earn a larger stake in the or
 
 Contribution value can be calculated as the total of revenue being added to the Collective from the content submitted. In a rudimentary implementation, this includes Attention Rewards, advertising revenue (if applicable) and appraised price of the asset at sale, along with any other revenue streams which may be more specific to the particular application or use case (e.g. royalties or physical items).
 
-![ Figure 5: Creators contribute work to the Collective and receive receipts in return.](/assets/images/paper)
+![ Figure 5: Creators contribute work to the Collective and receive receipts in return.](assets/images/paper)
 
-![Figure 6: Once the Collective earns value from different revenue streams, it rewards the creators based on their contributed value.](/assets/images/paper)
+![Figure 6: Once the Collective earns value from different revenue streams, it rewards the creators based on their contributed value.](assets/images/paper)
 
 There are some other ways to reward value contributed to the Collective. Below are a couple examples of rewards mechanisms from existing DAOs, shared here as initial possibilities and food for thought.
 

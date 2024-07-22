@@ -13,7 +13,7 @@ Koii has solved most of these problems. Koii NFTs can be minted and transacted w
 
 _For artists, the simpler it is for people to mint NFTs, the higher the risk of someone minting work that doesn’t belong to them._
 
-![image 2](/assets/images/blog/a-balancing-act-img2.png)
+![image 2](assets/images/blog/a-balancing-act-img2.png)
 
 The answers we’ve discussed so far are a combination of reputation and opt-in blacklist systems. Essentially, we would have a reporting tool for intellectual property (“IP”) infringement, prompting a member of our team to assess the piece, measuring the registration date on Arweave against the claim of the reporter. If the reporter has a verifiable claim that pre-dates the minting, then the onus shifts to the original poster to prove they didn’t infringe. The wallet holder of the infringing piece gets a reputation penalty, and the piece itself gets added to a blacklist of potentially infringing works.
 

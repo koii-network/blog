@@ -7,7 +7,7 @@ image: assets/images/blog/netizans-2.jpg
 
 For the first time in history, it might be profitable to spend time arguing with people on the internet. KOII tokens will be available soon, and you can earn them by participating in our truth-finding game. (More on that below)
 
-<img src="/assets/images/blog/argument_victory.png" class="" title="Get paid to play, with koi!" alt="Get paid to play, with koi!">
+<img src="./assets/images/blog/argument_victory.png" class="" title="Get paid to play, with koi!" alt="Get paid to play, with koi!">
 
 # Koii is Growing
 
@@ -17,7 +17,7 @@ This week, our mailing list saw the most new signups ever, and we've been hearin
 
 Soon you'll be able to earn KOII tokens on your computer and mobile phone. Run the app to help us map the internet, and you'll earn KOII tokens that you can use to vouch for sites or content that you believe in. Our desktop app is in development right now, and will be launching in January 2021.
 
-<img title="Actually- it is!" alt="Actually- it is!" src="/assets/images/blog/netizans.jpg">
+<img title="Actually- it is!" alt="Actually- it is!" src="./assets/images/blog/netizans.jpg">
 
 # The Koii Game
 

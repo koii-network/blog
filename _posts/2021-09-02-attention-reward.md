@@ -21,7 +21,7 @@ Under the current model, the attention economy is fuelled by advertising. In a r
 
 Attention rewards are generated using a system Koii has developed called Proofs of Real Traffic. Currently, you can see our proof of concept up and running at [koi.rocks](https://koi.rocks/contents){:target="\_blank"}. The Proofs of Real Traffic system is designed to register the attention a digital asset receives regardless of where it is located on the internet. For example, you would be able to take your Koii registered NFT and move it over to Opensea. The attention you receive from people liking and checking out your NFT would then generate Koii tokens that will be sent to your wallet address. That means that whether or not you make a sale on Opensea you are rewarded for the attention your NFT receives. Every 24 hours, newly minted Koii tokens are generated based on the attention registered content receives. Tokens are distributed to the content creators and network nodes working to filter out spam and potentially falsified traffic logs. Applications running on the network also work to earn tokens from content creators, creating a positive feedback loop that rewards and incentivizes content creation.
 
-![image](/assets/images/blog/Blog-Restarting the Economic Engine.png)
+![image](assets/images/blog/Blog-Restarting the Economic Engine.png)
 
 ### What this means for content creators
 

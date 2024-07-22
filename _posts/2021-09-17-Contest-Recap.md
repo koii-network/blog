@@ -97,7 +97,7 @@ Have you ever thought about how Koii would look like in real life? Let's look in
             <iframe width="100%" height="400px;" src="https://koi.rocks/embed/T4sjutXbQmNVYCmhlNJubPsiYBOluTIL93pvtmJp_4k" title="Koii  NFT image" frameborder="0" allowfullscreen></iframe>
            SOLZOLXOL<br>
             Koii Artist : <a href="https://koi.rocks/artist/vHcBsNS1h-v9VQe0PH-uQOSPF5xc99fgr7wvuIFXy4o">juan camargo lopez</a> Twitter: <a href="https://twitter.com/jcamargolopez">@jcamargolopez </a>
-            <br>From a series of suns inspired by the Tairona culture. Digital image. 2003 
+            <br>From a series of suns inspired by the Tairona culture. Digital image. 2003
             <hr>
         </div>
         <div class="col-6">
@@ -140,7 +140,7 @@ Have you ever thought about how Koii would look like in real life? Let's look in
             <hr>
         </div>
         <!-- <div class="col-6">
-            <img  width="100%" height="400px;" src="/assets/images/recap/recap1.png">
+            <img  width="100%" height="400px;" src="./assets/images/recap/recap1.png">
           KOII 3
 <br>
             Koii Artist : <a href="https://koi.rocks/artist/H2gzj3tkN9XTs-cMxBO37Uk5TiVzt25gYenPSMM6MDg">bart5610 </a> Twitter: <a href="https://twitter.com/bart5610">@bart5610 </a>

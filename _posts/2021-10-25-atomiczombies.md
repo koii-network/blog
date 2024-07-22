@@ -15,7 +15,7 @@ Atomic Zombies is launched in collaboration with Koii, and is the first large-sc
 
 So what are you waiting for? [Join the horde](http://atomiczombies.io){:target="\_blank"}.
 
-![zombieimage](/assets/images/blog/Slow_Demo_video.gif)
+![zombieimage](assets/images/blog/Slow_Demo_video.gif)
 
 ## Drop Details
 
@@ -34,7 +34,7 @@ Each day, the Zombie that has received the most attention is rewarded with the u
 
 The attention-dependent generative properties of an Atomic Zombie are only possible on Koii. This means that buyers who obtain an Atomic Zombie on OpenSea are effectively purchasing a “voucher” that can be redeemed for a Zombie NFT once it is transferred to the Koii network. As a result, in order to bring your Atomic Zombie to life you’ll need the [Finnie wallet](https://blog.koii.network/Simplified-Finnie-Installation-Guide/){:target="\_blank"}, which serves as your gateway to Koii and Arweave. In addition to letting you unearth your Atomic Zombie in full, Finnie allows you to receive your KOII rewards as your zombie feasts on its viewers, and is an essential component of the Koii universe and creative economy of the future.
 
-![zombieimage](/assets/images/blog/zombies.png)
+![zombieimage](assets/images/blog/zombies.png)
 
 ## Zombie Characteristics
 

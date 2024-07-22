@@ -15,7 +15,7 @@ This past year has shown us that whether it's moving ourselves or our goods from
 
 In the past few years, much of the crypto industry has focused on developing various L1 blockchain ecosystems, resulting in marked differences in the strengths and utility from one chain to the next. Solana’s transaction speed and Arweave’s permanent data storage are two examples that come to mind. While this growth is exciting, it can also be frustrating when you want to use an application or service that can access multiple blockchains. It’s like when you travel internationally and forget your universal power adapter. Without it, your favorite electronics are just taking up space in your suitcase.
 
-![Connecting the Dots Across Blockchains With Koii DIDs](/assets/images/blog/koii-port.png)
+![Connecting the Dots Across Blockchains With Koii DIDs](assets/images/blog/koii-port.png)
 
 Today’s users often feel the same way when interacting with blockchain technology. For global adoption, this needs to change. As dApps and blockchains become more specialized, users naturally want to take the things they love from one ecosystem and use them to interact with another without worrying if they have the right adapter or if the right adapter even exists. The goal with the Koii DID is to provide users with an **always-ready universal blockchain adapter, powering** a decentralized web3 experience that rivals centralized web2. The process to build our “adapter” starts with a DID framework that can manage users’ assets and identities across networks and blockchains.
 
@@ -33,7 +33,7 @@ The Koii DID aims to simplify this process by functioning as a kind of universal
 
 We’re about to get a little technical, but it’s important. User-controlled key management and decentralization are essential elements that ensure security and prevent the DID from being removed or taken down by a third party. By default, DID users maintain control over how their identifiers and assets are used across blockchains and the web. This stands in stark contrast to the current Web2 authentication systems from Facebook, Google, and Apple, which directly track user activities, compromising privacy and leaving users vulnerable to personal data breaches. As an additional security layer, the Koii DID functions as a self-sovereign recovery system when stored safely across multiple devices, providing peace of mind if a device stops working or goes missing.
 
-![Connecting the Dots Across Blockchains With Koii DIDs](/assets/images/blog/koii-safety.png)
+![Connecting the Dots Across Blockchains With Koii DIDs](assets/images/blog/koii-safety.png)
 
 Koii will soon be publishing a technical paper revealing a more in-depth look at the inner workings of the DID framework. But, for now, let’s take a minute and highlight the impact the Koii DID will have on the Koii Network users.
 
@@ -55,7 +55,7 @@ DIDs are an essential step to strengthening online autonomy and digital connecti
 
 Without solutions like DIDs to facilitate cross-chain interactions and make the lives of everyday people easier on the decentralized internet, there will never be mass adoption of web3. At Koii, this is simply not acceptable. The decentralized web is too important to the freedom of information and the future of digital ownership to just give up and submit to the overlords of big tech.
 
-![Connecting the Dots Across Blockchains With Koii DIDs](/assets/images/blog/koii-help.jpeg)
+![Connecting the Dots Across Blockchains With Koii DIDs](assets/images/blog/koii-help.jpeg)
 
 When everyday people embrace technologies like DIDs, it reminds all of us that the internet was meant to be free.
 

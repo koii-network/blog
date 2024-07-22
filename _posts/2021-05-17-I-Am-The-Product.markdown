@@ -15,7 +15,7 @@ Like me, a lot of people still have this mindset. When we go on our phones and s
 
 What you do online is an extension of yourself, so what you search, like, post, and share is essentially a meta version of you. Big tech companies (like Facebook) are centralized and their network runs on company servers, meaning that all your information is stored in one place and only they have the key.
 
-![I am a product - Koii blog](/assets/images/blog/I-am-the-product-image2.jpeg)
+![I am a product - Koii blog](assets/images/blog/I-am-the-product-image2.jpeg)
 
 What does this mean? It means that all your data is being collected, your habits are being studied, and a single entity essentially knows your every move. In a time when knowledge is power, this type of control is more relevant than ever.
 

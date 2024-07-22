@@ -17,21 +17,21 @@ Now that you have AR and KOII, let’s get started! To register your NFTs on the
 
 Click on the turquoise banner where it says, "Drag, Drop, Earn.” From here you’ll be able to import NFTs from OpenSea, or manually upload an image to create a new NFT stored exclusively on Arweave.
 
-![Opensea blog tutorial](/assets/images/blog/OpenSeablog-image1.PNG)
+![Opensea blog tutorial](assets/images/blog/OpenSeablog-image1.PNG)
 
 Now you will be prompted to connect the Metamask wallet that is associated with your OpenSea account. Connecting your Metamask wallet is the best way to find and import your NFTs from OpenSea. After you connect your wallet, your NFTs will appear. (Check out Kayla’s adorable pet rats, Astrid and Ophelia.)
 
-![Opensea blog tutorial](/assets/images/blog/Openseablog-step3.png)
+![Opensea blog tutorial](assets/images/blog/Openseablog-step3.png)
 
 Next Click "import from an OpenSea portfolio"
 
 The easiest import option is to click “Select all NFTs,” but you can select them individually too by clicking on each image.
 
-![Opensea blog tutorial](/assets/images/blog/Opensea-image4.png)![Opensea blog tutorial](/assets/images/blog/Openseaimage5.png)
+![Opensea blog tutorial](assets/images/blog/Opensea-image4.png)![Opensea blog tutorial](assets/images/blog/Openseaimage5.png)
 
 Now you need to confirm the details that we pulled from OpenSea. For this one, it did not pull the “Owner” because Kayla doesn’t have a name on her OpenSea account so she entered her Koii username. You can change the title or the description here as well.
 
-![Opensea blog tutorial](/assets/images/blog/Openseaimage6.png)
+![Opensea blog tutorial](assets/images/blog/Openseaimage6.png)
 
 The same process will repeat for each NFT you are uploading. Sometimes the description or another field won’t transfer from OpenSea so double check that it looks right before you click “Confirm.”
 
@@ -39,15 +39,15 @@ After all the NFT details have been confirmed, a final confirmation message will
 
 Click “Confirm & Upload” when you’re ready.
 
-![Opensea blog tutorial](/assets/images/blog/Openseaimage7.png)
+![Opensea blog tutorial](assets/images/blog/Openseaimage7.png)
 
 Don’t navigate away from the page while we are uploading your NFTs, as this can interfere with the contract communication. It can take up to a few minutes, depending on how many NFTs you are importing, but often it's much quicker. The screen will look like this:
 
-![Opensea blog tutorial](/assets/images/blog/Openseaimage8.png)
+![Opensea blog tutorial](assets/images/blog/Openseaimage8.png)
 
 Once the first step of the import process is complete, this page will appear:
 
-![Opensea blog tutorial](/assets/images/blog/Openseaimage9.png)
+![Opensea blog tutorial](assets/images/blog/Openseaimage9.png)
 
 As soon as you see this, you are free to roam around [koi.rocks](https://koi.rocks/contents){:target="\_blank"}. Right now, we are still experimenting with the bundler nodes, so it may take a few minutes before you see your NFT in “My Content” or on the Leaderboard. Rest assured, they will appear soon!
 

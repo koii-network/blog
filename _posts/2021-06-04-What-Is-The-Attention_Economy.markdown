@@ -15,7 +15,7 @@ Information is abundant, attention is scarce. We can get information on almost a
 
 [Online spending](https://www.paymentsdive.com/news/consumer-spending-changes-likely-to-stick-visa-says/601277/){:target="\_blank"} has increased substantially, and the current attention economy leads to incentives that sacrifice the user experience. Using attention-driven and attention grabbing apps today, you may see posts from people you don’t know, content you never subscribed for, or pop up ads for things you just bought (creepy!).
 
-![Koii attention economy blog](/assets/images/blog/Attention-economy-koi-blog.jpeg)
+![Koii attention economy blog](assets/images/blog/Attention-economy-koi-blog.jpeg)
 
 Suddenly, you don’t recognize or care about half the posts on your facebook feed. Everyone on instagram is peddling some scam trying to get your credit card details, rather than actually useful health advice. _Check out the ["I am the product"](https://blog.koii.network/I-Am-The-Product/){:target="\_blank"} blog post_. The problem isn’t just that users should be compensated for the value they create through their content and attention, but the incentive structure as a whole needs to change.
 

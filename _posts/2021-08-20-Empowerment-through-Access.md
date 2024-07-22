@@ -15,7 +15,7 @@ We shouldn’t have to rely on the powerful for access to truth or being found o
 
 I’ve spoken with artists and musicians who’ve had to take their work down because website hosting fees were much higher than the revenue the work on the site brought in. Making their work publicly available became a financial burden. We are dropping the fees and raising the revenue. With Koii, digital creators no longer need to pay annual or monthly fees for hosting. The only cost to publish is a one-time storage fee, fractions of a penny per megabyte (try it out yourself with [Finnie](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){:target="\_blank"}). Once the work has been posted, you receive attention rewards every time someone views your piece. Tell your mom to check it out every day and you’ll earn just from that.
 
-![image](/assets/images/blog/Body-Image-Empowerment-through-Access.png)
+![image](assets/images/blog/Body-Image-Empowerment-through-Access.png)
 
 This means that any creator with access to the internet, anywhere in the world, can put their work online and know that it will safely stay on the permaweb to gather rewards if it gains any traction. Artists are no longer dependent on elitist galleries to select their work before taking 50% commissions on sales. If you live in Nigeria, but you make great music that the German techno scene will love, you’re in luck because now you can get your beats in front of the right audience.
 

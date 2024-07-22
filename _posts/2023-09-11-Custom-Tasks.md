@@ -27,19 +27,19 @@ Using the custom task feature is simple. **Any task you run this way has not bee
 
 First, click on “Advanced” at the bottom of the “Add Tasks” page.
 
-![advanced_task](/assets/images/blog/customTasks/advanced_task.png)
+![advanced_task](assets/images/blog/customTasks/advanced_task.png)
 
 Next, enter the TaskID. You will get this from the trusted task creator. If the ID matches any task in the network, you will see the stake minimum and any necessary task settings pop up.
 
-![taskID](/assets/images/blog/customTasks/taskID.png)
+![taskID](assets/images/blog/customTasks/taskID.png)
 
 Now this task is just like any other task. Enter the amount you want to stake and pair any required settings.
 
-![stake_and_vairables](/assets/images/blog/customTasks/stake_and_variables.png)
+![stake_and_vairables](assets/images/blog/customTasks/stake_and_variables.png)
 
 After you set your stake and pair any settings, all that’s left to do is hit “run.” While a very simple feature to use, it’s a powerful tool for projects who are just getting started.
 
-![run](/assets/images/blog/customTasks/run.png)
+![run](assets/images/blog/customTasks/run.png)
 
 As a reminder, **make sure you trust the task creator** when running a custom task. These tasks have not yet been audited by the team.
 

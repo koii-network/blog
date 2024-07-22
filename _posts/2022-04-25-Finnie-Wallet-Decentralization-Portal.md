@@ -15,7 +15,7 @@ Other crypto wallets provide these services, so what makes Finnie stand out? Sim
 
 ## Who is Finnie For?
 
-_Everyone._ 
+_Everyone._
 
 Within minutes, someone who has never used or held crypto before can interact with a blockchain, hold crypto, mint an NFT and own a little piece of the decentralized web.
 
@@ -32,7 +32,7 @@ There is a similar excitement around blockchain and crypto-based technologies. H
 
 _We’re not totally sure._
 
-Let us rephrase that. We are not aware of _everything_ that can be done with this technology. 
+Let us rephrase that. We are not aware of _everything_ that can be done with this technology.
 
 Think of Finnie as a portal that allows anyone to interact with decentralized networks. It enables developers to envision building applications that can take advantage of multiple blockchains. Currently, Finnie allows you to hold and transfer cryptocurrencies/tokens, mint NFTs, NFT collections, manage cryptographic keys and maintain a decentralized personal profile or DID.
 
@@ -58,7 +58,7 @@ In recent months we have been working on several new partnerships that will brin
 
 You can expect this list to grow as Finnie’s abilities expand. Updates that enhance single sign-on and Content Collectives are also on the horizon.
 
-![Finnie Decentralization Portal](/assets/images/blog/Finnie-Wallet-graphics-especs.png)
+![Finnie Decentralization Portal](assets/images/blog/Finnie-Wallet-graphics-especs.png)
 
 ## Will You Step Through the Portal?
 

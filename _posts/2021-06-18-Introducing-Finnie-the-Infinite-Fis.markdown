@@ -38,7 +38,7 @@ At Koii, our primary values are:
 
 -Sustainability
 
-![koii is transparent](/assets/images/blog/Transparent.png)
+![koii is transparent](assets/images/blog/Transparent.png)
 
 **Transparency**
 
@@ -46,7 +46,7 @@ The giants who own most of the internet feed you the content that will sell the 
 
 We firmly believe that game-changing ideas can come from anywhere, and anyone can schedule a meeting with our leadership with ideas for improving the company, products, or ecosystem.
 
-![koii is accessible](/assets/images/blog/Accessible.png)
+![koii is accessible](assets/images/blog/Accessible.png)
 
 **Accessibility**
 
@@ -54,7 +54,7 @@ Accessibility is often used as a catch-all for “We care about people!!” Whil
 
 Additionally, we started the Koii Foundation to help people with great ideas build innovative new projects on Koii, regardless of access to other funding. [Apply for a Koii Grant here](https://docs.google.com/forms/d/e/1FAIpQLSeC9Qyc4lQrKSW6_92knIE_Ko7Kd_z5g1thT0FFD0qsD7HwVw/viewform).
 
-![koii is ownership](/assets/images/blog/ownership.png)
+![koii is ownership](assets/images/blog/ownership.png)
 
 **Proper Ownership**
 
@@ -64,7 +64,7 @@ Ownership is important for a number of reasons. The strongest one for us at Koii
 
 With Atomic NFTs (an NFT registered on Koii and permanently stored on Arweave), the media file is held within the contract data. This is the only way to establish true ownership over the content itself, which means creators can thrive in the new ecosystem.
 
-![koii is sustainable](/assets/images/blog/sustainable.png)
+![koii is sustainable](assets/images/blog/sustainable.png)
 
 **Sustainability**
 
