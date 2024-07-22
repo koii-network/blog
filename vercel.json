@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://homepage-new-git-test-blog-redirects-koif.vercel.app/blog/$1",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.koii.network"
+        }
+      ],
+      "permanent": true
+    }
+  ]
+}
