@@ -2,7 +2,8 @@
 name: "Koii"
 description: Koii keep track of what's on the web. Try today.
 logo: "./assets/images/goldfish.svg"
-favicon: "favicon.svg"
+favicon_ico: "/favicon.ico"
+favicon_png: "/favicon.png"
 url: "https://www.koii.network"
 baseurl: "/blog"
 disqus: "disqus_BSQKXyVFLL"
