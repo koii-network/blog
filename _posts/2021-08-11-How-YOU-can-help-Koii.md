@@ -49,7 +49,7 @@ Now you might be wondering, “What can I do to help the project? What can I do 
 
 - Create and share NFTs!
 
-  A super easy (and fun!) way to help grow the network is simply by creating and sharing NFTs on [koi.rocks](https://www.koii.network){:target="\_blank"} - once you register your NFT our social share option makes it super easy to share with your friends and followers (plus the more people you share it with, the more attention rewards you’ll earn!)
+  A super easy (and fun!) way to help grow the network is simply by creating and sharing NFTs on koi.rocks - once you register your NFT our social share option makes it super easy to share with your friends and followers (plus the more people you share it with, the more attention rewards you’ll earn!)
 
   [![image 7](/assets/images/blog/08-11/image7.png)](https://www.koii.network){:target="\_blank"}
 
