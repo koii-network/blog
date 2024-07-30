@@ -49,7 +49,7 @@ Right now you can try out the Koii Network by downloading and installing the Fin
 
 [![downloadfinnie](/assets/images/blog/PSDMarchNook79.png)](https://koii.network/getFinnie){:target="\_blank"}
 
-What other kinds of web3 alchemy are cooking at the Koii network? Stay up to date on the [Koii Blog](https://blog.koii.network/){:target="\_blank"}. For a one-on-one deep dive with Koii architect and founder Alex Morris check out his recent interview with NFP podcast host DKleine below.
+What other kinds of web3 alchemy are cooking at the Koii network? Stay up to date on the [Koii Blog](/){:target="\_blank"}. For a one-on-one deep dive with Koii architect and founder Alex Morris check out his recent interview with NFP podcast host DKleine below.
 
 <iframe src="https://anchor.fm/dkleine/embed/episodes/Alex-Morris-e15c62s/a-a43hf8s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

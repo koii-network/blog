@@ -23,7 +23,7 @@ Each of these projects can also **reward their communities by paying them to hos
 
 **Our developer ecosystem is growing fast because building tasks is easy.**
 
-That’s why we created a framework for developers to access global compute power, ensuring a smooth experience for task writers. It takes [less than five minutes](https://blog.koii.network/How-to-deploy-a-koii-task-in-less-than-5mins/){:target="\_blank"} to deploy a simple task and we’ve crafted a [task outline](https://www.figma.com/community/file/1220194939977550205){:target="\_blank"} to help you plan out each step for more complicated features. Our goal is to get your dApps up and running as fast as possible—you are changing the internet, and we’re making it easy for you.
+That’s why we created a framework for developers to access global compute power, ensuring a smooth experience for task writers. It takes [less than five minutes](/How-to-deploy-a-koii-task-in-less-than-5mins/){:target="\_blank"} to deploy a simple task and we’ve crafted a [task outline](https://www.figma.com/community/file/1220194939977550205){:target="\_blank"} to help you plan out each step for more complicated features. Our goal is to get your dApps up and running as fast as possible—you are changing the internet, and we’re making it easy for you.
 
 <div class="more" style="text-align: center;">
 <button class="button" onclick="window.open('https://www.npmjs.com/package/@_koii/create-task-cli')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Try the Task Template Today</button>

@@ -17,7 +17,7 @@ Information is abundant, attention is scarce. We can get information on almost a
 
 ![Koii attention economy blog](/assets/images/blog/Attention-economy-koi-blog.jpeg)
 
-Suddenly, you don’t recognize or care about half the posts on your facebook feed. Everyone on instagram is peddling some scam trying to get your credit card details, rather than actually useful health advice. _Check out the ["I am the product"](https://blog.koii.network/I-Am-The-Product/){:target="\_blank"} blog post_. The problem isn’t just that users should be compensated for the value they create through their content and attention, but the incentive structure as a whole needs to change.
+Suddenly, you don’t recognize or care about half the posts on your facebook feed. Everyone on instagram is peddling some scam trying to get your credit card details, rather than actually useful health advice. _Check out the ["I am the product"](/I-Am-The-Product/){:target="\_blank"} blog post_. The problem isn’t just that users should be compensated for the value they create through their content and attention, but the incentive structure as a whole needs to change.
 
 # “Ads and data tracking make using web products feel bad”
 
@@ -37,6 +37,6 @@ Pre-register today to run a [node](https://docs.google.com/forms/d/e/1FAIpQLSduD
 
 **Better media makes a better world; decentralization lets you own it.**
 
-To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents){:target="\_blank"} or check out our [tutorial](https://blog.koii.network/Simplified-Finnie-Installation-Guide/){:target="\_blank"} to learn how.
+To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents){:target="\_blank"} or check out our [tutorial](/Simplified-Finnie-Installation-Guide/){:target="\_blank"} to learn how.
 
 Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"}_, and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"}_.

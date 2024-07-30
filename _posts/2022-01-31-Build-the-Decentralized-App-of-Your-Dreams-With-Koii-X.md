@@ -13,12 +13,12 @@ We are building the tools to make it easier to deploy **applications that are tr
 
 Developers who implement our simple-to-run Javascript-based SDK in their projects will be able to take advantage of Koii’s unique technology stack, including:
 
-- [PoRT (Proofs of Real Traffic)](https://koii.network/proofs-of-real-traffic.pdf){:target="\_blank"} track attention and award [Koii Tokens](https://blog.koii.network/What-Is-The-Attention_Economy/){:target="\_blank"}
+- [PoRT (Proofs of Real Traffic)](https://koii.network/proofs-of-real-traffic.pdf){:target="\_blank"} track attention and award [Koii Tokens](/What-Is-The-Attention_Economy/){:target="\_blank"}
 - [Atomic NFTs](https://atomicnft.com){:target="\_blank"} store all media on-chain
 - [Finnie Wallet](https://github.com/koii-network/Finnie.site){:target="\_blank"} makes it easy to build cross-chain dApps and manage NFTs
-- [Koii DID (Decentralized ID)](https://blog.koii.network/DID/){:target="\_blank"} gives each user a unique profile page and identity
+- [Koii DID (Decentralized ID)](/DID/){:target="\_blank"} gives each user a unique profile page and identity
 - [Koii Nodes (Tasks)](https://koii.network/earn/everyone){:target="\_blank"} provide your back end, like APIs and web services
-- [Cross-chain bridging](https://blog.koii.network/Ethereum-to-Koii/){:target="\_blank"} and more
+- [Cross-chain bridging](/Ethereum-to-Koii/){:target="\_blank"} and more
 
 ### Koii-X
 

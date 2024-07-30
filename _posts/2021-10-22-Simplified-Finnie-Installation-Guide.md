@@ -87,6 +87,6 @@ Next, select the pin icon next to Finnie and the icon will turn blue.
 
 **That’s it!** You have successfully installed the Finnie Wallet. If you have any questions or concerns during this process feel free to reach out to our support team [here](http://support@koii.network){:target="\_blank"} and we will get back to you as soon as possible.
 
-If you're ready to take the next step and mint an NFT using Koii, you can do that right from within the Finnie Wallet. Let us show you how in our guide to [minting your first NFT](https://blog.koii.network/Introducing-Finnie/#part-4-create-an-nft){:target="\_blank"} using the Finnie Wallet.
+If you're ready to take the next step and mint an NFT using Koii, you can do that right from within the Finnie Wallet. Let us show you how in our guide to [minting your first NFT](/Introducing-Finnie/#part-4-create-an-nft){:target="\_blank"} using the Finnie Wallet.
 
 Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"}.

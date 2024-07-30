@@ -7,7 +7,7 @@ image: assets/images/blog/BlogPost-ARfaucet.jfif
 
 # Get some free AR: An Arweave faucet tutorial
 
-# You no longer need the AR faucet, head to the [KOII Faucet tutorial](https://blog.koii.network/How-To-Get-Free-Koi-A-Faucet-Wallet-Tutorial/) to get KOII Now!
+# You no longer need the AR faucet, head to the [KOII Faucet tutorial](/How-To-Get-Free-Koi-A-Faucet-Wallet-Tutorial/) to get KOII Now!
 
 Since Koii works as a layer on top of Arweave, you need a small amount of AR to register your content on the Koii Network. Luckily, you can get a free AR wallet (perfect for storing KOII too) and some AR for free from the [Arweave faucet](https://faucet.arweave.net/).
 

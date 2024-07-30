@@ -61,6 +61,6 @@ When everyday people embrace technologies like DIDs, it reminds all of us that t
 
 Sign up for your own Koii DID through our [Finnie wallet](https://koii.me/FinnieDCI){:target="\_blank"}.
 
-For an overview and introduction to our DID please see the article [Why you Need a Koii DID](https://blog.koii.network/Why-you-Need-a-Koii-DID/){:target="\_blank"}.
+For an overview and introduction to our DID please see the article [Why you Need a Koii DID](/Why-you-Need-a-Koii-DID/){:target="\_blank"}.
 
 Stay tuned as we are planning future articles exploring the implications of the Koii DID for developers, decentralized startups, network reputability, and Koii’s own future social media aspirations.

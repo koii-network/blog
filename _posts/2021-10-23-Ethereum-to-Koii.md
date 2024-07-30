@@ -17,7 +17,7 @@ NFTs can be minted natively on the Arweave network and immediately begin receivi
 
 To interact with the Koii ecosystem, you must have the Finnie wallet. Finnis is easy to download, and can be used with the Koii Faucet to get 5 KOII and start your journey with attention rewards.
 
-[Check out this guide to downloading Finnie](https://blog.koii.network/Simplified-Finnie-Installation-Guide/){:target="\_blank"}. Remember to always keep your seed phrase secure!
+[Check out this guide to downloading Finnie](/Simplified-Finnie-Installation-Guide/){:target="\_blank"}. Remember to always keep your seed phrase secure!
 
 ## Step 2: Connect your Ethereum Address to your Finnie Wallet
 

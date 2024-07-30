@@ -40,7 +40,7 @@ Koii Tasks allow any developer to pay the network to run a compute job. Tasks ar
 
 While Koii originated within the Arweave ecosystem, we’ve now re-architected the network to use IPFS and Filecoin storage by default. This allows us (and our developers) much more flexibility when it comes to storage options and supports needs including temporary storage and pinning via Koii nodes. Not only does this significantly reduce costs, but now developers building on Koii can also take advantage of temporary file storage and deduplication for shared assets using the [Content-Addressing framework.](https://docs.ipfs.io/concepts/content-addressing/){:target="\_blank"}
 
-Do you know a project who could use easy storage or pinning with using out-of-the-box templates? Send them our way - [the grants program](https://blog.koii.network/The-Koii-Grant-Program-Set-for-Launch/){:target="\_blank"} is open, and we’re here to help!
+Do you know a project who could use easy storage or pinning with using out-of-the-box templates? Send them our way - [the grants program](/The-Koii-Grant-Program-Set-for-Launch/){:target="\_blank"} is open, and we’re here to help!
 
 ### Ecosystem Growth <span id="Ecosystem_Growth"></span>
 

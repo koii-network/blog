@@ -27,7 +27,7 @@ With your help, that better world can be a reality.
 
 Check out the Edge of NFT blog and podcast here for more.
 
-To learn more about how you can help Koii succeed, [check out this blog](https://blog.koii.network/How-YOU-can-help-Koii/).
+To learn more about how you can help Koii succeed, [check out this blog](/How-YOU-can-help-Koii/).
 Follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"}
 Join our [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"}
 Get on the [whitelist](https://docs.google.com/forms/d/e/1FAIpQLSd2SmUm8pr6RN4hGk1nSM_LsZyUQmxQhoRXE9lrt-oNRn0xHg/viewform){:target="\_blank"} for our upcoming public token sale

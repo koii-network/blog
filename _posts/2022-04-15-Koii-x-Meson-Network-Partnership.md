@@ -21,7 +21,7 @@ Building with Koii is about more than just streamlining app development. It also
 
 As KOII is mined by the attention that Atomic NFTs receive, KOII can be used to pay for other services on the network. This application layer is powered by a network of [task nodes](https://docs.koii.network/#nodes){:target="\_blank"} that can provide network-based or cross-chain services through Koii DIDs (decentralized IDs).
 
-Koii’s unique attributes, cross-chain functionality, and the potential to generate attention rewards make the network a strong value proposition for developers and creators. Still, no matter how good the technology is, it won’t attract new users if it is slow or cumbersome to use. [Koii recently announced K2](https://blog.koii.network/Koii-Announces-K2/){:target="\_blank"}, a new high-speed settlement layer that is capable of transaction speeds of 2000 tps, accelerating the communications and security of the network and eliminating any concerns about network speed.
+Koii’s unique attributes, cross-chain functionality, and the potential to generate attention rewards make the network a strong value proposition for developers and creators. Still, no matter how good the technology is, it won’t attract new users if it is slow or cumbersome to use. [Koii recently announced K2](/Koii-Announces-K2/){:target="\_blank"}, a new high-speed settlement layer that is capable of transaction speeds of 2000 tps, accelerating the communications and security of the network and eliminating any concerns about network speed.
 
 ## About Meson Network
 
