@@ -29,7 +29,7 @@ image: "/assets/images/WELCOMEFINNIE_TWITTTERBLOG.png"
     <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
     </h2>
     <p class="excerpt">
-        {{ latest_post.subtitle | latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+        {{ latest_post.subtitle | default: latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
     </p>
     <div>
         <small class="d-block text-muted">
