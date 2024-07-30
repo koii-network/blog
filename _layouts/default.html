@@ -45,7 +45,7 @@
 
 </head>
 
-<body class="{% if page.url == "/" %} homefirstpage {% endif %}">
+<body class="{% if page.path == "index.html" %} homefirstpage {% endif %}">
 
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M8BDMP3"
@@ -55,7 +55,7 @@
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="https://koii.network//"><img class="icon" src="/assets/images/goldfish.svg"></strong></a>
+        <a class="navbar-brand" href="https://www.koii.network/"><img class="icon" src="/assets/images/goldfish.svg"></strong></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
@@ -67,7 +67,7 @@
                 {% include search-lunr.html %}
 
                 <li class="nav-item tryNow">
-                    <a target="_blank" class="nav-link" href="https://koi.rocks/">Try Now</a>
+                    <a target="_blank" class="nav-link" href="https://www.koii.network/nodes">Try Now</a>
                 </li>
             </ul>
         </div>
