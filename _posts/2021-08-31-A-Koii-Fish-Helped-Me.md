@@ -29,7 +29,7 @@ Koii uses something called Proofs of Real Traffic or PoRT for short. PoRT is a n
 
 Consider an example of how this might work. Imagine for a moment that you are filming yourself feeding your koi fish named Charlie, he bites your finger and it’s hilarious. You take that short video clip and upload it as an NFT on [koi.rocks](https://koi.rocks/contents){:target="\_blank"} using the [Finnie](https://koii.network/getFinnie?&utm_source=FinnieWallet&utm_medium=CoinSpeaker&utm_source=Finniepressrelease){:target="\_blank"} wallet. After minting the video clip NFT for less then the cost of a bottle of water ( about $0.10 USD for a 5mb file as of this writing) you are next given the option to copy a small snippet of code that will enable you to post that video wherever you would like on the web and start receiving attention rewards. Your media file is stored safely and permanently on the Arweave network and registered as an [Atomic NFT](https://atomicnft.com/){:target="\_blank"}. This allows you to maintain ownership of the content across any blockchain or internet platform. The original file, the NFT and the smart contract are combined and managed all through the decentralized Koii Network.
 
-![image0](assets/images/blog/08-24-cover.png)
+![image0](/assets/images/blog/08-24-cover.png)
 This image is an NFT minted on the Koii Network [here](https://koii.live/h3D8nUlM6a995s3G3fRW-qjYqMVyClqxMvvaRmhMoSo.html){:target="\_blank"}
 
 By combining your media file with the Arweave smart contract code it makes it so that when your file is replicated, shared, or posted elsewhere the attention generated is linked to the original file. Whoever owns the the Koii minted NFT will receive the attention rewards generated in the form of Koii tokens paid to the Finnie wallet that holds the NFT. Very soon the Koii Network will make it so that any NFT minted on Koii will also be able to be listed on other blockchain networks. With one click you will be able to upload your NFT to Ethereum and use the OpenSea platform or any other of your choosing, doing away with the need to commit your NFT to any specific ecosystem.
@@ -38,7 +38,7 @@ No matter where or how many times people watch the video of Charlie the koi biti
 
 Attention measured by PoRT is one of the key elements built into the Koii Network. New Koii tokens are mined through the attention your content receives which is verified via witness and bundler nodes that audit the Proofs of Real Traffic. Once the PoRTs are fully audited they are submitted and stored on the Arweave permaweb and the Koii tokens are distributed. This gradual confirmation makes Koii extremely scalable and energy-efficient.
 
-![image2](assets/images/blog/08-24-image2.png)
+![image2](/assets/images/blog/08-24-image2.png)
 
 Verifiable proof of attention rewards content creators and encourages increased network participation and node adoption. It’s a positive feedback loop incentivizing and rewarding a creator first economy while at the same time keeping the network safe from bad actors trying to game the system with spam or falsified traffic logs (more on that [here](https://koii.network/proofs-of-real-traffic.pdf){:target="\_blank"}).
 
@@ -47,7 +47,7 @@ There are multiple elements at play in the Koii ecosystem, each has been careful
 Today we may not be able to completely cut the web 2.0 cord but we can rest a little easier knowing that Koii with its two i’s is watching over the internet.
 Right now you can try out the Koii Network by downloading and installing the Finnie wallet from the link below. The Koii [team](https://twitter.com/KoiiNetwork?s=20){:target="\_blank"} will set you up with enough Koii tokens to mint your first couple of NFT’s on the house.
 
-[![downloadfinnie](assets/images/blog/PSDMarchNook79.png)](https://koii.network/getFinnie){:target="\_blank"}
+[![downloadfinnie](/assets/images/blog/PSDMarchNook79.png)](https://koii.network/getFinnie){:target="\_blank"}
 
 What other kinds of web3 alchemy are cooking at the Koii network? Stay up to date on the [Koii Blog](https://blog.koii.network/){:target="\_blank"}. For a one-on-one deep dive with Koii architect and founder Alex Morris check out his recent interview with NFP podcast host DKleine below.
 

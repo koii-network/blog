@@ -25,29 +25,29 @@ In this step, you’ll be connecting your Ethereum and Finnie wallets so you can
 
 Step 2.1 — open your Finnie wallet browser extension and click “Go to My Gallery.”
 
-![Install Finnie - Koii blog](assets/images/blog/koiitoeth/t1.png)
+![Install Finnie - Koii blog](/assets/images/blog/koiitoeth/t1.png)
 
 Step 2.2 — click on the gear icon and then “Wallet Settings.” You’ll see the option to “Import from Seed Phrase.” Click on that button and continue.
 
-![Install Finnie - Koii blog](assets/images/blog/koiitoeth/t2.png)
+![Install Finnie - Koii blog](/assets/images/blog/koiitoeth/t2.png)
 
 Step 2.3 — in this step, select “Ethereum Key” to import your Ethereum wallet into Finnie. You’ll be asked to confirm which network (mainnet or testnet). Then, you’ll enter your 12-word seed phrase from your Ethereum wallet and your Finnie wallet password. If all is correct, the next screen will confirm success!
 
 _Note_, this step does not actually transfer your assets from Ethereum to Finnie. Here, you are just making your Ethereum NFTs available for transfer to Arweave and Koii should you wish.
 
-![Install Finnie - Koii blog](assets/images/blog/koiitoeth/t3.png)
+![Install Finnie - Koii blog](/assets/images/blog/koiitoeth/t3.png)
 
-![Install Finnie - Koii blog](assets/images/blog/koiitoeth/t4.png)
+![Install Finnie - Koii blog](/assets/images/blog/koiitoeth/t4.png)
 
-![Install Finnie - Koii blog](assets/images/blog/koiitoeth/t5.png)
+![Install Finnie - Koii blog](/assets/images/blog/koiitoeth/t5.png)
 
-![Install Finnie - Koii blog](assets/images/blog/koiitoeth/t6.png)
+![Install Finnie - Koii blog](/assets/images/blog/koiitoeth/t6.png)
 
 ## Step 3: Browse your NFTs and Select
 
 On the left-hand side, click the homepage icon. Now, you’ll see a list of all the NFTs that exist in your MetaMask wallet! You can browse through these NFTs and select which ones you want to transfer over to Arweave and Koii to start earning rewards.
 
-![Install Finnie - Koii blog](assets/images/blog/koiitoeth/t7.png)
+![Install Finnie - Koii blog](/assets/images/blog/koiitoeth/t7.png)
 
 ## Step 4: Transfer your Selected NFTs to Arweave & Koii
 

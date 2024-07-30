@@ -30,7 +30,7 @@ K2 is designed for tasks to **handle compute off-chain**, which means it has min
 
 [Sign up today to become a K2 Validator.](https://share.hsforms.com/1TBLW2c-gTHWusadfGZ8uGQc20dg){:target="\_blank"}
 
-![K2](assets/images/blog/2022eoy/k2%20graphic.png)
+![K2](/assets/images/blog/2022eoy/k2%20graphic.png)
 
 ### Compute-Sharing Marketplace <span id="compute_sharing"></span>
 
@@ -46,7 +46,7 @@ Do you know a project who could use easy storage or pinning with using out-of-th
 
 As you might already have heard from our Twitter announcements, we are building out our ecosystem in full force. Among the **1,200+ projects** that want to become part of our ecosystem, here are 5 that we are incredibly excited about. We are motivated by what they’re building and the future we are all crafting together.
 
-![EOY 20Projects](assets/images/blog/2022eoy/EOY%20Projects.png)
+![EOY 20Projects](/assets/images/blog/2022eoy/EOY%20Projects.png)
 
 [Idexo](https://idexo.com/){:target="\_blank"}<br/>
 Idexo will use Koii tasks and nodes to provide cross-chain bridging with low fees and trustless validators.
@@ -68,7 +68,7 @@ Thanks for sticking with us through some of the partnerships we wanted to highli
 Who should we talk to in your network? Do you know projects we can help grow and thrive?<br/>
 [Give them a quick shout out here!](https://share.hsforms.com/1FkZh4r_qT3uZcD-x14moygc20dg){:target="\_blank"}
 
-![Meme](assets/images/blog/2022eoy/Meme%20newsletter.png)
+![Meme](/assets/images/blog/2022eoy/Meme%20newsletter.png)
 
 ## Founder Support Program
 
@@ -82,7 +82,7 @@ One of the ways we are helping support and bolster new founders is through the K
 
 The first cohort will be launching in January! [Nominate your favorite web3 project for our next cohort](https://share.hsforms.com/1FkZh4r_qT3uZcD-x14moygc20dg){:target="\_blank"}
 
-![make it rain](assets/images/blog/2022eoy/make%20it%20rain%20FINNIE.gif)
+![make it rain](/assets/images/blog/2022eoy/make%20it%20rain%20FINNIE.gif)
 
 ## KOII Tokens & Koii Nodes <span id="KOII_Tokens"></span>
 
@@ -99,7 +99,7 @@ As so many projects in Web3 have learned, great technology is only half the prob
 
 We have been hard at work on a pipeline for onboarding university engineering programs and code schools to help more JavaScript developers get access to our tools. Do you think your university or code school might be interested? [Introduce us!](https://share.hsforms.com/1nnHVLe4DT8OiVcv75-QDSwc20dg){:target="\_blank"}
 
-![EOY ecosystem](assets/images/blog/2022eoy/EOY%20Ecosystem.png)
+![EOY ecosystem](/assets/images/blog/2022eoy/EOY%20Ecosystem.png)
 
 This has been a big newsletter, but we had a big year. We’re grateful for your continued support, and as our way to say thank you, we have a couple of special offers for you today.
 
@@ -115,7 +115,7 @@ You can also get some free tokens from the new KOII Faucet by verifying your Twi
 
 [Try the Faucet](https://koii.me/faucet){:target="\_blank"}
 
-It’s been a big year and the coming year will be even bigger so stick around and see the waves we make!  
+It’s been a big year and the coming year will be even bigger so stick around and see the waves we make!
 *Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
 
 Swimmingly,<br/>

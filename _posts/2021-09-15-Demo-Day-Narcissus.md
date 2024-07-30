@@ -17,7 +17,7 @@ Atomic NFTs are a self-contained piece of software that takes the form of a sing
 
 As a result, Koii doesn’t need to manage a library of Narcissus NFTs, and once someone has created an atomic NFT they are essentially autonomous, “living” creations. In other words, the features embedded within Atomic NFTs directly align with blockchain’s ideals of decentralization and individual self-sovereignty. This is a significant improvement over other dynamic NFTs, which often rely on external intervention to manually upgrade or evolve, and, as such, do not enable the same level of creative autonomy and flexibility as Atomic NFTs. The Atomic NFTs that creators bring to life via the Koii network will be increasingly cross-compatible with multiple blockchain networks via Koii’s exchange bridges, adding more flexibility and depth to our rapidly growing creator community.
 
-![narcissus](assets/images/blog/Narcissus_Flower_Blog_body.gif)
+![narcissus](/assets/images/blog/Narcissus_Flower_Blog_body.gif)
 
 ## Koii makes it easy for anyone to create, share, and profit from their content creations.
 

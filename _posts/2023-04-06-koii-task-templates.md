@@ -49,7 +49,7 @@ We say easy as 1, 2, 3 because usually step 4 should never happen in a well-esta
 
 
 
-![tasks.png](assets/images/blog/tasks.png)
+![tasks.png](/assets/images/blog/tasks.png)
 
 
 ## A Better Standard for Web3 (and Beyond)

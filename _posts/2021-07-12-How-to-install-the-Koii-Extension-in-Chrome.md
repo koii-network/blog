@@ -13,27 +13,27 @@ To install the extension manually you need to download and unzip the file first.
 
 To download the extension, go to [koii.network/getFinnie](https://koii.network/getFinnie){:target="\_blank"}. This will automatically begin the download. Then unzip (or extract) the folder.
 
-![Install Finnie - Koii blog](assets/images/blog/installfinnie/step1.png)
+![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step1.png)
 
 After you have downloaded the file, go to Chrome Settings using three dots on the top right corner of your browser, or skip the next two steps and just type "chrome://extensions/" into your browser.
 
-![Install Finnie - Koii blog](assets/images/blog/installfinnie/step2.png)
+![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step2.png)
 
 Select “Extensions” from the menu on the left side of the window.
 
-![Install Finnie - Koii blog](assets/images/blog/installfinnie/step3.png)
+![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step3.png)
 
 Enable “Developer mode” (top right corner), then click “Load Unpacked” in the top left corner.
 
-![Install Finnie - Koii blog](assets/images/blog/installfinnie/step4.png)
+![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step4.png)
 
 Select the unzipped Finnie folder.
 
-![Install Finnie - Koii blog](assets/images/blog/installfinnie/step5.png)
+![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step5.png)
 
 And Finnie should be ready to go. To see Finnie in your extension menu, click on the Extensions manager (the puzzle piece icon in the top right corner) and click the pin icon next to Finnie.
 
-![Install Finnie - Koii blog](assets/images/blog/installfinnie/step6.png)
+![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step6.png)
 
 Now you’re ready to go. Be sure to share your feedback with us via [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"} or by sending us an email at [support@koii.network](mailto:support@koii.network){:target="\_blank"}.
 
