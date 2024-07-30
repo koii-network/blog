@@ -27,7 +27,7 @@ The Koii Network is building an ecosystem to make the internet applications and 
 
 Koii uses something called Proofs of Real Traffic or PoRT for short. PoRT is a novel method that registers traffic and attention in a reliable and consistent way and then rewards end-users and content creators directly.
 
-Consider an example of how this might work. Imagine for a moment that you are filming yourself feeding your koi fish named Charlie, he bites your finger and it’s hilarious. You take that short video clip and upload it as an NFT on koi.rocks using the [Finnie](https://koii.network/getFinnie?&utm_source=FinnieWallet&utm_medium=CoinSpeaker&utm_source=Finniepressrelease){:target="\_blank"} wallet. After minting the video clip NFT for less then the cost of a bottle of water ( about $0.10 USD for a 5mb file as of this writing) you are next given the option to copy a small snippet of code that will enable you to post that video wherever you would like on the web and start receiving attention rewards. Your media file is stored safely and permanently on the Arweave network and registered as an [Atomic NFT](https://atomicnft.com/){:target="\_blank"}. This allows you to maintain ownership of the content across any blockchain or internet platform. The original file, the NFT and the smart contract are combined and managed all through the decentralized Koii Network.
+Consider an example of how this might work. Imagine for a moment that you are filming yourself feeding your koi fish named Charlie, he bites your finger and it’s hilarious. You take that short video clip and upload it as an NFT on koi.rocks using the [Finnie](https://www.koii.network/getFinnie?&utm_source=FinnieWallet&utm_medium=CoinSpeaker&utm_source=Finniepressrelease){:target="\_blank"} wallet. After minting the video clip NFT for less then the cost of a bottle of water ( about $0.10 USD for a 5mb file as of this writing) you are next given the option to copy a small snippet of code that will enable you to post that video wherever you would like on the web and start receiving attention rewards. Your media file is stored safely and permanently on the Arweave network and registered as an [Atomic NFT](https://atomicnft.com/){:target="\_blank"}. This allows you to maintain ownership of the content across any blockchain or internet platform. The original file, the NFT and the smart contract are combined and managed all through the decentralized Koii Network.
 
 ![image0](/assets/images/blog/08-24-cover.png)
 This image is an NFT minted on the Koii Network [here](https://koii.live/h3D8nUlM6a995s3G3fRW-qjYqMVyClqxMvvaRmhMoSo.html){:target="\_blank"}
@@ -40,14 +40,14 @@ Attention measured by PoRT is one of the key elements built into the Koii Networ
 
 ![image2](/assets/images/blog/08-24-image2.png)
 
-Verifiable proof of attention rewards content creators and encourages increased network participation and node adoption. It’s a positive feedback loop incentivizing and rewarding a creator first economy while at the same time keeping the network safe from bad actors trying to game the system with spam or falsified traffic logs (more on that [here](https://koii.network/proofs-of-real-traffic.pdf){:target="\_blank"}).
+Verifiable proof of attention rewards content creators and encourages increased network participation and node adoption. It’s a positive feedback loop incentivizing and rewarding a creator first economy while at the same time keeping the network safe from bad actors trying to game the system with spam or falsified traffic logs.
 
 There are multiple elements at play in the Koii ecosystem, each has been carefully developed to provide developers the tools they need to build on the network as easily and efficiently as possible. Although there is a lot more to discuss about the Koii Network— by taking a look at some of the basics and how PoRTs incentivize content creation, we can see how Koii is positioning itself to become the engine that drives the web 3.0 economy. It’s true that we already have web 2.0 but why settle? Why let ourselves or our friends stay in an unhealthy internet relationship? Koii helps us to see that by moving on to web 3.0 we don’t have to give up anything.
 
 Today we may not be able to completely cut the web 2.0 cord but we can rest a little easier knowing that Koii with its two i’s is watching over the internet.
 Right now you can try out the Koii Network by downloading and installing the Finnie wallet from the link below. The Koii [team](https://twitter.com/KoiiNetwork?s=20){:target="\_blank"} will set you up with enough Koii tokens to mint your first couple of NFT’s on the house.
 
-[![downloadfinnie](/assets/images/blog/PSDMarchNook79.png)](https://koii.network/getFinnie){:target="\_blank"}
+[![downloadfinnie](/assets/images/blog/PSDMarchNook79.png)](https://www.koii.network/getFinnie){:target="\_blank"}
 
 What other kinds of web3 alchemy are cooking at the Koii network? Stay up to date on the [Koii Blog](/){:target="\_blank"}. For a one-on-one deep dive with Koii architect and founder Alex Morris check out his recent interview with NFP podcast host DKleine below.
 

@@ -116,7 +116,7 @@ You can also get some free tokens from the new KOII Faucet by verifying your Twi
 [Try the Faucet](https://koii.me/faucet){:target="\_blank"}
 
 It’s been a big year and the coming year will be even bigger so stick around and see the waves we make!
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
 
 Swimmingly,<br/>
 The Koii Team

@@ -11,7 +11,7 @@ To get started just follow these steps and your new browsing companion Finnie wi
 
 To install the extension manually you need to download and unzip the file first. Then follow the steps to load the Finnie Wallet into your browser.
 
-To download the extension, go to [koii.network/getFinnie](https://koii.network/getFinnie){:target="\_blank"}. This will automatically begin the download. Then unzip (or extract) the folder.
+To download the extension, go to [koii.network/getFinnie](https://www.koii.network/getFinnie){:target="\_blank"}. This will automatically begin the download. Then unzip (or extract) the folder.
 
 ![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step1.png)
 

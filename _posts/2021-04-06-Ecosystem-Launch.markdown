@@ -5,7 +5,7 @@ categories: [Announcement, Vision]
 image: assets/images/koi.rock.jpg
 ---
 
-Koi.rocks is a decentralized web application (DApp) powered by [Koii](https://koii.network){:target="\_blank"} , a protocol for information retrieval and publishing on the new web. Koii.rocks exhibits technologies made possible by the [Koii Protocol](https://koii.network/koi-protocol.pdf){:target="\_blank"} .
+Koi.rocks is a decentralized web application (DApp) powered by [Koii](https://www.koii.network){:target="\_blank"} , a protocol for information retrieval and publishing on the new web. Koii.rocks exhibits technologies made possible by the Koii Protocol.
 
 The era of NFTs is upon us. Koii.rocks takes advantage of key Koii Protocol capabilities in order to provide novel functionalities for content creators in a web 3.0 environment.
 
@@ -33,7 +33,7 @@ To see Kevin's offical website, click [here](https://kevinabosch.com/1111/).
 
 ## Proofs of Real Traffic
 
-Koii.rocks is the first Koii ecosystem application which makes use of PoRT, or [Proofs of Real Traffic](https://openkoi.com/koi-protocol.pdf). Proofs of Real Traffic ensure that gateway tracking and subsequent attention tracking enabled by the Koii protocol are not taken advantage of by bad actors. NFTs hosted on koi.rocks are given “attention” when clicked. Gateway tracking via traffic log verification allows for the correct recording of attention given to hosted content. PoRT ensures that this system is not disrupted through spamming the network, or collusion of protocol participants in pursuit of disproportionate rewards. The intention is to gauge real traffic flowing into the gateways based on genuine interest in information hosted via the Koii protocol.
+Koii.rocks is the first Koii ecosystem application which makes use of PoRT, or Proofs of Real Traffic. Proofs of Real Traffic ensure that gateway tracking and subsequent attention tracking enabled by the Koii protocol are not taken advantage of by bad actors. NFTs hosted on koi.rocks are given “attention” when clicked. Gateway tracking via traffic log verification allows for the correct recording of attention given to hosted content. PoRT ensures that this system is not disrupted through spamming the network, or collusion of protocol participants in pursuit of disproportionate rewards. The intention is to gauge real traffic flowing into the gateways based on genuine interest in information hosted via the Koii protocol.
 
 Koii.rocks leverages PoRT to maintain the integrity of attention rewards and leaderboard standing. In order to reflect actual public interest in these NFTs, the PoRT generates a hash which represents important metadata associated with any IP address that accesses a koi.rocks gateway. The generated hash forces network participants to expend work that is more expensive to falsify than the attention reward would be worth. This disincentivizes subversive entities from gaming the system.
 

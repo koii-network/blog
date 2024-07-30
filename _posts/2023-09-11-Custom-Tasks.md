@@ -48,4 +48,4 @@ If you have any questions, want to learn more about how to use this feature, or 
 If you got the far in the post, here’s a little sneak peek treat. We are working on a referral code system that allows you to share a specific task in onboarding when someone downloads their node for the first time. It’s a complicated, but exciting process so stay tuned!
 
 
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

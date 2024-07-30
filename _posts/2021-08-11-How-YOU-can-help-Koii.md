@@ -31,9 +31,9 @@ Now you might be wondering, “What can I do to help the project? What can I do 
 
 - Download Finnie!
 
-  Have yet to download the Finnie Wallet? Head [here](https://koii.network/getFinnie){:target="\_blank"} to install Finnie in Chrome and start using your new browsing companion - you can create NFTs in under 1 minute, for less than $0.01 (and setup takes about 2 minutes). Our goal is to reach 10,000 users this month, help us get there now!
+  Have yet to download the Finnie Wallet? Head [here](https://www.koii.network/getFinnie){:target="\_blank"} to install Finnie in Chrome and start using your new browsing companion - you can create NFTs in under 1 minute, for less than $0.01 (and setup takes about 2 minutes). Our goal is to reach 10,000 users this month, help us get there now!
 
-  [![image 4](/assets/images/blog/08-11/image4.png)](https://koii.network/getFinnie){:target="\_blank"}
+  [![image 4](/assets/images/blog/08-11/image4.png)](https://www.koii.network/getFinnie){:target="\_blank"}
 
 - Find bugs!
 

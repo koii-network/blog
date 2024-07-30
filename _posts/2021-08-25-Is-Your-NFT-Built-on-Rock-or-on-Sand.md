@@ -65,7 +65,7 @@ Sometimes it feels like we are becoming the victims of standard and verification
 
 Stay up-to-date with our Atomic NFT standard over at [atomicnft.com](https://atomicnft.com/en/){:target="\_blank"}.
 
-If you want some hands-on experience minting an Atomic NFT, the best way to get started is with the Finnie wallet browser extension. To get set up, follow the link and tutorial at [https://koii.network/getFinnie](https://koii.network/getFinnie){:target="\_blank"}.
+If you want some hands-on experience minting an Atomic NFT, the best way to get started is with the Finnie wallet browser extension. To get set up, follow the link and tutorial at [https://www.koii.network/getFinnie](https://www.koii.network/getFinnie){:target="\_blank"}.
 
 Once you have Finnie installed, try minting your first Atomic NFT on rock instead of sand over at koi.rocks.
 

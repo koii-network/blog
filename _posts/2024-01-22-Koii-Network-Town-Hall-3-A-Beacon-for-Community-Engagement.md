@@ -31,4 +31,4 @@ Remember, the Koii ecosystem thrives on the active participation of its communit
 
 See you [**THERE**](https://lu.ma/xzy5tbtu){:target="\_blank"}!🌟
 
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

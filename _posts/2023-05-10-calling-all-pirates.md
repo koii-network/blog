@@ -84,4 +84,4 @@ The Koii Network pirate uprising is a great way for our most dedicated community
 
 If you have any questions about the pirate program or Koii as a whole, don't be shy and give us a shout on [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"}. We’ll be standing by the helm to steer you in the right direction!
 
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

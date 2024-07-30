@@ -15,7 +15,7 @@ _It only takes a few steps but if you’re new to blockchain, it can be confusin
 
 Once you’re at the [Arweave faucet](https://faucet.arweave.net/), select the checkbox and then click the Continue button.
 
-![get free crypto by downloading AR faucet](/assets/images/blog/Step1_ARfaucet.png)
+![get free crypto by downloading AR faucet]({{'/assets/images/blog/Step1_ARfaucet.png' | relative_url}})
 
 Next you create an AR wallet by selecting the checkbox (again) and clicking “Download Wallet.” This will appear as a .JSON file. For the less tech-savvy of us, you don’t need to open the file or do anything with it other than putting it in a safe folder.
 
