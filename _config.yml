@@ -14,7 +14,6 @@ permalink: /:title/
 # SEO
 twitter:
   username: KoiiFoundation
-  image: "/assets/images/WELCOMEFINNIE_TWITTTERBLOG.png"
 
 discord:
   invite: "https://discord.gg/koii-network"
