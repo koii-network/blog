@@ -22,16 +22,16 @@ GoldFish, at it's core, is a web scraper. You tell us the URL you want to view, 
 The GoldFish tools make it easy for anyone to create their information pipeline, and begin automating. To get started, visit a site that you want to scrape in your web browser, and copy the URL. Then, you can set up automatic scraping in just 4 steps:
 
 <h4>Copy the URL and paste it into <a href="https://goldfishservice.xyz/">goldfishservice.xyz</a></h4>
-<img src="./assets/images/blog/ny-times.png">
-<img src="./assets/images/blog/goldfishwny-times.png">
+<img src="/assets/images/blog/ny-times.png">
+<img src="/assets/images/blog/goldfishwny-times.png">
 
 <b>Add labels to keep organized</b>
-<img src="./assets/images/blog/addlabels.png">
+<img src="/assets/images/blog/addlabels.png">
 
 <h4>Configure Delivery Preferences</h4>
 Configure how you want your data delivered. We currently support SMS, Email, Webhooks, IFTTT, or a Public URL just for your info.
-<img src="./assets/images/blog/select-sms-and-enter-number.png">
-<img src="./assets/images/blog/configure-daily.png">
+<img src="/assets/images/blog/select-sms-and-enter-number.png">
+<img src="/assets/images/blog/configure-daily.png">
 
 <h4>Kick back and let your scraper do the work</h4>
 Read your headlines in bed.

@@ -7,7 +7,7 @@ image: assets/images/blog/Meson Network.png
 
 Curious about what’s going on behind the scenes of decentralization? If so, you should pay attention to Koii’s partnership with the Meson Network. Lets dive into the ways these two networks are working together to create the infrastructure needed to truly scale Web3.
 
-Koii Network is focused on building the tools and infrastructure that developers need to create powerful creator-focused dApps. Meson Network is a decentralized CDN (Content Delivery Network) or dCDN for short. The primary role of the network is to utilize idle commercial and third-party bandwidth through blockchain to provide CDN services. 
+Koii Network is focused on building the tools and infrastructure that developers need to create powerful creator-focused dApps. Meson Network is a decentralized CDN (Content Delivery Network) or dCDN for short. The primary role of the network is to utilize idle commercial and third-party bandwidth through blockchain to provide CDN services.
 
 Let’s take a closer look at how these two networks are finding unique ways to solve the challenges faced by decentralization, while also shining a light on its many advantages.
 
@@ -31,6 +31,6 @@ Koii’s unique attributes, cross-chain functionality, and the potential to gene
 
 Both Koii and Meson Network are examples of how blockchain and decentralized technology are moving beyond simply matching Web2 capabilities. Their unique approaches and novel technology stacks solve problems while providing services that highlight the advantages of decentralized networks. As networks like Koii build out the tool sets needed to make application development faster and easier, the number of dApps will continue to grow. More dApps means more bandwidth; another reason why Meson Network’s dCDN will be a critical component of Web3 infrastructure.
 
-To learn more about the tools that Koii has available to developers and creators, check out the [Koii Wiki](http://docs.koii.network){:target="\_blank"} and the [Koii Blog](https://blog.koii.network){:target="\_blank"}. Follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"} and join our [Telegram](https://t.me/koiinetwork){:target="\_blank"} group!
+To learn more about the tools that Koii has available to developers and creators, check out the [Koii Wiki](http://docs.koii.network){:target="\_blank"} and the [Koii Blog](https://blog.koii.network){:target="\_blank"}. Follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"} and join our [Telegram](https://t.me/koiinetwork){:target="\_blank"} group!
 
 To stay up-to-date with everything happening at Meson Network visit the [official website](http://meson.network){:target="\_blank"} or follow them on [Twitter](https://twitter.com/NetworkMeson){:target="\_blank"}.

@@ -22,6 +22,6 @@ Making dApps easier to build and deploy is essential to attracting more develope
 
 To see how easy it can be to develop a dApp using a Koii-X template please see our [written](https://blog.koii.network/Deploy-your-own-crowdfunding-portal-in-10-minutes-using-Koii-X/){:target="\_blank"} or [video](https://www.youtube.com/watch?v=PBJDM_ZY2WI){:target="\_blank"} tutorials. Once you’re ready to deploy you can check out our guide on how to [deploy your Koii-X template directly from Github using Spheron](https://blog.koii.network/Deploying-your-Koii-X-template-with-Spheron/){:target="\_blank"}.
 
-To learn more about the tools that Koii has available to developers and creators, check out the [Koii Wiki](http://docs.koii.network){:target="\_blank"} and the [Koii Blog](https://blog.koii.network){:target="\_blank"}. Follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"} and join our [Telegram](https://t.me/koiinetwork){:target="\_blank"} group!
+To learn more about the tools that Koii has available to developers and creators, check out the [Koii Wiki](http://docs.koii.network){:target="\_blank"} and the [Koii Blog](https://blog.koii.network){:target="\_blank"}. Follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"} and join our [Telegram](https://t.me/koiinetwork){:target="\_blank"} group!
 
 To stay up-to-date with everything happening at Spheron visit the [official website](https://spheron.network/){:target="\_blank"} or follow them on [Twitter](https://twitter.com/SpheronHQ){:target="\_blank"}.

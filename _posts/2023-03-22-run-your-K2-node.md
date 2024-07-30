@@ -42,7 +42,7 @@ Our JavaScript tasks allow massive amounts of off-chain data to connect and veri
 Let’s take a look at how far we’ve come in the last year.
 
 <p align="center">
-  <img src="./assets/images/blog/run-k2.png" />
+  <img src="/assets/images/blog/run-k2.png" />
 </p>
 
 ## Koii Network is Growing Fast

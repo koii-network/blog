@@ -29,4 +29,4 @@ Koii is a network layer, not a blockchain, allowing Koii to interact with multip
 
 Koii has a [suite of software tools and simple dApp templates](https://docs.koii.network/koii-software-toolkit-sdk/what-is-the-koii-sdk){:target="\_blank"} (Koii-X) that make it easy for developers to build tokenized protocols and applications that can utilize Atomic NFTs, PoRT, and attention tracking.
 
-To learn more about the tools that Koii has available to developers and creators, check out the [Koii Wiki](http://docs.koii.network){:target="\_blank"} and the [Koii Blog](https://blog.koii.network){:target="\_blank"}. Follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"} and join our [Telegram](https://t.me/koiinetwork){:target="\_blank"} group!
+To learn more about the tools that Koii has available to developers and creators, check out the [Koii Wiki](http://docs.koii.network){:target="\_blank"} and the [Koii Blog](https://blog.koii.network){:target="\_blank"}. Follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"} and join our [Telegram](https://t.me/koiinetwork){:target="\_blank"} group!
