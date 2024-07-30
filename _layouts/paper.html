@@ -10,7 +10,7 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						{% for category in page.categories %}
-                          <a class="sscroll text-danger" href="categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+                          <a class="sscroll text-danger" href="{{ 'categories.html#' | relative_url }}{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
 					</p>
@@ -29,7 +29,7 @@ layout: default
 				</div>
                 {% if page.image %}
 				<div class="col-md-6 pr-0 align-self-center">
-					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | relative_url }}{% endif %}" alt="{{ page.title }}">
 				</div>
                 {% endif %}
 			</div>
@@ -56,7 +56,7 @@ layout: default
 			<div class="mb-4">
 				<span class="taglist">
 				{% for tag in page.tags %}
-				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
+				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{ 'tags.html#' | relative_url }}{{ category | downcase }}">{{ tag | downcase }}</a>
 				{% endfor %}
 				</span>
 			</div>
