@@ -76,6 +76,6 @@ Join us on our journey to get creators get paid for their work, and allow them t
 
 Find Koii on our [Twitter](https://twitter.com/koii_network), [Discord](https://discord.gg/{{ site.discord.invite }}), [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5), or sign up for our [weekly newsletter](https://bit.ly/3oni4VL). If you’re interested in investing, get on the [Investor Whitelist](https://docs.google.com/forms/d/e/1FAIpQLSd2SmUm8pr6RN4hGk1nSM_LsZyUQmxQhoRXE9lrt-oNRn0xHg/viewform?usp=sf_link).
 
-To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents) or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/) to learn how.
+To start earning attention rewards on your NFTs, register them at [koi.rocks](https://www.koii.network) or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/) to learn how.
 
 **Better media makes a better world; decentralization lets you own it.**

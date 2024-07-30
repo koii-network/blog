@@ -41,13 +41,13 @@ We will be using [Arweave-deploy](https://docs.koii.network/build-dapps-with-koi
 
 ### Arweave wallet.json file
 
-You can export your json file from Finnie, create a new one, or get a wallet directly from Arweave. You will need some AR in order to deploy your dApp as it will be stored on the Arweave permaweb. The AR covers your storage fee. You can get some from the [Koii faucet](https://koi.rocks/faucet){:target="\_blank"} or various marketplaces.
+You can export your json file from Finnie, create a new one, or get a wallet directly from Arweave. You will need some AR in order to deploy your dApp as it will be stored on the Arweave permaweb. The AR covers your storage fee. You can get some from the [Koii faucet](https://faucet.koii.network){:target="\_blank"} or various marketplaces.
 
 Place a copy of this file named wallet.json in the root Koii-Fundraiser folder. You will need this in the folder in order to deploy your dApp.
 
 ## Ready, set, build!
 
-Now that we have all the tools we need, we are going to install and customize a Crowdfunding Portal! You could also deploy a Leaderboard dApp similar to the [Koii Atomic NFT leaderboard](https://koi.rocks/){:target="\_blank"} using the same methods. For more information on how to do that visit [the docs portal](https://docs.koii.network/build-dapps-with-koii/template-library/leaderboard-app){:target="\_blank"}. For now, let’s get started with installing our template.
+Now that we have all the tools we need, we are going to install and customize a Crowdfunding Portal! You could also deploy a Leaderboard dApp similar to the [Koii Atomic NFT leaderboard](https://www.koii.network){:target="\_blank"} using the same methods. For more information on how to do that visit [the docs portal](https://docs.koii.network/build-dapps-with-koii/template-library/leaderboard-app){:target="\_blank"}. For now, let’s get started with installing our template.
 
 ## Installation
 

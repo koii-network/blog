@@ -31,12 +31,12 @@ Koii envisions a web where developers can build apps without worrying about opti
 
 NFTs have become so popular even the [international olympics committee](https://coingape.com/international-olympics-committee-dabbles-into-sports-nft-looking-at-strong-demand/){:target="\_blank"} is dabbling, with [Tokyo already making an agreement with Nway](https://en.cryptonomist.ch/2021/06/04/nfts-come-to-tokyo-olympics-2021/){:target="\_blank"} (a subsidiary of [Animoca Brands](https://www.animocabrands.com/){:target="\_blank"}) but how can we get even more out of the content we create and collect? Koii has built the attention economy into the infrastructure of the network, meaning every app built on our framework will track attention and earn KOII daily. This framework will be cross-chain compatible.
 
-Check out our proof-of-concept dApp by minting an NFT on [koi.rocks](https://koi.rocks/contents){:target="\_blank"}, and start earning attention rewards for the views your content gets. And because Koii is leveraged by Arweave you never have to worry about your content being taken down, it is in the permaweb for good.
+Check out our proof-of-concept dApp by minting an NFT on [koi.rocks](https://www.koii.network){:target="\_blank"}, and start earning attention rewards for the views your content gets. And because Koii is leveraged by Arweave you never have to worry about your content being taken down, it is in the permaweb for good.
 
 Pre-register today to run a [node](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform){:target="\_blank"}, and earn KOII for powering the network. No need for terabyte SSD’s or powerful computers to run a Koii Node, just 1gb of RAM and a morsel of hard drive space.
 
 **Better media makes a better world; decentralization lets you own it.**
 
-To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents){:target="\_blank"} or check out our [tutorial](/Simplified-Finnie-Installation-Guide/){:target="\_blank"} to learn how.
+To start earning attention rewards on your NFTs, register them at [koi.rocks](https://www.koii.network){:target="\_blank"} or check out our [tutorial](/Simplified-Finnie-Installation-Guide/){:target="\_blank"} to learn how.
 
 Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"}_, and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"}_.

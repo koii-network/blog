@@ -13,7 +13,7 @@ First, in order to interact with the Koii ecosystem, you need a wallet that is c
 
 **Lets get started**
 
-Now that you have AR and KOII, let’s get started! To register your NFTs on the Koii Network, go to [koi.rocks](https://koi.rocks/contents){:target="\_blank"}. There you will find the Top Content leaderboard. Each of the NFTs on the leaderboard earns tokens every time you or anyone loads the page, so if you can get in the top 10, you’ll be earning right and left and center.
+Now that you have AR and KOII, let’s get started! To register your NFTs on the Koii Network, go to [koi.rocks](https://www.koii.network){:target="\_blank"}. There you will find the Top Content leaderboard. Each of the NFTs on the leaderboard earns tokens every time you or anyone loads the page, so if you can get in the top 10, you’ll be earning right and left and center.
 
 Click on the turquoise banner where it says, "Drag, Drop, Earn.” From here you’ll be able to import NFTs from OpenSea, or manually upload an image to create a new NFT stored exclusively on Arweave.
 
@@ -49,7 +49,7 @@ Once the first step of the import process is complete, this page will appear:
 
 ![Opensea blog tutorial](/assets/images/blog/Openseaimage9.png)
 
-As soon as you see this, you are free to roam around [koi.rocks](https://koi.rocks/contents){:target="\_blank"}. Right now, we are still experimenting with the bundler nodes, so it may take a few minutes before you see your NFT in “My Content” or on the Leaderboard. Rest assured, they will appear soon!
+As soon as you see this, you are free to roam around [koi.rocks](https://www.koii.network){:target="\_blank"}. Right now, we are still experimenting with the bundler nodes, so it may take a few minutes before you see your NFT in “My Content” or on the Leaderboard. Rest assured, they will appear soon!
 
 Lastly, share them with your network so you start earning KOII for the attention your NFTs receive!
 
@@ -57,7 +57,7 @@ Lastly, share them with your network so you start earning KOII for the attention
 
 Join the revolution and pre-register to run a node [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform){:target="\_blank"}.
 
-To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents){:target="\_blank"} or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/){:target="\_blank"} to learn how.
+To start earning attention rewards on your NFTs, register them at [koi.rocks](https://www.koii.network){:target="\_blank"} or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/){:target="\_blank"} to learn how.
 
 Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"}_, and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"}_.
 

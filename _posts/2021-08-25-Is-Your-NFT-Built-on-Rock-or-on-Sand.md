@@ -67,6 +67,6 @@ Stay up-to-date with our Atomic NFT standard over at [atomicnft.com](https://ato
 
 If you want some hands-on experience minting an Atomic NFT, the best way to get started is with the Finnie wallet browser extension. To get set up, follow the link and tutorial at [https://koii.network/getFinnie](https://koii.network/getFinnie){:target="\_blank"}.
 
-Once you have Finnie installed, try minting your first Atomic NFT on rock instead of sand over at [koi.rocks](https://koi.rocks/){:target="\_blank"}.
+Once you have Finnie installed, try minting your first Atomic NFT on rock instead of sand over at [koi.rocks](https://www.koii.network){:target="\_blank"}.
 
 Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}
