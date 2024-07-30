@@ -161,4 +161,4 @@ Join the revolution and pre-register to run a node [here](https://docs.google.co
 
 To start earning attention rewards on your NFTs, register them now at [koi.rocks](https://koi.rocks/contents){:target="\_blank"}
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koii's [Discord](https://discord.gg/koii-network), and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}).
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koii's [Discord](https://discord.gg/{{ site.discord.invite }}), and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}).

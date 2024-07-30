@@ -25,4 +25,4 @@ _If you're reading this you're with us on the ground floor of the Koii project, 
 
 We believe protecting artists' ownership of their own work is crucial. We're asking all of you to help keep creators in the forefront of Koii's mission by creating a <u>culture of ownership</u>, only uploading content you create or have purchased, not something lifted from google.
 
-If you have feedback on this topic, we’re eager to hear it— share your thoughts directly in our [Discord](https://discord.gg/koii-network){:target="\_blank"}!
+If you have feedback on this topic, we’re eager to hear it— share your thoughts directly in our [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"}!
