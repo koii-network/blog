@@ -51,4 +51,4 @@ Twitter: [@ttl_anderson](https://twitter.com/ttl_anderson){:target="\_blank"}<br
 itch.io - [https://slimefriend.itch.io/](https://slimefriend.itch.io/){:target="\_blank"}<br>
 portfolio - [https://taylor-anderson.work/](https://taylor-anderson.work/){:target="\_blank"}
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koii-network){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}

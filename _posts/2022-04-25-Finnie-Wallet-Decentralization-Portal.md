@@ -15,7 +15,7 @@ Other crypto wallets provide these services, so what makes Finnie stand out? Sim
 
 ## Who is Finnie For?
 
-_Everyone._ 
+_Everyone._
 
 Within minutes, someone who has never used or held crypto before can interact with a blockchain, hold crypto, mint an NFT and own a little piece of the decentralized web.
 
@@ -32,7 +32,7 @@ There is a similar excitement around blockchain and crypto-based technologies. H
 
 _We’re not totally sure._
 
-Let us rephrase that. We are not aware of _everything_ that can be done with this technology. 
+Let us rephrase that. We are not aware of _everything_ that can be done with this technology.
 
 Think of Finnie as a portal that allows anyone to interact with decentralized networks. It enables developers to envision building applications that can take advantage of multiple blockchains. Currently, Finnie allows you to hold and transfer cryptocurrencies/tokens, mint NFTs, NFT collections, manage cryptographic keys and maintain a decentralized personal profile or DID.
 
@@ -44,7 +44,7 @@ Max is interested in cryptocurrency and wants to experience what Web3 is all abo
 
 _Now the fun starts._
 
-Max is a photographer and has never minted an NFT before. He likes the idea of using decentralized storage like Arweave to preserve his photos forever and be completely decentralized. He mints one of his early pieces and shares it on his socials. Every time someone checks out his NFT, he earns some extra KOII through [attention rewards](https://blog.koii.network/attention-reward/){:target="\_blank"}. Encouraged, Max decides to preserve more of his work as NFTs and earn passive income from the attention it generates. Next, Max chooses to create a Decentralized ID (DID) with his Finnie Wallet. This DID links to the gallery of his minted NFTs and acts as a decentralized profile page that can be fully customized. He adds links to his socials and his auction site so that people can learn more about his photography, and even buy his work.
+Max is a photographer and has never minted an NFT before. He likes the idea of using decentralized storage like Arweave to preserve his photos forever and be completely decentralized. He mints one of his early pieces and shares it on his socials. Every time someone checks out his NFT, he earns some extra KOII through [attention rewards](/attention-reward/){:target="\_blank"}. Encouraged, Max decides to preserve more of his work as NFTs and earn passive income from the attention it generates. Next, Max chooses to create a Decentralized ID (DID) with his Finnie Wallet. This DID links to the gallery of his minted NFTs and acts as a decentralized profile page that can be fully customized. He adds links to his socials and his auction site so that people can learn more about his photography, and even buy his work.
 
 ### Are Your NFTs Locked on the Koii Network?
 

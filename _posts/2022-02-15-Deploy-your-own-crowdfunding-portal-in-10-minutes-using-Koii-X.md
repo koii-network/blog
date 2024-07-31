@@ -41,13 +41,13 @@ We will be using [Arweave-deploy](https://docs.koii.network/build-dapps-with-koi
 
 ### Arweave wallet.json file
 
-You can export your json file from Finnie, create a new one, or get a wallet directly from Arweave. You will need some AR in order to deploy your dApp as it will be stored on the Arweave permaweb. The AR covers your storage fee. You can get some from the [Koii faucet](https://koi.rocks/faucet){:target="\_blank"} or various marketplaces.
+You can export your json file from Finnie, create a new one, or get a wallet directly from Arweave. You will need some AR in order to deploy your dApp as it will be stored on the Arweave permaweb. The AR covers your storage fee. You can get some from the [Koii faucet](https://faucet.koii.network){:target="\_blank"} or various marketplaces.
 
 Place a copy of this file named wallet.json in the root Koii-Fundraiser folder. You will need this in the folder in order to deploy your dApp.
 
 ## Ready, set, build!
 
-Now that we have all the tools we need, we are going to install and customize a Crowdfunding Portal! You could also deploy a Leaderboard dApp similar to the [Koii Atomic NFT leaderboard](https://koi.rocks/){:target="\_blank"} using the same methods. For more information on how to do that visit [the docs portal](https://docs.koii.network/build-dapps-with-koii/template-library/leaderboard-app){:target="\_blank"}. For now, let’s get started with installing our template.
+Now that we have all the tools we need, we are going to install and customize a Crowdfunding Portal! You could also deploy a Leaderboard dApp similar to the [Koii Atomic NFT leaderboard](https://www.koii.network){:target="\_blank"} using the same methods. For more information on how to do that visit [the docs portal](https://docs.koii.network/build-dapps-with-koii/template-library/leaderboard-app){:target="\_blank"}. For now, let’s get started with installing our template.
 
 ## Installation
 
@@ -92,7 +92,7 @@ Bonus: You can add attention tracking and receive KOII when people visit your po
 
 Creating a dApp really is that simple. Go forth and raise money to fund your project! We will be adding templates for different types of applications, so keep an eye out.
 
-If you have any questions, jump into the [Discord](https://discord.gg/koii-network){:target="\_blank"} and we’ll help you out! And let us know what features and templates you want to see next.
+If you have any questions, jump into the [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"} and we’ll help you out! And let us know what features and templates you want to see next.
 
 [Check us out](http://koii.me/u/koii){:target="\_blank"} and follow our socials to keep up to date with the latest developments
 

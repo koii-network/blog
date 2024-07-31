@@ -9,16 +9,16 @@ Koii Network has the technology to help BUIDLrs fix what's wrong with the intern
 
 For those new to Koii, the network is designed to streamline building cross-chain applications, with a focus on usability and transparency. There are too many people competing to be the **only blockchain**, and we are here to help you use multiple chains to build better applications.
 
-We are building the tools to make it easier to deploy **applications that are transparent, fair, and pay you directly in KOII** for the attention your content or app receives. KOII tokens are mined by creating quality content that accumulates views and interactions, which we track through verifiable [Proofs of Real Traffic (PoRT)](https://koii.network/proofs-of-real-traffic.pdf){:target="\_blank"}
+We are building the tools to make it easier to deploy **applications that are transparent, fair, and pay you directly in KOII** for the attention your content or app receives. KOII tokens are mined by creating quality content that accumulates views and interactions, which we track through verifiable Proofs of Real Traffic (PoRT).
 
 Developers who implement our simple-to-run Javascript-based SDK in their projects will be able to take advantage of Koii’s unique technology stack, including:
 
-- [PoRT (Proofs of Real Traffic)](https://koii.network/proofs-of-real-traffic.pdf){:target="\_blank"} track attention and award [Koii Tokens](https://blog.koii.network/What-Is-The-Attention_Economy/){:target="\_blank"}
+- PoRT (Proofs of Real Traffic) track attention and award [Koii Tokens](/What-Is-The-Attention_Economy/)
 - [Atomic NFTs](https://atomicnft.com){:target="\_blank"} store all media on-chain
-- [Finnie Wallet](https://github.com/koii-network/Finnie.site){:target="\_blank"} makes it easy to build cross-chain dApps and manage NFTs
-- [Koii DID (Decentralized ID)](https://blog.koii.network/DID/){:target="\_blank"} gives each user a unique profile page and identity
-- [Koii Nodes (Tasks)](https://koii.network/earn/everyone){:target="\_blank"} provide your back end, like APIs and web services
-- [Cross-chain bridging](https://blog.koii.network/Ethereum-to-Koii/){:target="\_blank"} and more
+- [Finnie Wallet](https://www.koii.network/getFinnie){:target="\_blank"} makes it easy to build cross-chain dApps and manage NFTs
+- [Koii DID (Decentralized ID)](/DID/) gives each user a unique profile page and identity
+- [Koii Nodes (Tasks)](https://www.koii.network/nodes) provide your back end, like APIs and web services
+- [Cross-chain bridging](/Ethereum-to-Koii/) and more
 
 ### Koii-X
 
@@ -41,12 +41,10 @@ For this example, we will use a Koii-X template for deploying a crypto crowdfund
 4. Deploy to Arweave using **Yarn build** and **Yarn deploy**
 5. Open deployed application by going to https://arweave.net/”TXID” (TXID of your app deployment TX)
 
-For a more detailed guide, check out our [step-by-step tutorial](https://docs.koii.network/build-dapps-with-koii/template-library/crowdfunding-portal){:target="\_blank"}.
-
 ### Our Goal
 
 You can customize these templates endlessly for your needs. But with a few simple commands, Koii-X templates open up a world of opportunities while saving time for experienced developers. Keep an eye out for more tutorials as we expand the template libraries.
 
 We want to build a decentralized Internet and we’re going to need a lot of decentralized websites to accomplish that. Our mission at Koii is to make dApps not only easy to build, but easy to monetize as well—so easy that they become the default choice for developers.
 
-We have only just scratched the surface of what's possible with Koii. Make sure you check out the [Koii docs portal](http://koii.me/dev_docs){:target="\_blank"} for more documentation, and feel free to reach out to us at [http://koii.me/support](http://koii.me/support){:target="\_blank"} with any questions and don't forget to sign up for our [ETH Denver Workshop](https://koii.me/ETHDenWorkshop){:target="\_blank"} for a live demonstration.
+We have only just scratched the surface of what's possible with Koii. Make sure you check out the [Koii docs portal](https://www.koii.network/docs) for more documentation, and feel free to reach out to us at [http://koii.me/support](http://koii.me/support){:target="\_blank"} with any questions.

@@ -49,4 +49,4 @@ K2 provides a brand new settlement layer for bundling tasks and transactions. Ev
 
 The K2 settlement layer is a fully decentralized payments graph operated by staking KOII tokens. K2 ensures that the Koii Network will not be compromised when other networks have downtime or potential security issues. K2 is a perfect product fit for builders and creators on the blockchain.
 
-If you are interested in building on K2, [start with a grant application](https://koii.network/form/partnership/){:target="\_blank"} and you'll be well on your way. [Join the Koii-munity](https://t.me/koiinetwork){:target="\_blank"} to get the latest updates for K2 and other products in the Koii ecosystem.
+If you are interested in building on K2, [start with a grant application](https://www.koii.network/form/partnership/){:target="\_blank"} and you'll be well on your way. [Join the Koii-munity](https://t.me/koiinetwork){:target="\_blank"} to get the latest updates for K2 and other products in the Koii ecosystem.

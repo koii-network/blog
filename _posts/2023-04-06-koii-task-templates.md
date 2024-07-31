@@ -12,18 +12,18 @@ As the world becomes more gig-based, internet application development is no exce
 
 <div class="more" style="text-align: center;"><b>Decentralization is hard, but Koii tasks make it easy.</b></div><br/>
 
-The internet should belong to the people. We can take back the power over our data and our privacy by expanding the gig economy to include internet hosting and data processing. 
+The internet should belong to the people. We can take back the power over our data and our privacy by expanding the gig economy to include internet hosting and data processing.
 
 
 ## Template Adoption is Skyrocketing
 
 With over 1,000 downloads, projects are embracingthe task template. They are leveraging our structured framework to save time writing requirements for their dApp **_all in JavaScript._** No need to start from scratch or learn a whole new language. It’s made by developers, for developers.
 
-Each of these projects can also **reward their communities by paying them to host their applications**. As the task writer, you decide the number of tokens dispensed for using people’s personal devices as mini-servers. This method is significantly more cost-effective than using centralized servers like Google Cloud, Microsoft Azure, or AWS. The task economy enables developers to interact directly with users, bypassing the data-harvesting middle-man corporations. 
+Each of these projects can also **reward their communities by paying them to host their applications**. As the task writer, you decide the number of tokens dispensed for using people’s personal devices as mini-servers. This method is significantly more cost-effective than using centralized servers like Google Cloud, Microsoft Azure, or AWS. The task economy enables developers to interact directly with users, bypassing the data-harvesting middle-man corporations.
 
 **Our developer ecosystem is growing fast because building tasks is easy.**
 
-That’s why we created a framework for developers to access global compute power, ensuring a smooth experience for task writers. It takes [less than five minutes](https://blog.koii.network/How-to-deploy-a-koii-task-in-less-than-5mins/){:target="\_blank"} to deploy a simple task and we’ve crafted a [task outline](https://www.figma.com/community/file/1220194939977550205){:target="\_blank"} to help you plan out each step for more complicated features. Our goal is to get your dApps up and running as fast as possible—you are changing the internet, and we’re making it easy for you.
+That’s why we created a framework for developers to access global compute power, ensuring a smooth experience for task writers. It takes [less than five minutes](/How-to-deploy-a-koii-task-in-less-than-5mins/){:target="\_blank"} to deploy a simple task and we’ve crafted a [task outline](https://www.figma.com/community/file/1220194939977550205){:target="\_blank"} to help you plan out each step for more complicated features. Our goal is to get your dApps up and running as fast as possible—you are changing the internet, and we’re making it easy for you.
 
 <div class="more" style="text-align: center;">
 <button class="button" onclick="window.open('https://www.npmjs.com/package/@_koii/create-task-cli')" id="myBtn" style="font-size: 1.5rem;" target="_blank" >Try the Task Template Today</button>
@@ -34,18 +34,18 @@ That’s why we created a framework for developers to access global compute powe
 Tasks streamline the structure of dApps by breaking it down into four key components: writing task logic in JavaScript, an audit process, distributing rewards, and collateral.
 
 
-1. **[Task](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/k2-task-template/task-function){:target="\_blank"}** 
+1. **[Task](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/k2-task-template/task-function){:target="\_blank"}**
 The `task` function contains the core logic of a Koii task. The logic for the nodes’ work is written here. The proof of work is usually represented as a CID or hash.
 2. **[Audit](https://docs.koii.network/develop/microservices-and-tasks/task-development-guide/k2-task-template/audit-function){:target="\_blank"}**
-    Audit functions are defined to validate a node's submission, vote on audits, and verify the distribution of rewards. This multi-round confirmation process, called [Gradual Consensus](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus), resembles a production line where workers are randomly selected to review their colleagues’ work, rejecting entire batches or penalizing them for sub-par performance.  
+    Audit functions are defined to validate a node's submission, vote on audits, and verify the distribution of rewards. This multi-round confirmation process, called [Gradual Consensus](https://docs.koii.network/microservices-and-tasks/what-are-tasks/gradual-consensus), resembles a production line where workers are randomly selected to review their colleagues’ work, rejecting entire batches or penalizing them for sub-par performance.
 
-3. **[Reward](https://docs.koii.network/develop/microservices-and-tasks/what-are-tasks/gradual-consensus){:target="\_blank"}** 
-Once the distribution list has been validated and any malicious nodes removed, rewards are distributed among participating nodes. 
-4. **[Collateral](https://docs.koii.network/develop/microservices-and-tasks/what-are-tasks/staking-and-voting#docusaurus_skipToContent_fallback){:target="\_blank"}** 
+3. **[Reward](https://docs.koii.network/develop/microservices-and-tasks/what-are-tasks/gradual-consensus){:target="\_blank"}**
+Once the distribution list has been validated and any malicious nodes removed, rewards are distributed among participating nodes.
+4. **[Collateral](https://docs.koii.network/develop/microservices-and-tasks/what-are-tasks/staking-and-voting#docusaurus_skipToContent_fallback){:target="\_blank"}**
 
 If a participating node is found to be acting fraudulently, its staked tokens can be confiscated (i.e. slashed) by other nodes so that it can be safely removed from the voting pool.
 
-We say easy as 1, 2, 3 because usually step 4 should never happen in a well-established staking pool. The simple threat of slashing is usually enough to prevent would-be attackers from even trying. 
+We say easy as 1, 2, 3 because usually step 4 should never happen in a well-established staking pool. The simple threat of slashing is usually enough to prevent would-be attackers from even trying.
 
 
 
@@ -54,7 +54,7 @@ We say easy as 1, 2, 3 because usually step 4 should never happen in a well-esta
 
 ## A Better Standard for Web3 (and Beyond)
 
-You’ve probably noticed the flood of dApps in the Web3 market. What they’re missing is a way to deploy these applications _efficiently_. The task template is the solution and Koii makes it easier than ever for developers to build truly decentralized apps. 
+You’ve probably noticed the flood of dApps in the Web3 market. What they’re missing is a way to deploy these applications _efficiently_. The task template is the solution and Koii makes it easier than ever for developers to build truly decentralized apps.
 
 
 ## Cloud Computing, AI, and More
@@ -77,7 +77,7 @@ We’re optimizing AI development as well. Services like [ChatGPT](https://opena
 
 ## Brace for Takeoff
 
-Our task template revolutionizes the industry by upgrading the speed at which dApps can get up and running. Developers can get started by forking [this repository](https://github.com/koii-network/task-template){:target="\_blank"} to start building. Without this, developers would have to start from scratch, and design their own raw systems. 
+Our task template revolutionizes the industry by upgrading the speed at which dApps can get up and running. Developers can get started by forking [this repository](https://github.com/koii-network/task-template){:target="\_blank"} to start building. Without this, developers would have to start from scratch, and design their own raw systems.
 
 We’ve already seen a number of developers using the template, and it is quickly becoming the standard. As the broader community adopts tasks as the go-to model for building apps, we will push Web3 development further than we’ve seen before.
 
@@ -104,4 +104,4 @@ We’ve already seen a number of developers using the template, and it is quickl
 </style>
 
 
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

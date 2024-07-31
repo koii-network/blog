@@ -63,4 +63,4 @@ Join us for this groundbreaking event by registering [**HERE**](https://lu.ma/iy
 
 <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
 
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

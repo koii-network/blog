@@ -23,4 +23,4 @@ Koii is a decentralized ecosystem that gives ownership back to creators, rewardi
 
 To top it off, Koii is built on Arweave’s permaweb, meaning users never have to worry about their content being taken down or owned by other entities. Take back control with Koii.
 
-Head to [koi.rocks](https://koi.rocks/contents) to upload your NFT and start earning attention rewards now!
+Head to koi.rocks to upload your NFT and start earning attention rewards now!

@@ -48,5 +48,3 @@ We're working to ensure everyone can participate, and everyone can be rewarded. 
 Let's leave the Kings in the past, where they belong.
 
 Long live the Humans.
-
-The latest version of this post and project has been documented here https://koii.network/universal-content-registry.pdf

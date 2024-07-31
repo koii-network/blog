@@ -13,7 +13,7 @@ As more and more businesses move online, their processes must adapt to suit. In 
 One major productive boost from increasing online activity is in any sector that tracks human activity. With everyone spending more and more time online, our data is now more and more accurate. It shouldn't be just a tool for the Google and Facebook caste, so we're working on making it easy for anyone to make use of online intelligence.
 
 <h3>Our Thesis</h3>
-With better access to the tools of web3, individuals within our society will learn to better position themselves, and take advantage of new opportunities with greater ease and sophistication. Tools like Salesforce and Shopify have revolutionized business processes, and make it possible for anyone to quickly scale traditional business models faster than ever before.  
+With better access to the tools of web3, individuals within our society will learn to better position themselves, and take advantage of new opportunities with greater ease and sophistication. Tools like Salesforce and Shopify have revolutionized business processes, and make it possible for anyone to quickly scale traditional business models faster than ever before.
 
 <h3>Why Web Scraping</h3>
 GoldFish, at it's core, is a web scraper. You tell us the URL you want to view, and we set up a process to check that page and extract structured data to meet your specifications. This process of creating structure from noise is why we exist, and our current tools are just the beginning of what we hope to accomplish.
@@ -35,8 +35,3 @@ Configure how you want your data delivered. We currently support SMS, Email, Web
 
 <h4>Kick back and let your scraper do the work</h4>
 Read your headlines in bed.
-
-
-
-
-

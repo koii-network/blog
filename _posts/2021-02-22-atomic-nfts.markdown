@@ -41,7 +41,7 @@ As human beings, we survive (and thrive) based mainly on our ability to make goo
 
 # Quality is Valuable
 
-Influencer marketing has rapidly grown to be the most effective form of advertising, but has also been short lived. The question is, can we capture the value of information in another way? (<a target="_blank" href="https://koii.network/whitepaper.pdf">Yes!</a>)
+Influencer marketing has rapidly grown to be the most effective form of advertising, but has also been short lived. The question is, can we capture the value of information in another way? (<a target="_blank" href="https://www.koii.network/whitepaper.pdf">Yes!</a>)
 
 The Koii Network rewards reliable content curation by rewarding creators that drive the most attention and engagement on the platform. Rewards earned from attention can then be spent to submit more content to the network, or to pay others to help curate information to ensure that viewers have the full picture, and thereby reduce clickbait and other forms of false attention signals.
 

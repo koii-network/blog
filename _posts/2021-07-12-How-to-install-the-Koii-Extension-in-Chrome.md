@@ -11,7 +11,7 @@ To get started just follow these steps and your new browsing companion Finnie wi
 
 To install the extension manually you need to download and unzip the file first. Then follow the steps to load the Finnie Wallet into your browser.
 
-To download the extension, go to [koii.network/getFinnie](https://koii.network/getFinnie){:target="\_blank"}. This will automatically begin the download. Then unzip (or extract) the folder.
+To download the extension, go to [koii.network/getFinnie](https://www.koii.network/getFinnie){:target="\_blank"}. This will automatically begin the download. Then unzip (or extract) the folder.
 
 ![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step1.png)
 
@@ -35,12 +35,12 @@ And Finnie should be ready to go. To see Finnie in your extension menu, click on
 
 ![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step6.png)
 
-Now you’re ready to go. Be sure to share your feedback with us via [Discord](https://discord.gg/koii-network){:target="\_blank"} or by sending us an email at [support@koii.network](mailto:support@koii.network){:target="\_blank"}.
+Now you’re ready to go. Be sure to share your feedback with us via [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"} or by sending us an email at [support@koii.network](mailto:support@koii.network){:target="\_blank"}.
 
 **Better media makes a better world; decentralization lets you own it.**
 
 Join the revolution and pre-register to run a node [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform){:target="\_blank"}
 
-To start earning attention rewards on your NFTs, register them now at [koi.rocks](https://koi.rocks/contents){:target="\_blank"}
+To start earning attention rewards on your NFTs, register them now at koi.rocks
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koii's [Discord](https://discord.gg/koii-network), and follow us on [Twitter](https://twitter.com/KoiiNetwork).
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koii's [Discord](https://discord.gg/{{ site.discord.invite }}), and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}).

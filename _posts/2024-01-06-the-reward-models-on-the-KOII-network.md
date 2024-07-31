@@ -49,4 +49,4 @@ Koii’s array of reward models showcases its dedication to adaptability and inc
 
 For more detailed information and to delve into the specifics of these models, please visit the official Koii website at [HERE](https://www.koii.network/){:target="\_blank"} and the comprehensive documentation at [HERE](https://docs.koii.network/){:target="\_blank"}.
 
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
