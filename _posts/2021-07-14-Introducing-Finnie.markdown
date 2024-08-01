@@ -8,7 +8,7 @@ image: assets/images/blog/Koi_blogimg_opt4_052120.png
 Hi folks, today is a great day to make NFTs!
 The Finnie Wallet is the newest tool from the Koii Network, where you can create NFTs in under 1 minute, for less than $0.01. (Setup takes about 2 minutes.)
 
-There are a few really cool features with the Finnie Wallet that make NFTs and digital art more accessible to wider audiences (see this [blog post](https://blog.koii.network/Almost-Infinite/) about Atomic NFTs to learn more):
+There are a few really cool features with the Finnie Wallet that make NFTs and digital art more accessible to wider audiences (see this [blog post](/Almost-Infinite/) about Atomic NFTs to learn more):
 
 - Minting Atomic NFTs is extremely affordable
 - Finnie uses [Arweave](https://www.arweave.org/) to store your content forever
@@ -159,6 +159,6 @@ Click “Confirm Registration.” After a few moments, your transaction will app
 
 Join the revolution and pre-register to run a node [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform){:target="\_blank"}
 
-To start earning attention rewards on your NFTs, register them now at [koi.rocks](https://koi.rocks/contents){:target="\_blank"}
+To start earning attention rewards on your NFTs, register them now at koi.rocks
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koii's [Discord](https://discord.gg/koii-network), and follow us on [Twitter](https://twitter.com/KoiiNetwork).
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koii's [Discord](https://discord.gg/{{ site.discord.invite }}), and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}).

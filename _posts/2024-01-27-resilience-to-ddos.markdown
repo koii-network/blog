@@ -55,4 +55,4 @@ _For more information or help in future situations, be sure to follow us and joi
 - Newsletter:[ \[ Click Here \]](https://www.koii.network/#footer:~:text=press%40koii.network-,GET%20IN%20THE%20NODE,-GET%20EARLY%20ACCESS)
 
 
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

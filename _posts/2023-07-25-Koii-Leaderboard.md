@@ -12,10 +12,10 @@ We are very excited to announce the [Koii Leaderboard!](https://leaderboard.koii
 
 See the activity across Koii’s ecosystem. All nodes will appear here—see if you can find yourself in the top ten on one of our featured tasks! Each week there will be contests with different prizes. Some will be quick contests with small prizes, and others will be big events with even bigger rewards. There’s something for everyone. Run your node, refer a friend, and let’s have some fun together.
 
- 
+
 Some of you have been with us since Koii’s first leaderboard, where people competed for attention on their NFTs. If that’s you, we are so grateful that you’ve been with us all along the way. Let’s dig into the mechanics; check it out!
 
-  
+
 
 ## How it works
 
@@ -29,7 +29,7 @@ Starting at the top of every hour and running through 59 minutes past, every tim
 
 The 12-hour rally isn’t a raffle… it’s a competition! The accounts that get the most tickets—make the most submissions—win. The three people with the most points will be awarded KOII tokens. 1st place wins 100 KOII, 2nd place wins 50 KOII, and 3rd place wins 25 KOII.
 
-  
+
 
 # The Weekly Draw
 
@@ -38,9 +38,9 @@ Similar to the Hourly Raffle, each person will receive one ticket every time the
 ### Eligibility Requirements for the weekly draw
 
 To be eligible for these prizes, you must:
-    
+
 -   Verify your email address through the [Koii Faucet](https://faucet.koii.network/){:target="\_blank"},
-    
+
 -   If you win, you must retweet our tweet announcing your victory.
 
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

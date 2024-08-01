@@ -31,9 +31,9 @@ Now you might be wondering, “What can I do to help the project? What can I do 
 
 - Download Finnie!
 
-  Have yet to download the Finnie Wallet? Head [here](https://koii.network/getFinnie){:target="\_blank"} to install Finnie in Chrome and start using your new browsing companion - you can create NFTs in under 1 minute, for less than $0.01 (and setup takes about 2 minutes). Our goal is to reach 10,000 users this month, help us get there now!
+  Have yet to download the Finnie Wallet? Head [here](https://www.koii.network/getFinnie){:target="\_blank"} to install Finnie in Chrome and start using your new browsing companion - you can create NFTs in under 1 minute, for less than $0.01 (and setup takes about 2 minutes). Our goal is to reach 10,000 users this month, help us get there now!
 
-  [![image 4](/assets/images/blog/08-11/image4.png)](https://koii.network/getFinnie){:target="\_blank"}
+  [![image 4](/assets/images/blog/08-11/image4.png)](https://www.koii.network/getFinnie){:target="\_blank"}
 
 - Find bugs!
 
@@ -49,9 +49,9 @@ Now you might be wondering, “What can I do to help the project? What can I do 
 
 - Create and share NFTs!
 
-  A super easy (and fun!) way to help grow the network is simply by creating and sharing NFTs on [koi.rocks](https://koi.rocks/contents){:target="\_blank"} - once you register your NFT our social share option makes it super easy to share with your friends and followers (plus the more people you share it with, the more attention rewards you’ll earn!)
+  A super easy (and fun!) way to help grow the network is simply by creating and sharing NFTs on koi.rocks - once you register your NFT our social share option makes it super easy to share with your friends and followers (plus the more people you share it with, the more attention rewards you’ll earn!)
 
-  [![image 7](/assets/images/blog/08-11/image7.png)](https://koi.rocks/contents){:target="\_blank"}
+  [![image 7](/assets/images/blog/08-11/image7.png)](https://www.koii.network){:target="\_blank"}
 
 - Create and share Koii content!
 
@@ -67,4 +67,4 @@ Now you might be wondering, “What can I do to help the project? What can I do 
 
 As you can see, there are many ways to help Koii grow and thrive. We really appreciate any and all efforts our community members put in to help us. Please share this article and try out some of our suggestions. Share what you do with us on Twitter for a chance to win some KOII and use the hashtag #KoiiToTheMoon!
 
-Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/koii-network){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}
+Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="\_blank"} channel, Koii's [Discord](https://discord.gg/{{ site.discord.invite }}){:target="\_blank"}, and follow us on [Twitter](https://twitter.com/{{ site.twitter.username }}){:target="\_blank"}. 100K KOII, [Enter to win!](https://gleam.io/c3Cwz/-welcome-to-the-koii-drop-){:target="\_blank"}

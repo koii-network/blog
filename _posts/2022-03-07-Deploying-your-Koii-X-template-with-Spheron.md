@@ -7,7 +7,7 @@ image: assets/images/blog/DApps-Kx.png
 
 Deploy your Koii-X template directly from GitHub using Spheron
 
-_This tutorial assumes you have completed the [customization of your dApp](https://blog.koii.network/Deploy-your-own-crowdfunding-portal-in-10-minutes-using-Koii-X/){:target="\blank"} and it is already stored in a GitHub repo. You DO NOT need to include your wallet.json in this repo for deployment to be successful._
+_This tutorial assumes you have completed the [customization of your dApp](/Deploy-your-own-crowdfunding-portal-in-10-minutes-using-Koii-X/){:target="\blank"} and it is already stored in a GitHub repo. You DO NOT need to include your wallet.json in this repo for deployment to be successful._
 
 ## Getting Started
 

@@ -3,7 +3,7 @@ layout: post
 title: "Content Collectives"
 subtitle: "The new standard for media-driven, community-owned DAOs"
 button: "Open the Paper"
-buttonlink: /Content Collectives.pdf
+buttonlink: /Content-Collectives.pdf
 author: true
 authorlink:
 categories: [Announcement]
@@ -46,4 +46,4 @@ A _Content Collective_ is a type of Decentralized Autonomous Organization (DAO).
 }
     </style>
 
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

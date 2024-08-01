@@ -16,7 +16,7 @@ image: assets/images/townhall_4.png
   tabindex="0"
 ></iframe>
 
-## Koii Town Hall #4 
+## Koii Town Hall #4
 As the digital landscape continues to evolve, the importance of network resilience has never been more paramount. In this era of unprecedented digital challenges, Koii stands as a beacon of innovation and stability. This week, the Koii ecosystem is abuzz with anticipation as we approach Town Hall #4, scheduled for January 31st. With a central theme of Network Resilience, this event promises to be a cornerstone for the Koii community and beyond.
 
 **Koii News Update: A Glimpse into the Future**
@@ -44,4 +44,4 @@ Join us as we navigate the waves of change together, reinforcing the foundations
 Join the event through [Gather](https://app.gather.town/app/5DASgNHoUdz2HgpV/koii%20garden){:target="\_blank"}
 
 
-*Start your first node at* [here](https://koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟
+*Start your first node at* [here](https://www.koii.network/node?&utm_campaign=node&utm_medium=koii&utm_source=blog){:target="\_blank"}🌟

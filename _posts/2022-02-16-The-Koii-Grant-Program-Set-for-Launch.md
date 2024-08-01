@@ -75,4 +75,4 @@ In total, there is $1 million available in grants and each grant winner will rec
 
 If you've got an idea that fits into any of the categories listed above, don’t wait! Submit your application now and build something spectacular.
 
-[Apply for a grant now!](https://koii.network/form/grant/){:target="\_blank"}
+[Apply for a grant now!](https://www.koii.network/form/grant/){:target="\_blank"}

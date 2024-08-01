@@ -10,7 +10,7 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						{% for category in page.categories %}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+                          <a class="sscroll text-danger" href="{{ 'categories.html#' | relative_url }}{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
 					</p>
@@ -19,10 +19,10 @@ layout: default
 					<div class="d-flex align-items-center">
 						<small>
 							{% if page.author == true %}
-							By: <a href="https://twitter.com/kaylakroot" target="_blank">kaylakroot</a>, 
-							<a href="https://twitter.com/al_koii" target="_blank">al_koii</a>, 
-							<a href="https://twitter.com/art_icu_late" target="_blank">art_icu_late</a>, 
-							<a href="https://twitter.com/ColinZarzour" target="_blank">ColinZarzour</a>, 
+							By: <a href="https://twitter.com/kaylakroot" target="_blank">kaylakroot</a>,
+							<a href="https://twitter.com/al_koii" target="_blank">al_koii</a>,
+							<a href="https://twitter.com/art_icu_late" target="_blank">art_icu_late</a>,
+							<a href="https://twitter.com/ColinZarzour" target="_blank">ColinZarzour</a>,
 							{% elsif page.author %}
 							By: <a href="{{ page.authorlink }}" target="_blank">{{ page.author }}</a>
 							{% endif %}
@@ -32,14 +32,14 @@ layout: default
 					<div class="d-flex align-items-center mt-3">
 						{% if page.button %}
 						<span>
-							<a target="_blank" href="{{ page.buttonlink }}" class="btn btn-outline-success btn-md btn-round ml-1">{{page.button}}</a>
+							<a target="_blank" href="{{ page.buttonlink | relative_url }}" class="btn btn-outline-success btn-md btn-round ml-1">{{page.button}}</a>
 						</span>
 						{% endif %}
 					</div>
 				</div>
                 {% if page.image %}
 				<div class="col-md-6 pr-0 align-self-center">
-					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | relative_url}}{% endif %}" alt="{{ page.title }}">
 				</div>
                 {% endif %}
 			</div>
@@ -53,8 +53,8 @@ layout: default
 
 <div class="container-lg pt-4 pb-4">
 	<div class="row justify-content-center">
-        
-        
+
+
         <!-- Share -->
 		<div class="col-lg-2 pr-4 mb-4 col-md-12">
 			<div class="sticky-top sticky-top-offset text-center">
@@ -73,24 +73,24 @@ layout: default
 				</div>
 			</div>
 		</div>
-        
-        
+
+
 		<div class="col-md-12 col-lg-8">
-            
+
             <!-- Article -->
-			<article class="article-post">                
-			{{ content }}                
+			<article class="article-post">
+			{{ content }}
 			</article>
-			
+
 			<!-- Tags -->
 			<div class="mb-4">
 				<span class="taglist">
 				{% for tag in page.tags %}
-				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
+				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{ 'tags.html#' | relative_url }}{{ category | downcase }}">{{ tag | downcase }}</a>
 				{% endfor %}
 				</span>
 			</div>
- 
+
             <!-- Mailchimp Subscribe Form -->
             {% if site.mailchimp-list %}
 			<div class="border p-5 bg-lightblue">
@@ -122,33 +122,33 @@ layout: default
                             </script>
                         </div>
                         </body>
-						
-						 
+
+
 					</div>
 				</div>
 			</div>
             {% endif %}
-            
-            
+
+
              <!-- Author Box -->
-                {% if page.author %}				
+                {% if page.author %}
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
                          {% if author.avatar %}
-                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
-                        {% endif %} 
+                        <img class="rounded-circle" src="{{author.avatar}}" alt="{{author.name}}" width="90"/>
+                        {% endif %}
 					</div>
-					<div class="col-md-10">		
+					<div class="col-md-10">
 <!--                         <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5> -->
-						{{ author.bio }}					
+						{{ author.bio }}
 					</div>
-				</div>				
+				</div>
                 {% endif %}
-            
-            
+
+
 		</div>
-        
-        
+
+
 	</div>
 </div>
 
@@ -159,12 +159,12 @@ layout: default
         <div class="row prevnextlinks small font-weight-bold">
           {% if page.previous.url %}
             <div class="col-md-6 rightborder pl-0">
-                <a class="text-dark" href="{{ site.baseurl }}{{ page.previous.url }}">{% if page.previous.image %} <img height="30px" class="mr-1" src="{{site.baseurl}}/{{page.previous.image}}"> {% endif %} {{page.previous.title}}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ page.previous.url }}">{% if page.previous.image %} <img height="30px" class="mr-1" src="{{page.previous.image}}"> {% endif %} {{page.previous.title}}</a>
             </div>
           {% endif %}
           {% if page.next.url %}
             <div class="col-md-6 text-right pr-0">
-                <a class="text-dark" href="{{ site.baseurl }}{{ page.next.url }}"> {{page.next.title}} {% if page.next.image %} <img height="30px" class="ml-1" src="{{site.baseurl}}/{{page.next.image}}"> {% endif %}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ page.next.url }}"> {{page.next.title}} {% if page.next.image %} <img height="30px" class="ml-1" src="{{page.next.image}}"> {% endif %}</a>
             </div>
           {% endif %}
         </div>

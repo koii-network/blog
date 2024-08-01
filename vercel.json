@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.koii.network/blog/$1",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.koii.network"
+        }
+      ],
+      "permanent": true
+    }
+  ]
+}
