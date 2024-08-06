@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OrcaCompute: Revolutionizing Decentralized Physical 
-Infrastructure with DePinDex and Orca Node"
+Infrastructure with DePinDex"
 image: assets/images/blog/orcapartnership.png
 ---
 
