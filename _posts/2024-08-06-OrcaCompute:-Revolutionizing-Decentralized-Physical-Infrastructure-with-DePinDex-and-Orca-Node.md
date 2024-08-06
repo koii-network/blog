@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Koii X OrcaCompute partnership"
-categories: [Announcement]
+title: "OrcaCompute: Revolutionizing Decentralized Physical 
+Infrastructure with DePinDex and Orca Node"
 image: assets/images/blog/orcapartnership.png
 ---
 
