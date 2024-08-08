@@ -2,13 +2,14 @@
 layout: post
 title: "Koii and OrcaCompute Are Transforming the DePIN Landscape"
 image: assets/images/blog/orcapartnership.png
+description: "To streamline the integration and deployment of dApps, Orca takes a three-fold approach to DePINs: simplifying integration, finance, and deployment."
 ---
 
 Imagine a world where decentralized physical infrastructure networks (DePINs) seamlessly interact, trade resources, and scale effortlessly. This is the future that OrcaCompute and Koii are building together. OrcaCompute, with its groundbreaking DePinDex technology, bridges the gap between various DePINs. Meanwhile, Koii is revolutionizing SCALEs (Succinct Curated Acyclic Ledger Extensions) and CARP (Compute Attribution and Reputation Protocol), which are designed to enhance the scalability and reliability of decentralized networks by leveraging consumer compute capacity.
 
-Our collaboration is more than a partnership; it is a synergy of visions, technologies, and the mutual understanding of beneficial collaboration. By working together, OrcaCompute and Koii are setting new standards for interoperability, liquidity, and scalability in the DePIN sector. In the near future, DePIN projects launched on Koii can easily issue KPL tokens to incentivize a network of over 90,000 Koii nodes that offer digital resources. These tokens, Koii Program Library (KPL) Tokens, will immediately find a vibrant and liquid market of traders all within DePinDex who were already active and supporting various Koii tasks. These traders and network participants started their journey on Koii based on Koii's principles of #crowdBuild, #crowdSource and #crowdFund. 
+Our collaboration is more than a partnership; it is a synergy of visions, technologies, and the mutual understanding of beneficial collaboration. By working together, OrcaCompute and Koii are setting new standards for interoperability, liquidity, and scalability in the DePIN sector. In the near future, DePIN projects launched on Koii can easily issue KPL tokens to incentivize a network of over 90,000 Koii nodes that offer digital resources. These tokens, Koii Program Library (KPL) Tokens, will immediately find a vibrant and liquid market of traders all within DePinDex who were already active and supporting various Koii tasks. These traders and network participants started their journey on Koii based on Koii's principles of #crowdBuild, #crowdSource and #crowdFund.
 
-**DePinDex**  
+**DePinDex**
 
 DePinDex stands at the forefront of OrcaCompute's revolutionary suite of tools. As the world's first decentralized exchange specifically designed for DePINs, DePinDex tackles the fragmented nature of the current DePIN landscape. It provides a comprehensive layer that enables seamless trading of computational resources, efficient liquidity management, and unprecedented interoperability among different DePIN projects.
 
@@ -62,9 +63,8 @@ As we look to the future, we envision a world where DePINs are the backbone of a
 The collaboration between OrcaCompute and Koii is set to redefine the DePIN landscape. With DePinDex providing unparalleled liquidity and interoperability and Orca Node simplifying deployment and scaling, we're not just solving today's challenges—we're building the infrastructure of tomorrow's decentralized world.
 We invite the community, developers, and potential partners to join us on this transformative journey. Explore the possibilities, contribute to the ecosystem, and be part of the DePIN revolution.
 
-
 Visit Orca: [HERE](www.orcaCompute.com)
- 
+
 Visit Orca [Twitter (X)](https://x.com/OrcaCompute)
 
 Start your node on Koii today: [HERE](https://www.koii.network/nodes)
