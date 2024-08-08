@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<title>{{ page.seo-title | default: page.title }} | {{site.name}}</title>
+  {% seo title=false %}
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -12,9 +14,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{{page.title}} | {{site.name}}</title>
     <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;400;500;600;700&display=swap" rel="stylesheet">
-    {% seo %}
 
     <!-- Favicons -->
     <link rel="shortcut icon" href="{{ site.favicon_ico | relative_url }}" type="image/x-icon" />
@@ -41,8 +41,6 @@
     src="https://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
-
-
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
