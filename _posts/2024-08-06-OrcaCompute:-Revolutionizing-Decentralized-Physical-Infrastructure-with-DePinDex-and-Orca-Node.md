@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Koii and OrcaCompute Are Transforming the DePIN Landscape"
-image: /assets/images/blog/orcapartnership.png
+image: assets/images/blog/orcapartnership.png
 description: "To streamline the integration and deployment of dApps, Orca takes a three-fold approach to DePINs: simplifying integration, finance, and deployment."
 ---
 
