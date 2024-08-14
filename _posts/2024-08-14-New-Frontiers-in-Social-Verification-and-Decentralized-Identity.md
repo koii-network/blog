@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Frontiers in Social Verification and Decentralized Identity"
-image: assets/images/Social.png
+image: assets/images/sc.png
 ---
 
 As Web3 continues to evolve, questions arise about the future of our digital identities and social interactions. Can decentralized identity systems transform how we verify and trust one another online? What role might social verification play in a decentralized web? As we navigate the evolving landscape of Web3, a crucial question emerges: What is the meaning of decentralized social networks, and can decentralized identity truly transform Web3? This article explores the intersection of social verification and decentralized identity, examining their potential to reshape our digital interactions and reclaim control over our online presence.
