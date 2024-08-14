@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to create your Koii wallet? A Comprehensive Guide"
-image: assets/images/Wallet.png
+image: assets/images/wallet.png
 ---
 # How to Create Your Koii Wallet: A Comprehensive Guide
 
