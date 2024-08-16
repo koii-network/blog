@@ -18,6 +18,7 @@ main.site-content {
 }
 .navbar-brand span {
 	color: #ffffff;
+	margin-left: 0.5rem;
 	font-family: "Sora", sans-serif;
 }
 a.text-dark {
