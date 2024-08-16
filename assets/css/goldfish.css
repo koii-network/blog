@@ -16,7 +16,7 @@ footer.bg-white {
 main.site-content {
 	margin-top: 3rem;
 }
-.navbar-brand strong {
+.navbar-brand span {
 	color: #ffffff;
 	font-family: "Sora", sans-serif;
 }
