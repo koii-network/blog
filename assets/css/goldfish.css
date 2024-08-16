@@ -3,9 +3,9 @@
  */
 
 
-/* 
+/*
     $lightBlue rgba(94,217,209,.4);
-    $darkBlue: #171753; 
+    $darkBlue: #171753;
 */
 
 body.homefirstpage, .topnav.bg-white, .card-body, footer.bg-white {
@@ -15,7 +15,7 @@ main.site-content {
     margin-top: 3rem;
 }
 .navbar-brand strong {
-    color: #171753;
+    color: #ffffff;
 }
 a.text-dark {
     color: #171753 !important;
