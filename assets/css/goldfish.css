@@ -2,94 +2,101 @@
  * Custom edits go in this file
  */
 
-
 /*
     $lightBlue rgba(94,217,209,.4);
     $darkBlue: #171753;
 */
 
-body.homefirstpage, .topnav.bg-white, .card-body, footer.bg-white {
-    background: rgb(94 217 209) !important;
+body.homefirstpage,
+.topnav.bg-white,
+.card-body,
+footer.bg-white {
+	background: rgb(94 217 209) !important;
 }
 main.site-content {
-    margin-top: 3rem;
+	margin-top: 3rem;
 }
 .navbar-brand strong {
-    color: #ffffff;
+	color: #ffffff;
+	font-family: "Sora", sans-serif;
 }
 a.text-dark {
-    color: #171753 !important;
+	color: #171753 !important;
 }
 h4.font-weight-bold.spanborder {
-    color: #171753;
+	color: #171753;
 }
 .tryNow a.nav-link {
-    color: white !important;
-    background: #171753 !important;
-    float: right;
-    margin-left: 3rem;
-    margin-right: -8rem;
-    font-weight: 600;
-    position: absolute;
-    top: 1rem;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+	color: white !important;
+	background: #171753 !important;
+	float: right;
+	margin-left: 3rem;
+	margin-right: -8rem;
+	font-weight: 600;
+	position: absolute;
+	top: 1rem;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
 }
 .tryNow a.nav-link:hover {
-    color: #95e7e2 !important;
+	color: #95e7e2 !important;
 }
 div#navbarColor02 {
-    background: transparent;
+	background: transparent;
 }
 
 img.icon {
-    max-height: 3.5rem;
+	max-height: 3.5rem;
 }
 a.navbar-brand {
-    padding: 0;
+	padding: 0;
 }
 
 // beta rebrand
-main.site-content, .card-body.px-0.pb-0.d-flex.flex-column.align-items-start {
-    background: white !important;
+main.site-content,
+.card-body.px-0.pb-0.d-flex.flex-column.align-items-start {
+	background: white !important;
 }
 nav#MagicMenu {
-    background: #171753 !important;
-    color: white !important;
+	background: #171753 !important;
+	color: white !important;
 }
-body.homefirstpage, .topnav.bg-white, .card-body, footer.bg-white {
-    background: white !important;
+body.homefirstpage,
+.topnav.bg-white,
+.card-body,
+footer.bg-white {
+	background: white !important;
 }
 av a.nav-link {
-    color: white !important;
-    font-weight: 600;
+	color: white !important;
+	font-weight: 600;
 }
 .tryNow a.nav-link {
-    border-radius: 0.25rem;
-    border: 1px solid white;
-    margin-top: -0.3rem;
+	border-radius: 0.25rem;
+	border: 1px solid white;
+	margin-top: -0.3rem;
 }
 footer strong {
-    color: white !important;
+	color: white !important;
 }
 a.nav-link {
-    color: white !important;
-    font-weight: 600 !important;
+	color: white !important;
+	font-weight: 600 !important;
 }
 
 a.cta_button {
-    font-family: 'Catamaran';
-    padding: 0.5rem 2rem 0.5rem 2rem;
-    font-size: 1.5rem;
-    text-transform: uppercase;
-    background: #03a87c;
-    color: white;
+	font-family: "Catamaran";
+	padding: 0.5rem 2rem 0.5rem 2rem;
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	background: #03a87c;
+	color: white;
 }
 a.cta_button:hover {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 
 p img {
-    min-width: 50%;
-    margin: auto;
+	min-width: 50%;
+	margin: auto;
 }
