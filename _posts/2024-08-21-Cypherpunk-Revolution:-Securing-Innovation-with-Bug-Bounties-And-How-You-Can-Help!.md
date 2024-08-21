@@ -2,7 +2,8 @@
 layout: post
 title: "Cypherpunk Revolution: Securing Innovation with Bug Bounties And How You Can Help!"
 description: "Unleash Your Inner Hacker with Koii’s $10,000 Bug Bounty Challenge"
-image: assets/images/Bug.png
+categories: [Announcement]
+image: assets/images/Bug1.png
 ---
 
 
