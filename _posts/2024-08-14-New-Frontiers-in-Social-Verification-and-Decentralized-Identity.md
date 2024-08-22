@@ -3,6 +3,7 @@ layout: post
 title: "New Frontiers in Social Verification and Decentralized Identity"
 seo-title: "Social Verification and Decentralized Identity"
 description: "Koii’s decentralized network offers opportunities that address the needs of social verification and decentralized identity"
+categories: [Announcement]
 image: assets/images/sc.png
 ---
 
