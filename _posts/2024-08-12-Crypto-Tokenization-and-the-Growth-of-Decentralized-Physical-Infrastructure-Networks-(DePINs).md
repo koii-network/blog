@@ -3,6 +3,7 @@ layout: post
 title: "Crypto, Tokenization, and the Growth of Decentralized Physical Infrastructure Networks (DePINs)"
 seo-title: "Crypto and Tokenization in the DePIN Narrative"
 description: "Koii's self-organizing ecosystem enhances access to infrastructure assets through a decentralized model, bringing crypto and tokenization into the DePIN narrative"
+categories: [Announcement]
 image: assets/images/Decentralization.png
 ---
 
