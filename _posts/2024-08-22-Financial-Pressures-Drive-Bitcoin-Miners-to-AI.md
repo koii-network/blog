@@ -2,7 +2,7 @@
 layout: post
 title: "Financial Pressures Drive Bitcoin Miners to AI: Exploring the Shift to Sustainable Alternatives"
 categories: [Announcement]
-image: assets/images/Financial_Pressures.png
+image: assets/images/Financial.png
 ---
 
 # The Escalation of Bitcoin Mining
