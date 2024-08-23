@@ -9,7 +9,7 @@ image: assets/images/Bug1.png
 
 # Unleash Your Inner Hacker with Koii’s $10,000 Bug Bounty Challenge
 
-[![Submit Bug Bounty](https://img.shields.io/badge/Submit%20Bug%20Here-blue?)](https://forms.gle/2Eh5p757iKAKdSb76)
+[![Submit Bug Bounty](https://img.shields.io/badge/Submit%20Bug%20Here-steelblue?)](https://forms.gle/2Eh5p757iKAKdSb76)
 
 
 In the wild west of blockchain, stakes are high and the potential is limitless. Yet, even the most advanced systems need stress testing—and who better to do it than you? That’s right, we’re inviting you to try your hand at breaking Koii. With a $10,000 bug bounty challenge on the table, it’s time to roll up your sleeves, fire up your imagination, and see just how far you can push the limits of Koii’s technology.
