@@ -3,6 +3,7 @@ layout: post
 title: "How to create your Koii wallet? A Comprehensive Guide"
 seo-title: "How to create your Koii wallet?"
 description: "Finnie is Koii’s most user-friendly wallet. It’s ideal for those who prefer a straightforward and browser-based experience"
+categories: [Announcement]
 image: assets/images/wallet.png
 ---
 
