@@ -5,7 +5,7 @@ categories: [Announcement]
 image: assets/images/0904-1.png
 ---
 
-In the rapidly evolving landscape of artificial intelligence, decentralized AI is emerging as a powerful alternative to traditional centralized models. [ORCA]{https://www.orcacompute.com/} Containers, a key technology in this space, are revolutionizing how developers approach AI deployment within Decentralized Physical Infrastructure Networks (DePIN). This article provides a technical overview of ORCA Containers and their role in supporting decentralized AI development.
+In the rapidly evolving landscape of artificial intelligence, decentralized AI is emerging as a powerful alternative to traditional centralized models. [ORCA](https://www.orcacompute.com/) Containers, a key technology in this space, are revolutionizing how developers approach AI deployment within Decentralized Physical Infrastructure Networks (DePIN). This article provides a technical overview of ORCA Containers and their role in supporting decentralized AI development.
 
 ## Technical Challenges in Centralized AI
 
@@ -85,4 +85,4 @@ Future development efforts are focused on addressing these challenges and expand
 
 ORCA Containers represent a significant leap forward in decentralized AI development. By providing a robust, scalable, and efficient platform for AI deployment in DePIN environments, they open up new possibilities for developers to create innovative, privacy-preserving, and highly scalable AI applications.
 
-As a developer, embracing ORCA and the broader decentralized AI ecosystem can provide you with powerful tools to overcome the limitations of centralized systems and build the next generation of AI applications. Find out more about ORCA [here]{https://www.orcacompute.com/}.
+As a developer, embracing ORCA and the broader decentralized AI ecosystem can provide you with powerful tools to overcome the limitations of centralized systems and build the next generation of AI applications. Find out more about ORCA [here](https://www.orcacompute.com/).
