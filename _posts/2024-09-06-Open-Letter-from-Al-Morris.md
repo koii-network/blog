@@ -28,7 +28,7 @@ Unlike networks that have fallen victim to manipulation, **Koii was built to res
 
 ## Learning from Others’ Mistakes
 
-The failures we’ve seen with Grass underscore the need for **constant vigilance**. At Koii, we’ve been laser-focused on building a **secure and fair network** that benefits participants, not bad actors. **COILabs** has integrated multiple safeguards—ensuring every token is backed by **real value**, and that **manipulation is impossible**.
+The failures we’ve seen with Grass underscore the need for **constant vigilance**. At Koii, we’ve been laser-focused on building a **secure and fair network** that benefits participants, not bad actors. **Koii Labs** has integrated multiple safeguards—ensuring every token is backed by **real value**, and that **manipulation is impossible**.
 
 ## Bug Bounty: Strengthening Koii Together
 
