@@ -14,13 +14,13 @@ At this point in a normal article, we'd bombard you with buzzwords like "paradig
 
 ## The Sonos Situation: When the Music Stops
 
-Sonos, known for its high-quality wireless speakers and home sound systems, recently faced a crisis that left many users frustrated. An app update, intended to improve user experience, instead resulted in widespread issues. Users reported problems ranging from device malfunctions to complete system failures, rendering their expensive audio setups useless.
+[Sonos](https://www.sonos.com/en-gb/home), known for its high-quality wireless speakers and home sound systems, recently faced a crisis that left many users frustrated. An app update, intended to improve user experience, instead resulted in widespread issues. Users reported problems ranging from device malfunctions to complete system failures, rendering their expensive audio setups useless.
 
 This situation goes beyond mere inconvenience. It represents a breach of trust and a significant financial loss for users who had invested heavily in their systems. The Sonos crisis exemplifies the vulnerability of centralized systems: when a central authority controls all aspects—from software updates to data management—a single mistake can have far-reaching consequences.
 
 ## FriendTech: The Social Network That Unfriended Itself
 
-While the Sonos situation highlights the dangers of centralization, the recent [FriendTech](https://www.theblock.co/post/315172/friend-tech-team-renounces-control-of-smart-contracts-following-stagnant-growth?modal=newsletter) burnout showcases the other extreme. FriendTech, a Web3 social network that saw explosive growth in 2023, effectively shut down after its developers renounced control over its smart contracts.
+While the Sonos situation highlights the dangers of centralization, the recent [FriendTech burnout](https://www.theblock.co/post/315172/friend-tech-team-renounces-control-of-smart-contracts-following-stagnant-growth?modal=newsletter) showcases the other extreme. FriendTech, a Web3 social network that saw explosive growth in 2023, effectively shut down after its developers renounced control over its smart contracts.
 
 Initially a hit in the crypto community, FriendTech allowed users to trade tokens for 'keys' to influential individuals' feeds. But after an initial surge, the platform struggled to maintain activity. In a surprising move, the developers transferred control of the platform's smart contracts to Ethereum's null address, locking the current system in place and preventing further changes.
 
