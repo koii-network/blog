@@ -2,7 +2,7 @@
 layout: post
 title: "The Seven Pillars of Crypto Centralization: A Critical Examination"
 categories: [Announcement]
-image: assets/images/0919.png
+image: assets/images/0920.png
 
 ---
 
