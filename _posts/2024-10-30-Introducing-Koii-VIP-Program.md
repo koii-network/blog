@@ -40,7 +40,11 @@ The Koii VIP Program is crafted to reward loyalty, provide exclusive access, and
 
 VIPs gain access to special tokens available exclusively to Koii holders through Allbridge, giving you an edge in the ecosystem.
 
-- **Priority Access to New Tasks and RPC Channels**
+- **Immediate Access to New Tasks with KPL Tokens**
+
+VIPs receive KPL tokens as soon as new tasks are added to the Desktop Node, enabling them to start tasks immediately without waiting for the KPL token miner cycle.
+
+- **Priority Access to Exclusive Tasks and RPC Channels**
 
 VIP members have a dedicated RPC channel, ensuring uninterrupted access to the latest tasks and updates.
 
