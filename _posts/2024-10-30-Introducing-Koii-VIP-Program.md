@@ -19,15 +19,15 @@ By creating an exclusive tier, we aim to reward those who contribute meaningfull
 
 Becoming a Koii VIP is possible through several exciting channels:
 
-1. **Active Participation in Weekly Events**
+- **Active Participation in Weekly Events**
 
 Each week, Koii Labs hosts special events and challenges where the top 5-7 participants are awarded VIP seats. These events provide unique opportunities for users to engage and secure a direct path to VIP status.
 
-2. **Node Running Performance**
+- **Node Running Performance**
 
 For active node runners, the top 5 users with the highest submissions each week are added to the VIP program. This encourages consistent engagement and rewards dedicated node runners with VIP access.
 
-3. **Exceptional Performances in Exclusive Events**
+- **Exceptional Performances in Exclusive Events**
 
 Select special events, such as hackathons and themed events (e.g., Halloween, Christmas), offer additional VIP seats. Participants who stand out in these exclusive events, handpicked by our team, can also earn a spot in the VIP program.
 
