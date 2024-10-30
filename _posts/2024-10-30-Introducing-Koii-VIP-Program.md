@@ -82,6 +82,6 @@ VIP members can continue participating in weekly events and node running challen
 
 The Koii VIP Program is more than just rewards; it’s an invitation to become a vital part of our network’s growth and success. Whether through weekly challenges, referral programs, or exclusive events, VIP members gain access to unique opportunities and are celebrated as core contributors to the Koii ecosystem.\
 \
-If you’re ready to take your Koii experience to the next level, start engaging, referring, and rising through the ranks. Join us in shaping the future of Koii Network—where every action counts and every member has a chance to shine.\
+If you’re ready to take your Koii experience to the next level, follow [Koii Lab Offical Twitter Account](https://x.com/koii_labs)! Start engaging, referring, and rising through the ranks. Join us in shaping the future of Koii Network—where every action counts and every member has a chance to shine.\
 \
 Become a Koii VIP. Lead the way.
