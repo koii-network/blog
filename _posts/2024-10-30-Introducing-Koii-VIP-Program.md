@@ -64,6 +64,10 @@ Every two weeks, VIPs can participate in exclusive competitions and challenges, 
 
 Enjoy a special, highlighted role in the community Discord, reflecting your VIP status and enabling you to connect with other top members.
 
+- **VIP-Exclusive Telegram Group**
+
+Join an exclusive VIP Telegram group, where top members connect, share insights, and get first-hand updates directly from the Koii team.
+
 - **And More!**
 
 The Koii VIP Program is more than just perks—it's your gateway to the frontlines of the Koii Network!
