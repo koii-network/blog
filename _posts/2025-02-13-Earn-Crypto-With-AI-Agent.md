@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THIS IS A TEST"
+title: "Earn Crypto With AI Agents"
 categories: [Announcement]
 image: assets/images/posts/earn-crypto-with-ai/earn-with-ai-blog-thumbnail.png
 
