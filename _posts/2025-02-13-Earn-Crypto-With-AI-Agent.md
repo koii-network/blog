@@ -7,7 +7,7 @@ image: assets/images/posts/earn-crypto-with-ai/earn-with-ai-blog-thumbnail.png
 
 ---
 
-# Meet Prometheus, Your Code-Writing Revenue Generator
+# Introducing Prometheus, Your Code-Writing Revenue Generator
 
 The **Prometheus 24/7 Builder** task creates and manages an advanced **AI agent** that works around the clock to write high-quality code, consistently **earning you KOII tokens** in return.
 
