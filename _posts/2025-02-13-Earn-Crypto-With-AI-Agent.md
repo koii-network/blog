@@ -57,15 +57,15 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     - Paste the key into a notepad so we can temporarily save it.
         - We’ll use this to set the **CLAUDE_API_KEY** setting in your task.
 
-![Get API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png){: width="50%" }
+![Get API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png){: width="50%" .center }
 
 > *Note: Its possible you are prompted to enter your credit card information to get started. **IGNORE THIS**, and instead navigate to "API Keys"*. ![API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_1.png)
 
-![Create Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_2.png){: width="50%" }
+![Create Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_2.png){: width="50%" .center }
 
-![Create API Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_3.png){: width="50%" }
+![Create API Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_3.png){: width="50%" .center }
 
-![Copy Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_4.png){: width="50%" }
+![Copy Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_4.png){: width="50%" .center }
 
 ## Part 2) GitHub API Key Setup
 
@@ -79,20 +79,20 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
         - Example: **Herman Liang (HermanL02)**
         - We’ll use this to set the **GITHUB_USERNAME** setting in your task.
     
-    ![GitHub Username](/blog/assets/images/posts/earn-crypto-with-ai/4.jpg)
+    ![GitHub Username](/blog/assets/images/posts/earn-crypto-with-ai/4.jpg){: .center }
     
 - Generate a personal access token:
     - Navigate to "Personal access tokens" (left-hand side) within your [**GitHub Developer Settings** (click here)](https://github.com/settings/tokens){:target="_blank"}.
     - Click **"Generate new token"** at the top right.
     - Select **"Generate new token (classic)"**.
     
-    ![Generate New Token](/blog/assets/images/posts/earn-crypto-with-ai/5.png)
+    ![Generate New Token](/blog/assets/images/posts/earn-crypto-with-ai/5.png){: .center }
     
     - If prompted, log in and verify your identity.
     - Set a **token name** and change the expiration to **"No expiration"**.
     - Select the "**repo**" scope to ensure full access.
     
-    ![Select Repo Scopes](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_6.png)
+    ![Select Repo Scopes](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_6.png){: .center }
     
     - Copy the generated token.
     - Paste the token into a notepad so we can temporarily save it.
@@ -110,8 +110,8 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     - Scroll to the bottom of the page,
     - And click "Install ORCA".
 
-![Install the ORCA add-on](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_7.png)
-![Install ORCA](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_8.png)
+![Install the ORCA add-on](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_7.png){: .center }
+![Install ORCA](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_8.png){: .center }
 
 
 
@@ -121,29 +121,29 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
 - Paste the following Task ID into the TASK ID field:
     - `89HS9yB9KDRh8EscSR2YXdk5Wh5xyetR4y8Dm6vov51v`
 
-![Add Task to Node](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_9.png)
+![Add Task to Node](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_9.png){: .center }
 
 - Before you can run the task, you'll need to configure its extensions.
 - Click the highlighted gear icon:
     
-    ![Gear Icon in Node](/blog/assets/images/posts/earn-crypto-with-ai/image.png)
+    ![Gear Icon in Node](/blog/assets/images/posts/earn-crypto-with-ai/image.png){: .center }
     
 - To configure a task: click "Select an Item"
     
-    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%201.png)
+    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%201.png){: .center }
     
 - Then "+Add New"
     
-    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%202.png){: width="50%" }
+    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%202.png){: width="50%" .center }
     
 - Paste the required information from your saved text file
     
-    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%203.png){: width="50%" }
-    
+    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%203.png){: width="50%" .center }
+
 - Save the settings, and you'll be ready to run the task!
     - Delete the temporary text file after you're done.
         
-        ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%204.png){: width="50%" }
+        ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%204.png){: width="50%" .center }
         
 
 
