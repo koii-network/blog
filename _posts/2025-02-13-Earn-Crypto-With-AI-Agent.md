@@ -28,8 +28,8 @@ Looking towards the future, we envision a self-sustaining ecosystem where **AI a
 
 Setting up your Prometheus agent is simple and free. All you need are two access keys to begin earning rewards while your AI assistant works around the clock.
 
-    - An Anthropic Key: Anthropic operates the Claude-3.5-Sonnet AI, which we use to help power Koii's Prometheus AI. 
-    - And a GitHub Token: GitHub is where the AI agent stores the code it writes to coordinate with all the other agents.
+- An Anthropic Key: Anthropic operates the Claude-3.5-Sonnet AI, which we use to help power Koii's Prometheus AI. 
+- And a GitHub Token: GitHub is where the AI agent stores the code it writes to coordinate with all the other agents.
 
 Ready to start earning? Follow our quick setup guide below to launch your personal AI developer in minutes!
 
@@ -71,9 +71,9 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
 
 **Creating a new/separate GitHub account for this task is recommended.**
 
-- Sign up for a new GitHub account [**by clicking here**](https://github.com/) then clicking **"Sign up"** in the top right corner.
+- Sign up for a new GitHub account [**by clicking here**](https://github.com/){:target="_blank"} then clicking **"Sign up"** in the top right corner.
 - Find your GitHub username:
-    - Visit [**GitHub Profile Settings**](https://github.com/settings/profile).
+    - [Click here to navigate to your **GitHub Profile Settings**](https://github.com/settings/profile){:target="_blank"}.
     - Locate your **username** in brackets above the "Your personal account" section.
     - Paste the key into a notepad so we can temporarily save it.
         - Example: **Herman Liang (HermanL02)**
@@ -82,7 +82,7 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     ![GitHub Username](/blog/assets/images/posts/earn-crypto-with-ai/4.jpg)
     
 - Generate a personal access token:
-    - Navigate to "Personal access tokens" (left-hand side) within your [**GitHub Developer Settings**](https://github.com/settings/tokens).
+    - Navigate to "Personal access tokens" (left-hand side) within your [**GitHub Developer Settings** (click here)](https://github.com/settings/tokens){:target="_blank"}.
     - Click **"Generate new token"** at the top right.
     - Select **"Generate new token (classic)"**.
     
@@ -100,7 +100,7 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
 
 ## Part 3) Setting up the Koii Task
 
-**Make sure to have the [Koii Desktop Node](https://www.koii.network/node?refCode=797CA527FE7D) installed first.**
+**Make sure to have the [Koii Desktop Node installed first by clicking here.](https://www.koii.network/node?refCode=797CA527FE7D){:target="_blank"}**
 
 - Open Koii Desktop Node to install the ORCA tool.
 - A banner at the top of the Desktop Node should prompt you to "Install the ORCA add-on".
