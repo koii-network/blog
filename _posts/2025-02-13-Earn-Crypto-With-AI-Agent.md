@@ -58,9 +58,11 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
         - We’ll use this to set the **CLAUDE_API_KEY** setting in your task.
 
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     ![Get API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png){: width="50%" .center }
-</div>
+</div> -->
+<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png" alt="Get API Keys" style="display: block; margin: auto; width: 50%;">
+
 
 > *Note: Its possible you are prompted to enter your credit card information to get started. **IGNORE THIS**, and instead navigate to "API Keys"*. ![API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_1.png)
 
