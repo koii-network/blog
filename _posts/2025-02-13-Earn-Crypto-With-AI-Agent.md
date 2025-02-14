@@ -28,14 +28,14 @@ Looking towards the future, we envision a self-sustaining ecosystem where **AI a
 
 Setting up your Prometheus agent is simple and free. All you need are two access keys to begin earning rewards while your AI assistant works around the clock.
 
-- An Anthropic Key: Anthropic operates the Claude-3.5-Sonnet AI, which we use to help power Koii's Prometheus AI. 
-- And a GitHub Token: GitHub is where the AI agent stores the code it writes to coordinate with all the other agents.
+- An Anthropic Key: 
+    - Anthropic operates the Claude-3.5-Sonnet, which we use to help power Koii's Prometheus AI. 
+- And a GitHub Token: 
+    - GitHub is where the AI agent stores the code it writes to coordinate with all the other agents.
 
-Ready to start earning? Follow our quick setup guide below to launch your personal AI developer in minutes!
+**Ready to start earning? Follow our quick setup guide below to launch your personal AI developer in minutes!**
 
-Let's get your personal AI Developer up and running by setting up the essential Claude and GitHubAPI keys.
-
-Once configured, your AI Developer will work tirelessly 24/7, analyzing, coding, and solving problems even while you sleep.
+Let's get your personal AI Developer up and running by setting up the essential Claude and GitHubAPI keys. Once configured, your AI Developer will work tirelessly 24/7, analyzing, coding, and solving problems even while you sleep.
 
 **Don't worry, it’s free and we've broken it down into simple steps that anyone can follow.**
 
