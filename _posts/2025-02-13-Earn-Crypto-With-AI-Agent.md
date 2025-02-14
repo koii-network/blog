@@ -50,7 +50,7 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
 - Visit [Anthropic Console](https://console.anthropic.com/) and sign up or log in.
 - Check your **free** credit limit at the top left corner of the [**Billing Settings**](https://console.anthropic.com/settings/billing) page.
 
-![Eg. It is $18.35 in the image.](blog/assets/images/posts/earn-crypto-with-ai/balance.png)
+![Eg. It is $18.35 in the image.](/blog/assets/images/posts/earn-crypto-with-ai/balance.png)
 
 Eg. It is $18.35 in the image. 
 
@@ -68,7 +68,7 @@ Eg. It is $18.35 in the image.
     - Paste the key into a notepad so we can temporarily save it.
         - We’ll use this to set the **CLAUDE_API_KEY** setting in your task.
 
-![3.jpg](/assets/images/posts/earn-crypto-with-ai/3.jpg)
+![3.jpg](/blog/assets/images/posts/earn-crypto-with-ai/3.jpg)
 
 ## Part 2) GitHub API Key Setup
 
@@ -82,20 +82,20 @@ Eg. It is $18.35 in the image.
         - Example: **Herman Liang (HermanL02)**
         - We’ll use this to set the **GITHUB_USERNAME** setting in your task.
     
-    ![4.jpg](/assets/images/posts/earn-crypto-with-ai/4.jpg)
+    ![4.jpg](/blog/assets/images/posts/earn-crypto-with-ai/4.jpg)
     
 - Generate a personal access token:
     - Go to [**GitHub Tokens Settings**](https://github.com/settings/tokens).
     - Click **"Generate new token"** at the top right.
     - Select **"Generate new token (classic)"**.
     
-    ![5.png](/assets/images/posts/earn-crypto-with-ai/5.png)
+    ![5.png](/blog/assets/images/posts/earn-crypto-with-ai/5.png)
     
     - Log in and verify your identity.
     - Set a **token name** and change the expiration to **"No expiration"**.
     - Select **repo scopes** to ensure full access.
     
-    ![6.png](/assets/images/posts/earn-crypto-with-ai/6.png)
+    ![6.png](/blog/assets/images/posts/earn-crypto-with-ai/6.png)
     
     - Copy the generated token.
     - Paste the token into a notepad so we can temporarily save it.
@@ -109,24 +109,24 @@ Eg. It is $18.35 in the image.
 - Before running the task, you'll need to configure its extensions.
 - Click the highlighted gear icon:
     
-    ![image.png](/assets/images/posts/earn-crypto-with-ai/image.png)
+    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image.png)
     
 - To configure a task: click "Select an Item"
     
-    ![image.png](/assets/images/posts/earn-crypto-with-ai/image%201.png)
+    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%201.png)
     
 - Then "+Add New"
     
-    ![image.png](/assets/images/posts/earn-crypto-with-ai/image%202.png)
+    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%202.png)
     
 - Paste the required information from your saved text file
     
-    ![image.png](/assets/images/posts/earn-crypto-with-ai/image%203.png)
+    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%203.png)
     
 - Save the settings, and you'll be ready to run the task!
     - Delete the temporary text file after you're done.
         
-        ![image.png](/assets/images/posts/earn-crypto-with-ai/image%204.png)
+        ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%204.png)
         
 
 <aside>
