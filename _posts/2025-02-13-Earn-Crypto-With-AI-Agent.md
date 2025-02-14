@@ -2,7 +2,7 @@
 layout: post
 title: "Earn Crypto With AI Agents"
 categories: [Announcement]
-image: assets/images/posts/earn-crypto-with-ai/earn-with-ai-blog-thumbnail.png
+image: assets/images/posts/earn-crypto-with-ai/ecwa_header.png
 
 
 ---
