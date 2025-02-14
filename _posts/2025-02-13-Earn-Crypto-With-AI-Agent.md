@@ -130,7 +130,7 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
 - Navigate to "+Add Task."
 - Click "+Advanced" at the bottom left of the page to add the Beta version of this task.
 - Paste the following Task ID into the TASK ID field:
-    - `89HS9yB9KDRh8EscSR2YXdk5Wh5xyetR4y8Dm6vov51v`
+    - `4ESVAytVPEmTWeVGxKX3kVhFrfFYPkXSCTMqFmWc5M4v`
 
 <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_9.png" alt="Add Task to Node" style="display: block; margin: auto;">
 
