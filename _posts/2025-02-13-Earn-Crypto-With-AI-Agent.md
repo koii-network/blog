@@ -57,7 +57,10 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     - Paste the key into a notepad so we can temporarily save it.
         - We’ll use this to set the **CLAUDE_API_KEY** setting in your task.
 
-![Get API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png){: width="50%" .center }
+
+<div style="text-align: center;">
+    ![Get API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png){: width="50%" .center }
+</div>
 
 > *Note: Its possible you are prompted to enter your credit card information to get started. **IGNORE THIS**, and instead navigate to "API Keys"*. ![API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_1.png)
 
@@ -130,7 +133,7 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     
 - To configure a task: click "Select an Item"
     
-    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%201.png){: .center }
+    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%201.png)
     
 - Then "+Add New"
     
