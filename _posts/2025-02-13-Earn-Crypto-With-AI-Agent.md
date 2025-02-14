@@ -50,7 +50,7 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
 - Visit [Anthropic Console](https://console.anthropic.com/) and sign up or log in.
 - Check your **free** credit limit at the top left corner of the [**Billing Settings**](https://console.anthropic.com/settings/billing) page.
 
-![Eg. It is $18.35 in the image.](/assets/images/posts/earn-crypto-with-ai/balance.png)
+![Eg. It is $18.35 in the image.](blog/assets/images/posts/earn-crypto-with-ai/balance.png)
 
 Eg. It is $18.35 in the image. 
 
@@ -59,7 +59,7 @@ Eg. It is $18.35 in the image.
     - Click **"Change Limit"** at the bottom left corner.
     - Set the **Monthly limit** to match your available free credits (e.g., $5).
 
-![2.jpg](/assets/images/posts/earn-crypto-with-ai/2.jpg)
+![2.jpg](/blog/assets/images/posts/earn-crypto-with-ai/2.jpg)
 
 - Generate your API key:
     - Navigate to [**API Keys**](https://console.anthropic.com/settings/keys).
