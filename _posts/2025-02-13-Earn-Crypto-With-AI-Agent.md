@@ -26,10 +26,11 @@ Looking towards the future, we envision a self-sustaining ecosystem where **AI a
 
 # Getting Started
 
-Setting up your Prometheus agent is simple and free. All you need are two access keys to begin earning rewards while your AI assistant works around the clock.
+Setting up your Prometheus agent is simple as can be. All you need are two access keys to begin earning rewards while your AI assistant works around the clock.
 
 - An Anthropic Key: 
-    - Anthropic operates the Claude-3.5-Sonnet, which we use to help power Koii's Prometheus AI. 
+    - Anthropic operates the Claude-3.5-Sonnet, which we use to help power Koii's Prometheus AI.
+    - 💸 Special Limited Time Offer (Feb 14th - Feb 21, 2025): Run the task and subscribe to the Anthropic platform with just $5 to receive $20+ in $KOII tokens as a reward - **a 4x return on your initial investment!**
 - And a GitHub Token: 
     - GitHub is where the AI agent stores the code it writes to coordinate with all the other agents.
 
@@ -37,7 +38,7 @@ Setting up your Prometheus agent is simple and free. All you need are two access
 
 Let's get your personal AI Developer up and running by setting up the essential Claude and GitHubAPI keys. Once configured, your AI Developer will work tirelessly 24/7, analyzing, coding, and solving problems even while you sleep.
 
-**Don't worry, it’s free and we've broken it down into simple steps that anyone can follow.**
+**Don't worry, we've broken it down into simple steps that anyone can follow.**
 
 ## How to make an AI Developer work 24/7 for you
 
@@ -45,9 +46,18 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
 
 ## Part 1) Anthropic API Key Setup
 
-**Creating a new/separate GitHub account for this task is recommended.**
+**Creating a new/separate account for this task is recommended.**
 
 - [Click here to visit the **Anthropic Console**](https://console.anthropic.com/){:target="_blank"} and either create an account or log in.
+
+- Aquire Credits:
+    - With just a $5 investment in an API key, you’ll unlock access to powerful decentralized infrastructure and earn $20 in Koii rewards — **a 4x return on your initial investment!**
+    - To start earning, you need to first fund your account. [Click here to head to your Anthropic settings](https://console.anthropic.com/settings/billing){:target="_blank"}
+    - Click "Get Started" and follow the on-screen prompts to fund your account. Once complete, your billing page should display the available funds as account credits.
+
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_10.png" alt="" style="display: block; margin: auto; width: 50%;">
+
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_11.png" alt="" style="display: block; margin: auto; width: 50%;">
 
 - Generate your API key:
     - [Click here to navigate to your Anthropic **API Keys** page.](https://console.anthropic.com/settings/keys){:target="_blank"}
@@ -62,15 +72,9 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     ![Get API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png){: width="50%" .center }
 </div> -->
 <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png" alt="Get API Keys" style="display: block; margin: auto; width: 50%;">
-
-
-> *Note: Its possible you are prompted to enter your credit card information to get started. **IGNORE THIS**, and instead navigate to "API Keys"*. ![API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_1.png)
-
-![Create Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_2.png){: width="50%" .center }
-
-![Create API Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_3.png){: width="50%" .center }
-
-![Copy Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_4.png){: width="50%" .center }
+<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_2.png" alt="Create Key" style="display: block; margin: auto; width: 50%;">
+<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_3.png" alt="Create API Key" style="display: block; margin: auto; width: 50%;">
+<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_4.png" alt="Copy Key" style="display: block; margin: auto; width: 50%;">
 
 ## Part 2) GitHub API Key Setup
 
@@ -84,20 +88,20 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
         - Example: **Herman Liang (HermanL02)**
         - We’ll use this to set the **GITHUB_USERNAME** setting in your task.
     
-    ![GitHub Username](/blog/assets/images/posts/earn-crypto-with-ai/4.jpg){: .center }
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/4.jpg" alt="GitHub Username" style="display: block; margin: auto;">
     
 - Generate a personal access token:
     - Navigate to "Personal access tokens" (left-hand side) within your [**GitHub Developer Settings** (click here)](https://github.com/settings/tokens){:target="_blank"}.
     - Click **"Generate new token"** at the top right.
     - Select **"Generate new token (classic)"**.
     
-    ![Generate New Token](/blog/assets/images/posts/earn-crypto-with-ai/5.png){: .center }
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/5.png" alt="" style="display: block; margin: auto;">
     
     - If prompted, log in and verify your identity.
     - Set a **token name** and change the expiration to **"No expiration"**.
     - Select the "**repo**" scope to ensure full access.
     
-    ![Select Repo Scopes](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_6.png){: .center }
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_6.png" alt="Select Repo Scopes" style="display: block; margin: auto;">
     
     - Copy the generated token.
     - Paste the token into a notepad so we can temporarily save it.
@@ -115,10 +119,9 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     - Scroll to the bottom of the page,
     - And click "Install ORCA".
 
-![Install the ORCA add-on](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_7.png){: .center }
-![Install ORCA](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_8.png){: .center }
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_7.png" alt="Install the ORCA add-on" style="display: block; margin: auto;">
 
-
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_8.png" alt="Install ORCA" style="display: block; margin: auto;">
 
 - Next We'll need to add the Prometheus Beta task to your Node. N
 - Navigate to "+Add Task."
@@ -126,29 +129,29 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
 - Paste the following Task ID into the TASK ID field:
     - `89HS9yB9KDRh8EscSR2YXdk5Wh5xyetR4y8Dm6vov51v`
 
-![Add Task to Node](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_9.png){: .center }
+<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_9.png" alt="Add Task to Node" style="display: block; margin: auto;">
 
 - Before you can run the task, you'll need to configure its extensions.
 - Click the highlighted gear icon:
     
-    ![Gear Icon in Node](/blog/assets/images/posts/earn-crypto-with-ai/image.png){: .center }
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/image.png" alt="Gear Icon in Node" style="display: block; margin: auto;">
     
 - To configure a task: click "Select an Item"
     
-    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%201.png)
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/image%201.png" alt="" style="display: block; margin: auto;">
     
 - Then "+Add New"
     
-    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%202.png){: width="50%" .center }
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/image%202.png" alt="" style="display: block; margin: auto; width: 50%;">
     
 - Paste the required information from your saved text file
     
-    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%203.png){: width="50%" .center }
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/image%203.png" alt="" style="display: block; margin: auto; width: 50%;">
 
 - Save the settings, and you'll be ready to run the task!
     - Delete the temporary text file after you're done.
         
-        ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%204.png){: width="50%" .center }
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/image%204.png" alt="" style="display: block; margin: auto; width: 50%;">
         
 
 
