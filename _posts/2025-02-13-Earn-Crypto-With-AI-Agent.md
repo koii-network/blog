@@ -55,9 +55,9 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     - To start earning, you need to first fund your account. [Click here to head to your Anthropic settings](https://console.anthropic.com/settings/billing){:target="_blank"}
     - Click "Get Started" and follow the on-screen prompts to fund your account. Once complete, your billing page should display the available funds as account credits.
 
-    <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_10.png" alt="" style="display: block; margin: auto; width: 50%;">
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_10.png" alt="" style="display: block; margin: auto; width: 85%;">
 
-    <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_11.png" alt="" style="display: block; margin: auto; width: 50%;">
+    <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_11.png" alt="" style="display: block; margin: auto; width: 85%;">
 
 - Generate your API key:
     - [Click here to navigate to your Anthropic **API Keys** page.](https://console.anthropic.com/settings/keys){:target="_blank"}
@@ -72,9 +72,12 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     ![Get API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png){: width="50%" .center }
 </div> -->
 <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png" alt="Get API Keys" style="display: block; margin: auto; width: 50%;">
-<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_2.png" alt="Create Key" style="display: block; margin: auto; width: 50%;">
-<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_3.png" alt="Create API Key" style="display: block; margin: auto; width: 50%;">
-<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_4.png" alt="Copy Key" style="display: block; margin: auto; width: 50%;">
+
+<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_2.png" alt="Create Key" style="display: block; margin: auto; width: 85%;">
+
+<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_3.png" alt="Create API Key" style="display: block; margin: auto; width: 85%;">
+
+<img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_4.png" alt="Copy Key" style="display: block; margin: auto; width: 85%;">
 
 ## Part 2) GitHub API Key Setup
 
