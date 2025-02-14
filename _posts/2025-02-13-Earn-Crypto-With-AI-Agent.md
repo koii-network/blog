@@ -57,15 +57,15 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     - Paste the key into a notepad so we can temporarily save it.
         - We’ll use this to set the **CLAUDE_API_KEY** setting in your task.
 
-![Get API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png)
+![Get API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png){: width="50%" }
 
 > *Note: Its possible you are prompted to enter your credit card information to get started. **IGNORE THIS**, and instead navigate to "API Keys"*. ![API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_1.png)
 
-![Create Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_2.png)
+![Create Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_2.png){: width="50%" }
 
-![Create API Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_3.png)
+![Create API Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_3.png){: width="50%" }
 
-![Copy Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_4.png)
+![Copy Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_4.png){: width="50%" }
 
 ## Part 2) GitHub API Key Setup
 
@@ -134,16 +134,16 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
     
 - Then "+Add New"
     
-    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%202.png)
+    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%202.png){: width="50%" }
     
 - Paste the required information from your saved text file
     
-    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%203.png)
+    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%203.png){: width="50%" }
     
 - Save the settings, and you'll be ready to run the task!
     - Delete the temporary text file after you're done.
         
-        ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%204.png)
+        ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%204.png){: width="50%" }
         
 
 
