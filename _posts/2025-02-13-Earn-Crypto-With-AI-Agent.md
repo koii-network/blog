@@ -26,12 +26,12 @@ Looking towards the future, we envision a self-sustaining ecosystem where **AI a
 
 # Getting Started
 
-Setting up your Prometheus agent is simple and free. All you need are two API keys to begin earning rewards while your AI assistant works around the clock.
+Setting up your Prometheus agent is simple and free. All you need are two access keys to begin earning rewards while your AI assistant works around the clock.
 
-<aside>
+    - An Anthropic Key: Anthropic operates the Claude-3.5-Sonnet AI, which we use to help power Koii's Prometheus AI. 
+    - And a GitHub Token: GitHub is where the AI agent stores the code it writes to coordinate with all the other agents.
+
 Ready to start earning? Follow our quick setup guide below to launch your personal AI developer in minutes!
-
-</aside>
 
 Let's get your personal AI Developer up and running by setting up the essential Claude and GitHubAPI keys.
 
@@ -43,38 +43,35 @@ Once configured, your AI Developer will work tirelessly 24/7, analyzing, coding,
 
 Before we start you will need two simple keys to make your AI Developer work. First we need a Claude key that lets your AI Developer think and solve problems. Second we need a GitHub key that lets your AI Developer work with code. We will show you how to get both keys and add them to your Koii Task.
 
-## Part 1) Claude API Key Setup
+## Part 1) Anthropic API Key Setup
 
 **Creating a new/separate GitHub account for this task is recommended.**
 
-- Visit [Anthropic Console](https://console.anthropic.com/) and sign up or log in.
-- Check your **free** credit limit at the top left corner of the [**Billing Settings**](https://console.anthropic.com/settings/billing) page.
-
-![Eg. It is $18.35 in the image.](/blog/assets/images/posts/earn-crypto-with-ai/balance.png)
-
-Eg. It is $18.35 in the image. 
-
-- Adjust your monthly usage limit:
-    - Go to [**Limits Settings**](https://console.anthropic.com/settings/limits).
-    - Click **"Change Limit"** at the bottom left corner.
-    - Set the **Monthly limit** to match your available free credits (e.g., $5).
-
-![2.jpg](/blog/assets/images/posts/earn-crypto-with-ai/2.jpg)
+- [Click here to visit the **Anthropic Console**](https://console.anthropic.com/){:target="_blank"} and either create an account or log in.
 
 - Generate your API key:
-    - Navigate to [**API Keys**](https://console.anthropic.com/settings/keys).
-    - Click **“+Create Key”** at the top right corner.
+    - [Click here to navigate to your Anthropic **API Keys** page.](https://console.anthropic.com/settings/keys){:target="_blank"}
+    - On that page, click **“+Create Key”** at the top right corner.
     - Enter a key name and copy the generated key.
+        - We recommend "Prometheus 247 Builder Beta"
     - Paste the key into a notepad so we can temporarily save it.
         - We’ll use this to set the **CLAUDE_API_KEY** setting in your task.
 
-![3.jpg](/blog/assets/images/posts/earn-crypto-with-ai/3.jpg)
+![Get API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_5.png)
+
+> *Note: Its possible you are prompted to enter your credit card information to get started. **IGNORE THIS**, and instead navigate to "API Keys"*. ![API Keys](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_1.png)
+
+![Create Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_2.png)
+
+![Create API Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_3.png)
+
+![Copy Key](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_4.png)
 
 ## Part 2) GitHub API Key Setup
 
 **Creating a new/separate GitHub account for this task is recommended.**
 
-- Sign up for a new GitHub account at [GitHub](https://github.com/) by clicking **"Sign up"** in the top right corner.
+- Sign up for a new GitHub account [**by clicking here**](https://github.com/) then clicking **"Sign up"** in the top right corner.
 - Find your GitHub username:
     - Visit [**GitHub Profile Settings**](https://github.com/settings/profile).
     - Locate your **username** in brackets above the "Your personal account" section.
@@ -82,20 +79,20 @@ Eg. It is $18.35 in the image.
         - Example: **Herman Liang (HermanL02)**
         - We’ll use this to set the **GITHUB_USERNAME** setting in your task.
     
-    ![4.jpg](/blog/assets/images/posts/earn-crypto-with-ai/4.jpg)
+    ![GitHub Username](/blog/assets/images/posts/earn-crypto-with-ai/4.jpg)
     
 - Generate a personal access token:
-    - Go to [**GitHub Tokens Settings**](https://github.com/settings/tokens).
+    - Navigate to "Personal access tokens" (left-hand side) within your [**GitHub Developer Settings**](https://github.com/settings/tokens).
     - Click **"Generate new token"** at the top right.
     - Select **"Generate new token (classic)"**.
     
-    ![5.png](/blog/assets/images/posts/earn-crypto-with-ai/5.png)
+    ![Generate New Token](/blog/assets/images/posts/earn-crypto-with-ai/5.png)
     
-    - Log in and verify your identity.
+    - If prompted, log in and verify your identity.
     - Set a **token name** and change the expiration to **"No expiration"**.
-    - Select **repo scopes** to ensure full access.
+    - Select the "**repo**" scope to ensure full access.
     
-    ![6.png](/blog/assets/images/posts/earn-crypto-with-ai/6.png)
+    ![Select Repo Scopes](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_6.png)
     
     - Copy the generated token.
     - Paste the token into a notepad so we can temporarily save it.
@@ -105,11 +102,31 @@ Eg. It is $18.35 in the image.
 
 **Make sure to have the [Koii Desktop Node](https://www.koii.network/node?refCode=797CA527FE7D) installed first.**
 
-- Open Koii Desktop Node and navigate to "+Add Task."
-- Before running the task, you'll need to configure its extensions.
+- Open Koii Desktop Node to install the ORCA tool.
+- A banner at the top of the Desktop Node should prompt you to "Install the ORCA add-on".
+    - If the banner doesn't show up;
+    - Navigate to Settings via the Gear icon in the top right,
+    - Click on Task Extensions on the left,
+    - Scroll to the bottom of the page,
+    - And click "Install ORCA".
+
+![Install the ORCA add-on](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_7.png)
+![Install ORCA](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_8.png)
+
+
+
+- Next We'll need to add the Prometheus Beta task to your Node. N
+- Navigate to "+Add Task."
+- Click "+Advanced" at the bottom left of the page to add the Beta version of this task.
+- Paste the following Task ID into the TASK ID field:
+    - `89HS9yB9KDRh8EscSR2YXdk5Wh5xyetR4y8Dm6vov51v`
+
+![Add Task to Node](/blog/assets/images/posts/earn-crypto-with-ai/ecwa_9.png)
+
+- Before you can run the task, you'll need to configure its extensions.
 - Click the highlighted gear icon:
     
-    ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image.png)
+    ![Gear Icon in Node](/blog/assets/images/posts/earn-crypto-with-ai/image.png)
     
 - To configure a task: click "Select an Item"
     
@@ -129,9 +146,5 @@ Eg. It is $18.35 in the image.
         ![image.png](/blog/assets/images/posts/earn-crypto-with-ai/image%204.png)
         
 
-<aside>
-⚠️
 
-If you're concerned about security, consider using dedicated accounts for this task. While we won’t access personal repositories, a separate account adds an extra layer of safety.
-
-</aside>
+>⚠️ If you're concerned about security, consider using dedicated accounts for this task. While we won’t access personal repositories, a separate account adds an extra layer of safety.
