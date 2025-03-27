@@ -1,26 +1,99 @@
-<!-- language-all: javascript -->
+# Koii Network Blog 🐠
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/koii-network/koii.X/main/.github/images/koii_logo.svg" width="224px"/><br/>
-  Create blog :fish:
-</h1>
-<p align="center">
-   <a href="https://discord.gg/koii-network" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="cli version" /></a>&nbsp;
-   <a href="http://koii.network/" target="_blank"> <img src="https://img.shields.io/badge/made%20by-koii-blue" alt="made-by-koii" /></a>&nbsp;
-</p>
+## 📝 Project Overview
 
-## ⚡️ Quick start
+This is the official blog repository for the [Koii Network](https://koii.network), a decentralized web platform focused on creating innovative blockchain and web3 solutions. The blog is built using Jekyll and serves as a central hub for publishing articles, announcements, and technical insights about the Koii ecosystem.
 
-Create a new file in `_post` folder. Name it like `date-title`, for example: 2022-04-20-Koii-x-Spheron-Working-Together.md. Then push the cover image to assets/images/blog/
+### Key Features
+- Static site generation with Jekyll
+- Markdown-based blog post creation
+- Responsive design
+- Easy content management
+- Integrated with Koii Network's web3 infrastructure
 
-Tags explain:
+## 🚀 Getting Started
 
-- layout: post (Do not need to change)
-- title: "" (Necessary, Your post's title)
-- subtitle: "The new standard for media-driven, community-owned DAOs" (OPTIONAL, post's subtitle)
-- button: "Open the Paper" (OPTIONAL)
-- buttonlink: (OPTIONAL, button's link that open a pdf file or other url)
-- author: (OPTIONAL)
-- authorlink: (OPTIONAL, author's twitter link')
-- categories: [Announcement] (Necessary, post category, do not need to change)
-- image: assets/images/blog/ (Necessary, Post cover image)
+### Prerequisites
+- Ruby (version 2.7 or higher)
+- Bundler
+- Jekyll
+
+### Local Development Setup
+
+1. Clone the repository
+```bash
+git clone https://github.com/koii-network/blog.git
+cd blog
+```
+
+2. Install dependencies
+```bash
+bundle install
+```
+
+3. Start the local development server
+```bash
+bundle exec jekyll serve
+```
+
+The site will be available at `http://localhost:4000`
+
+## 📝 Creating Blog Posts
+
+1. Navigate to the `_posts` directory
+2. Create a new markdown file with the naming convention: `YYYY-MM-DD-post-title.md`
+3. Use the following front matter template:
+
+```markdown
+---
+layout: post
+title: "Your Post Title"
+subtitle: "Optional subtitle"
+author: "Your Name"
+categories: [Announcement, Technical, etc.]
+image: assets/images/blog/your-cover-image.png
+---
+
+Your post content here...
+```
+
+4. Add your cover image to `assets/images/blog/`
+
+## 🌐 Deployment
+
+### Vercel
+This site is optimized for Vercel deployment. Simply connect your GitHub repository, and Vercel will automatically handle builds and deployments.
+
+### Manual Deployment
+```bash
+JEKYLL_ENV=production bundle exec jekyll build
+```
+
+## 🛠 Technologies
+
+- **Static Site Generator**: Jekyll
+- **Styling**: CSS
+- **Hosting**: Vercel
+- **Version Control**: Git
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 🔗 Connect with Koii
+
+- [Official Website](https://koii.network)
+- [Discord](https://discord.gg/koii-network)
+- [Twitter](https://twitter.com/koii_network)
+
+---
+
+🐠 Powered by Koii Network | Building the Decentralized Future
