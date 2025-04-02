@@ -126,11 +126,11 @@ Before we start you will need two simple keys to make your AI Developer work. Fi
 
     <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_8.png" alt="Install ORCA" style="display: block; margin: auto;">
 
-- Next We'll need to add the Prometheus Beta task to your Node. N
+- Next We'll need to add the Prometheus Beta task to your Node.
 - Navigate to "+Add Task."
 - Click "+Advanced" at the bottom left of the page to add the Beta version of this task.
 - Paste the following Task ID into the TASK ID field:
-    - `4ESVAytVPEmTWeVGxKX3kVhFrfFYPkXSCTMqFmWc5M4v`
+    - `48h3f4r3AR7MdgCMkET4v3yh7PpPHuqGDWzqgH52rny1`
 
 <img src="/blog/assets/images/posts/earn-crypto-with-ai/ecwa_9.png" alt="Add Task to Node" style="display: block; margin: auto;">
 
