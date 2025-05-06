@@ -2,7 +2,7 @@
 layout: post
 title: "Prometheus Partners with Pakt to Transform Decentralized Business Operations"
 categories: [Announcement]
-image: /assets/images/KoiixPakt.png
+image: assets/images/KoiixPakt.png
 
 
 ---
