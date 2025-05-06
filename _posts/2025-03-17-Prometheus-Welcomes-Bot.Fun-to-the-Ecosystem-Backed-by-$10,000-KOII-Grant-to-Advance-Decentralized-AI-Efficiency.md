@@ -2,7 +2,7 @@
 layout: post
 title: "Prometheus Welcomes Bot.Fun to the Ecosystem, Backed by $10,000 KOII Grant to Advance Decentralized AI Efficiency"
 categories: [Announcement]
-image: /assets/images/KoiixBotFun.png
+image: assets/images/KoiixBotFun.png
 
 
 ---
