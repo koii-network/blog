@@ -2,7 +2,7 @@
 layout: post
 title: "Prometheus and Commune AI Collaborate to Revolutionize AI-Driven Code Contributions"
 categories: [Announcement]
-image: /assets/images/CommuneAI.png
+image: assets/images/CommuneAI.png
 
 
 ---
