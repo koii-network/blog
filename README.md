@@ -9,7 +9,9 @@
    <a href="http://koii.network/" target="_blank"> <img src="https://img.shields.io/badge/made%20by-koii-blue" alt="made-by-koii" /></a>&nbsp;
 </p>
 
-## ⚡️ Quick start
+## How to create a new post
+
+### Step 1
 
 Create a new file in `_post` folder. Name it like `date-title`, for example: 2022-04-20-Koii-x-Spheron-Working-Together.md. Then push the cover image to assets/images/blog/
 
@@ -23,4 +25,24 @@ Tags explain:
 - author: (OPTIONAL)
 - authorlink: (OPTIONAL, author's twitter link')
 - categories: [Announcement] (Necessary, post category, do not need to change)
-- image: assets/images/blog/ (Necessary, Post cover image)
+- image: assets/images/blog/ (Necessary, Post cover image. Please make sure there is no "/" before asstes.)
+
+### Step 2
+
+Use .md format to write your article/post. You can check other posts as an example format. You can preview it by Vercel.
+
+### Step 3
+
+Once you finish your article. Save it and push the commit to draft branch. Then back to Gitlab, follow this steps:
+
+- Click "Merge requests"
+- Click "New Merge request"
+- Source branch select "draft" or the new branch name you created
+- Target branch select "master".
+- Give it quick description about your post in title. Please also use assign to me so that we can know who request the release.
+- After create a merge request, please review again to make sure everything looks good.
+- Once you click "Merge", the new blog will release in a few seconds. If you are unable to merge, please contact our devs for help.
+
+## Need support?
+
+Contact our devs for more helps such as image insert, url customize etc.
