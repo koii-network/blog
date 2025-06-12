@@ -7,7 +7,7 @@ image: assets/images/KoiixTrustWare.png
 
 ---
 
-Prometheus is excited to announce a strategic partnership with Trustware.io, the innovative developer behind the "Just Fucking Send It" payments protocol. This collaboration will integrate advanced cross-chain transactions and decentralized Oracle services into the Prometheus ecosystem, strengthening interoperability across major blockchains, including Koii Network. Additionally, Koii Node operators will gain new revenue opportunities by running Trustware Oracles and contributing to their development.
+Prometheus is excited to announce a strategic partnership with Trustware.io, the innovative developer behind the "Just Send It" payments protocol. This collaboration will integrate advanced cross-chain transactions and decentralized Oracle services into the Prometheus ecosystem, strengthening interoperability across major blockchains, including Koii Network. Additionally, Koii Node operators will gain new revenue opportunities by running Trustware Oracles and contributing to their development.
 
 Trustware allows users to send assets from anywhere to anything, without requiring prior relationships, often routing transactions through multiple blockchain hops via Axelar. With the integration of Allbridge, Trustware.io will now enable seamless transactions to and from Koii, enhancing Prometheus SDK capabilities. Allbridge’s powerful cross-chain bridging, already supporting major ecosystems, ensures that transactions between Koii, Avalanche, Polkadot, Polygon, and Stellar are faster, cheaper, and more private than ever before.
 
